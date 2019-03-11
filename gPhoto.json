@@ -1,0 +1,5767 @@
+{
+  "gPhoto/2014/IMG_0001.JPG": {
+    "size": 740914,
+    "stamp": "2014:05:23 21:47:37",
+    "hash": "b7307041a4c28734bbf6eb4887e22ed7e111e6e7"
+  },
+  "gPhoto/2014/IMG_0002.JPG": {
+    "size": 684232,
+    "stamp": "2014:05:23 21:48:06",
+    "hash": "c067717a058c76c774f826b5fdb21bdd841296d4"
+  },
+  "gPhoto/2014/IMG_0004.JPG": {
+    "size": 712535,
+    "stamp": "2014:05:23 22:11:50",
+    "hash": "24ba10900f7430647d6aad754a7c2cf2977df675"
+  },
+  "gPhoto/2014/IMG_0005.JPG": {
+    "size": 748383,
+    "stamp": "2014:05:23 22:11:57",
+    "hash": "d333193b29d977ee3923de7fd8fca6846b9111bf"
+  },
+  "gPhoto/2014/IMG_0006.JPG": {
+    "size": 757627,
+    "stamp": "2014:05:23 22:12:21",
+    "hash": "5df85450f8f2e0ea3641e6e70a6f174f7438f98d"
+  },
+  "gPhoto/2014/IMG_0007.JPG": {
+    "size": 760328,
+    "stamp": "2014:05:23 22:12:48",
+    "hash": "bed5a31da6a225b07985749a4fcb42d16b53a1db"
+  },
+  "gPhoto/2015/IMG_0031.JPG": {
+    "size": 1177865,
+    "stamp": "2015:06:19 21:21:05",
+    "hash": "7dcff464f5e9423625a30f6e20b08a587bad2d89"
+  },
+  "gPhoto/2015/IMG_0032.JPG": {
+    "size": 1141335,
+    "stamp": "2015:06:19 21:21:09",
+    "hash": "a85632d404d088c2fc73b54ee13507936850d2c1"
+  },
+  "gPhoto/2015/IMG_0033.JPG": {
+    "size": 1152924,
+    "stamp": "2015:06:19 21:21:17",
+    "hash": "98a1945094f870295787fc6083d429095a599205"
+  },
+  "gPhoto/2016/IMG_0046.JPG": {
+    "size": 962380,
+    "stamp": "Unknown",
+    "hash": "6c5420328cc1f63558d632f5e165bbf78e37d4c4"
+  },
+  "gPhoto/2016/IMG_0047.JPG": {
+    "size": 1361563,
+    "stamp": "2016:01:18 08:59:44",
+    "hash": "92562b0312acf50ac591709839f17c56e72dd711"
+  },
+  "gPhoto/2016/IMG_0048.JPG": {
+    "size": 1794167,
+    "stamp": "2016:01:18 08:59:47",
+    "hash": "5554d7d9cfb245b7af2d8d5f5c7476cb43988525"
+  },
+  "gPhoto/2016/IMG_0049.JPG": {
+    "size": 1754209,
+    "stamp": "2016:01:18 08:59:48",
+    "hash": "ba60c2cd96d7d6d71ba3e6d28650014669a7382a"
+  },
+  "gPhoto/2016/IMG_0050.JPG": {
+    "size": 1702847,
+    "stamp": "2016:01:18 09:00:02",
+    "hash": "475175aea0d5df66290c5909b233d60778218113"
+  },
+  "gPhoto/2016/IMG_0051.JPG": {
+    "size": 1308544,
+    "stamp": "2016:01:18 09:00:34",
+    "hash": "162e5bcabdd54d3ffd55f9243c7d5408a762f27c"
+  },
+  "gPhoto/2016/IMG_0052.JPG": {
+    "size": 1141958,
+    "stamp": "2016:01:18 09:00:41",
+    "hash": "d651f07b4e94d17ee0d8170cab16823729820069"
+  },
+  "gPhoto/2016/IMG_0053.JPG": {
+    "size": 1247124,
+    "stamp": "2016:01:18 09:01:06",
+    "hash": "1fe6ee3b3bd5ce6c0d16d9e78c3f50c680f11d55"
+  },
+  "gPhoto/2016/IMG_0054.JPG": {
+    "size": 1487780,
+    "stamp": "2016:01:18 09:01:16",
+    "hash": "69998a022c8d60e8d11dad59a64264d4fc775199"
+  },
+  "gPhoto/2016/IMG_0055.JPG": {
+    "size": 1428699,
+    "stamp": "2016:01:18 09:01:17",
+    "hash": "94123a7b8fcc6b701f93d6c1e1ccccd11cd0d91b"
+  },
+  "gPhoto/2016/IMG_0057.JPG": {
+    "size": 1589498,
+    "stamp": "2016:01:18 09:01:53",
+    "hash": "e5270846c56e0351581dd20d6ed76b9358694057"
+  },
+  "gPhoto/2016/IMG_0058.JPG": {
+    "size": 939272,
+    "stamp": "2016:01:18 09:02:07",
+    "hash": "8f4bc9d2a3e2bbc2853138de898f433aba6a0ead"
+  },
+  "gPhoto/2016/IMG_0059.JPG": {
+    "size": 996297,
+    "stamp": "2016:01:18 09:02:34",
+    "hash": "1b4025e99d64ed7fb029d7f8ef40d88abe036153"
+  },
+  "gPhoto/2016/IMG_0060.JPG": {
+    "size": 1035491,
+    "stamp": "2016:01:18 09:02:45",
+    "hash": "ed09e8f37e644b8d11997c12e6a1992b7e7c891b"
+  },
+  "gPhoto/2016/IMG_0061.JPG": {
+    "size": 867009,
+    "stamp": "2016:01:18 09:03:59",
+    "hash": "f79534fd7c779bd0db25aeca4fa176f11313c7e1"
+  },
+  "gPhoto/2016/IMG_0062.JPG": {
+    "size": 973155,
+    "stamp": "2016:01:18 09:04:06",
+    "hash": "f9a6bcceec48db3dbfe731ff7632361851d0afec"
+  },
+  "gPhoto/2016/IMG_0063.JPG": {
+    "size": 870564,
+    "stamp": "2016:01:18 09:05:05",
+    "hash": "cd04e55571f38124a6340a051979bb20ded71bfd"
+  },
+  "gPhoto/2016/IMG_0064.JPG": {
+    "size": 1219320,
+    "stamp": "2016:01:18 09:05:38",
+    "hash": "d44cf8c698f23dc9f3515a5c31ace8b8a2f218f0"
+  },
+  "gPhoto/2016/IMG_0065.JPG": {
+    "size": 703950,
+    "stamp": "2016:01:18 09:05:56",
+    "hash": "b09cf8e65970288e1df3832634fc8a4762dfbae6"
+  },
+  "gPhoto/2016/IMG_0066.JPG": {
+    "size": 659538,
+    "stamp": "2016:01:18 09:06:03",
+    "hash": "77892ae39a460c11ec8bf0a8d55c340aa4010bac"
+  },
+  "gPhoto/2016/IMG_0067.JPG": {
+    "size": 802380,
+    "stamp": "2016:01:18 09:06:47",
+    "hash": "f501c3937c41b00c7a59f1bb9c2b1af5dd8397ea"
+  },
+  "gPhoto/2016/IMG_0068.JPG": {
+    "size": 530746,
+    "stamp": "2016:01:18 09:06:55",
+    "hash": "656e340b4cadfbe7e71d50a068e43d97f00a6027"
+  },
+  "gPhoto/2016/IMG_0069.JPG": {
+    "size": 837283,
+    "stamp": "2016:01:18 09:07:02",
+    "hash": "6c3a2bc687cf10b0bd732d56cebda01eeac8e490"
+  },
+  "gPhoto/2016/IMG_0070.JPG": {
+    "size": 1394818,
+    "stamp": "2016:01:18 09:10:22",
+    "hash": "7eb67e96ad3bb6ed63536bf39c9f4b678731ad25"
+  },
+  "gPhoto/2016/IMG_0071.JPG": {
+    "size": 708776,
+    "stamp": "2016:01:18 09:10:31",
+    "hash": "922d7e91e5edc6460688e3d40ab89a3d7abbbf53"
+  },
+  "gPhoto/2016/IMG_0072.JPG": {
+    "size": 1486114,
+    "stamp": "2016:01:18 09:10:40",
+    "hash": "2fd90b50cadfa71e5966174494796f4ed419d356"
+  },
+  "gPhoto/2016/IMG_0073.JPG": {
+    "size": 1751650,
+    "stamp": "2016:01:18 09:10:48",
+    "hash": "96c93e023a6d76b95b1e71b5f5455eec431679fe"
+  },
+  "gPhoto/2016/IMG_0074.JPG": {
+    "size": 1463997,
+    "stamp": "2016:01:18 09:10:58",
+    "hash": "7088b9f80cad65d5495b278cda2ade9f2574f5a5"
+  },
+  "gPhoto/2016/IMG_0075.JPG": {
+    "size": 2154039,
+    "stamp": "2016:01:18 09:11:12",
+    "hash": "5bbe5673fd5a1c1a2bca16b93301bfb3ae51f3a7"
+  },
+  "gPhoto/2016/IMG_0076.JPG": {
+    "size": 1409251,
+    "stamp": "2016:01:18 13:40:45",
+    "hash": "337e6229d3c28c2d2b75cd87a8294defe915f676"
+  },
+  "gPhoto/2016/IMG_0077.JPG": {
+    "size": 1221095,
+    "stamp": "2016:01:18 13:40:50",
+    "hash": "39d352b375f1c0c30228a53664c089957484b5d7"
+  },
+  "gPhoto/2016/IMG_0078.JPG": {
+    "size": 1100131,
+    "stamp": "2016:01:18 13:40:53",
+    "hash": "cbab2a7128cb2c261311564bbcd0a0f4055c278a"
+  },
+  "gPhoto/2016/IMG_0079.JPG": {
+    "size": 1684897,
+    "stamp": "2016:01:18 13:40:56",
+    "hash": "70ecc932ad3f272e4ed2a91e9cc76294380ac86c"
+  },
+  "gPhoto/2016/IMG_0080.JPG": {
+    "size": 893226,
+    "stamp": "2016:01:19 11:21:51",
+    "hash": "2c971d77c0c181f608be33957db2e9eb7b80f1da"
+  },
+  "gPhoto/2016/IMG_0081.JPG": {
+    "size": 816506,
+    "stamp": "2016:01:19 11:21:55",
+    "hash": "69ff5533751ca46c4e4f8d42a902f4cce4708e20"
+  },
+  "gPhoto/2016/IMG_0082.JPG": {
+    "size": 941946,
+    "stamp": "2016:01:19 11:23:09",
+    "hash": "c558f3b74727539c3778af34cda1fc47858584dd"
+  },
+  "gPhoto/2016/IMG_0083.JPG": {
+    "size": 773401,
+    "stamp": "2016:01:19 11:51:07",
+    "hash": "5d125adfaef2846c099bd5beac7778b9c8ce0a18"
+  },
+  "gPhoto/2016/IMG_0088.JPG": {
+    "size": 1077023,
+    "stamp": "2016:01:25 19:45:26",
+    "hash": "bc91d13faacbb747b4678fa234d30c0365899651"
+  },
+  "gPhoto/2016/IMG_0089.JPG": {
+    "size": 440309,
+    "stamp": "2016:01:25 19:46:06",
+    "hash": "c2ca69aa6705bb9ac7acac7ecc90604b31ae8973"
+  },
+  "gPhoto/2016/IMG_0090.JPG": {
+    "size": 909579,
+    "stamp": "2016:01:25 19:46:09",
+    "hash": "4fe6de9099794c83f111a52a10437be6dc6831c5"
+  },
+  "gPhoto/2016/IMG_0091.JPG": {
+    "size": 767264,
+    "stamp": "2016:01:25 19:46:53",
+    "hash": "4e834ddb21f180d262e78a511bff56ecddf9e4a0"
+  },
+  "gPhoto/2016/IMG_0092.JPG": {
+    "size": 846790,
+    "stamp": "2016:01:25 19:46:56",
+    "hash": "a865232e5fb99b7153edc71f291f43e594b31200"
+  },
+  "gPhoto/2016/IMG_0104.JPG": {
+    "size": 1340892,
+    "stamp": "2016:04:18 09:12:33",
+    "hash": "2fdd37f31f374fdd6826f2c34877aadd49c4ec5f"
+  },
+  "gPhoto/2016/IMG_0105.JPG": {
+    "size": 1107669,
+    "stamp": "2016:04:18 09:14:45",
+    "hash": "54f42e74f38dfedf5f892d71123824b2569240f6"
+  },
+  "gPhoto/2016/IMG_0106.JPG": {
+    "size": 1389348,
+    "stamp": "2016:04:18 09:14:54",
+    "hash": "0eac8cdae8bb6b7a58929692e59bc939c5be89eb"
+  },
+  "gPhoto/2016/IMG_0107.JPG": {
+    "size": 1557272,
+    "stamp": "2016:04:18 09:18:08",
+    "hash": "6cb3ab63049ef25c5cbc75cbdd3927ef05f276bf"
+  },
+  "gPhoto/2016/IMG_0108.JPG": {
+    "size": 1547639,
+    "stamp": "2016:04:18 09:22:41",
+    "hash": "3a84343b660fcf4827f3319e3bae31424f6460be"
+  },
+  "gPhoto/2016/IMG_0110.JPG": {
+    "size": 1065350,
+    "stamp": "2016:04:18 09:30:43",
+    "hash": "561f566ad61d962062b1f5d7ce722c852c382857"
+  },
+  "gPhoto/2016/IMG_0111.JPG": {
+    "size": 1163591,
+    "stamp": "2016:04:18 09:30:44",
+    "hash": "be64f6808d3294d636bdd805b90d0ce7013b7165"
+  },
+  "gPhoto/2016/IMG_0112.JPG": {
+    "size": 1641483,
+    "stamp": "2016:04:18 17:41:55",
+    "hash": "f895a9ba2d272da570154b999d16d772b192fa66"
+  },
+  "gPhoto/2016/IMG_0113.JPG": {
+    "size": 1292201,
+    "stamp": "2016:04:18 17:42:04",
+    "hash": "14b7eddc3df79d3f682690437cab0af2d4182c10"
+  },
+  "gPhoto/2016/IMG_0114.JPG": {
+    "size": 1550696,
+    "stamp": "2016:04:18 17:42:10",
+    "hash": "063562ba932f55e28f9d86357a5de5eaad402a4b"
+  },
+  "gPhoto/2016/IMG_0115.JPG": {
+    "size": 1258042,
+    "stamp": "2016:04:19 09:29:30",
+    "hash": "ac35e17cc43b3c6cc730b17e437e4f1131417913"
+  },
+  "gPhoto/2016/IMG_0116.JPG": {
+    "size": 1240181,
+    "stamp": "2016:04:19 09:29:30",
+    "hash": "1cf24ae394e2cb9ce347c67eadabb5ee984464c4"
+  },
+  "gPhoto/2016/IMG_0117.JPG": {
+    "size": 1331116,
+    "stamp": "2016:04:19 09:30:08",
+    "hash": "fb9fac1114e302004c84f7151b4ab39d4774627d"
+  },
+  "gPhoto/2016/IMG_0118.JPG": {
+    "size": 1471094,
+    "stamp": "2016:04:19 09:30:43",
+    "hash": "4ed439661b046d97cf77dafde055afd2fa62d375"
+  },
+  "gPhoto/2016/IMG_0119.JPG": {
+    "size": 1177254,
+    "stamp": "2016:04:19 09:31:03",
+    "hash": "1854c02762cf17667ce943e4b493de8cf7c3646b"
+  },
+  "gPhoto/2016/IMG_0120.JPG": {
+    "size": 1623900,
+    "stamp": "2016:04:19 09:31:14",
+    "hash": "35cf37dd490f9e91b1964ad763eb5990ce350a54"
+  },
+  "gPhoto/2016/IMG_0121.JPG": {
+    "size": 1077809,
+    "stamp": "2016:04:19 09:32:40",
+    "hash": "1635cc972a480099e6a527dd863aee8aa3f37cee"
+  },
+  "gPhoto/2016/IMG_0122.JPG": {
+    "size": 1053485,
+    "stamp": "2016:04:19 09:32:40",
+    "hash": "aad983581beb5387f8c0708ff2c5c24283a876e1"
+  },
+  "gPhoto/2016/IMG_0123.JPG": {
+    "size": 1020694,
+    "stamp": "2016:04:19 09:32:53",
+    "hash": "4038a37eb54d1a6c9b20c6d831a0f11b52e3c5fb"
+  },
+  "gPhoto/2016/IMG_0124.JPG": {
+    "size": 1276936,
+    "stamp": "2016:04:19 09:34:23",
+    "hash": "3669bfb3473e14b0175dc384e449a27a56e003b1"
+  },
+  "gPhoto/2016/IMG_0125.JPG": {
+    "size": 1962375,
+    "stamp": "2016:04:19 09:35:29",
+    "hash": "00b8995c744fbfc1bcaf8ad2b6c804af9e835d77"
+  },
+  "gPhoto/2016/IMG_0126.JPG": {
+    "size": 1559217,
+    "stamp": "2016:04:19 09:35:29",
+    "hash": "04ee38e07870a6f62826dab42a7f612bdcb2f0d4"
+  },
+  "gPhoto/2016/IMG_0127.JPG": {
+    "size": 2582636,
+    "stamp": "2016:04:19 09:35:34",
+    "hash": "6d5bba956ccc4384329a67e843e805c6657d4727"
+  },
+  "gPhoto/2016/IMG_0128.JPG": {
+    "size": 2112362,
+    "stamp": "2016:04:19 09:36:13",
+    "hash": "23f888bd2434dbf21ac5bb09817a6611ca4b1df2"
+  },
+  "gPhoto/2016/IMG_0129.JPG": {
+    "size": 1700702,
+    "stamp": "2016:04:19 09:36:54",
+    "hash": "273d6c23678b4bdd23ebd0f9f3e6a5b90cdcd11d"
+  },
+  "gPhoto/2016/IMG_0130.JPG": {
+    "size": 2014444,
+    "stamp": "2016:04:19 09:37:00",
+    "hash": "0fb228d41b780062735c3ec3fcf9fe311fca52e5"
+  },
+  "gPhoto/2016/IMG_0131.JPG": {
+    "size": 2028544,
+    "stamp": "2016:04:19 09:37:00",
+    "hash": "ba4dc90e336e037b8eacddede0d23b6b8411cdb8"
+  },
+  "gPhoto/2016/IMG_0132.JPG": {
+    "size": 1182704,
+    "stamp": "2016:04:19 09:37:56",
+    "hash": "212cd84eaefb183d47cf505475be86c961d02997"
+  },
+  "gPhoto/2016/IMG_0133.JPG": {
+    "size": 733550,
+    "stamp": "2016:04:19 09:38:02",
+    "hash": "7a5ab184a0e97d9de1dfad96a48e04ba9281dbbc"
+  },
+  "gPhoto/2016/IMG_0134.JPG": {
+    "size": 1306336,
+    "stamp": "2016:04:19 09:41:32",
+    "hash": "36c4453133f672a77e740449d7a5eda2948dc190"
+  },
+  "gPhoto/2016/IMG_0135.JPG": {
+    "size": 1250656,
+    "stamp": "2016:04:19 09:41:32",
+    "hash": "6b8436aa4bb076930f9f888eedc146c4754c6a84"
+  },
+  "gPhoto/2016/IMG_0136.JPG": {
+    "size": 1280409,
+    "stamp": "2016:04:19 09:41:35",
+    "hash": "d3ce74cbd72d7a836957240fdff367902f46ee88"
+  },
+  "gPhoto/2016/IMG_0137.JPG": {
+    "size": 1308809,
+    "stamp": "2016:04:19 09:41:35",
+    "hash": "6ee46e0befd3a3f3cd4b6c66c6bf7cd70c06260d"
+  },
+  "gPhoto/2016/IMG_0138.JPG": {
+    "size": 2100460,
+    "stamp": "2016:04:19 09:41:59",
+    "hash": "b0e8c34421058c174f602032b6553ddea326fb4d"
+  },
+  "gPhoto/2016/IMG_0139.JPG": {
+    "size": 1917377,
+    "stamp": "2016:04:19 09:42:12",
+    "hash": "9f300e9fba29d43e6a1176dea16132aee46904b8"
+  },
+  "gPhoto/2016/IMG_0140.JPG": {
+    "size": 1348576,
+    "stamp": "2016:04:19 09:43:39",
+    "hash": "03e631e67a5aac857d6742f297c5a8a10bc9925a"
+  },
+  "gPhoto/2016/IMG_0141.JPG": {
+    "size": 1356917,
+    "stamp": "2016:04:19 09:43:43",
+    "hash": "5a84e30ef7ece2e94bc0e120e02ae4383ec2514e"
+  },
+  "gPhoto/2016/IMG_0142.JPG": {
+    "size": 1222672,
+    "stamp": "2016:04:19 09:44:03",
+    "hash": "80b23a244069afbadcd17a93c0f239875da10c99"
+  },
+  "gPhoto/2016/IMG_0146.JPG": {
+    "size": 1217819,
+    "stamp": "2016:05:22 07:46:52",
+    "hash": "66c9337ac688a53137b43417be0125fc87d35681"
+  },
+  "gPhoto/2016/IMG_0147.JPG": {
+    "size": 1124584,
+    "stamp": "2016:05:22 07:47:01",
+    "hash": "3ad2a2e8b1052462be6aea633c2ab3c9de0bf696"
+  },
+  "gPhoto/2016/IMG_0148.JPG": {
+    "size": 1387963,
+    "stamp": "2016:05:22 07:47:17",
+    "hash": "14a6153e742d2b38608287e38658b3f74469d57a"
+  },
+  "gPhoto/2016/IMG_0149.JPG": {
+    "size": 872025,
+    "stamp": "2016:05:22 07:47:22",
+    "hash": "2238d760315f6ccada67836cb8cb7f7d684a2f8d"
+  },
+  "gPhoto/2016/IMG_0150.JPG": {
+    "size": 1727700,
+    "stamp": "2016:07:13 15:39:50",
+    "hash": "0cd966c4166f8560ae1852d9f393437d59682bf0"
+  },
+  "gPhoto/2016/IMG_0151.JPG": {
+    "size": 971085,
+    "stamp": "2016:07:13 15:40:08",
+    "hash": "e8f272029b2a547a7ca78e44b2e66d3196d9170f"
+  },
+  "gPhoto/2016/IMG_0152.JPG": {
+    "size": 977824,
+    "stamp": "2016:07:13 15:40:13",
+    "hash": "fd2fa617e527683d85b52168a25c93183dac2131"
+  },
+  "gPhoto/2016/IMG_0153.JPG": {
+    "size": 810826,
+    "stamp": "2016:07:13 15:45:42",
+    "hash": "e5d75cc714016fd689274f849c2a6407bbdbf13b"
+  },
+  "gPhoto/2016/IMG_0154.JPG": {
+    "size": 1686245,
+    "stamp": "2016:07:13 15:45:48",
+    "hash": "35758be9f0333a2ad8874273cd3eb7485d857648"
+  },
+  "gPhoto/2016/IMG_0155.JPG": {
+    "size": 2001975,
+    "stamp": "2016:07:13 15:48:06",
+    "hash": "be82d185ea0c5bd2af3315d29ee09477dbe5601c"
+  },
+  "gPhoto/2016/IMG_0156.JPG": {
+    "size": 2039061,
+    "stamp": "2016:07:13 15:48:11",
+    "hash": "d4d0160de6ab754f5585ada1a7cfb357e0ee6634"
+  },
+  "gPhoto/2016/IMG_0157.JPG": {
+    "size": 2301614,
+    "stamp": "2016:07:13 15:48:13",
+    "hash": "d443eb44280228e40bc79cd2e6ab0e7e4e77743f"
+  },
+  "gPhoto/2016/IMG_0158.JPG": {
+    "size": 1843490,
+    "stamp": "2016:07:13 15:48:16",
+    "hash": "0b26ce546e2973c4396af6c0614b8c1467a4ba65"
+  },
+  "gPhoto/2016/IMG_0159.JPG": {
+    "size": 1992143,
+    "stamp": "2016:08:09 13:05:52",
+    "hash": "822544c4b5ad2d62716ec7dbd3d95fde9546c08a"
+  },
+  "gPhoto/2016/IMG_0160.JPG": {
+    "size": 2008072,
+    "stamp": "2016:08:09 13:05:55",
+    "hash": "96ecf1b7cfa29363d193e2d0a9b51b74c35b8f7f"
+  },
+  "gPhoto/2016/IMG_0161.JPG": {
+    "size": 1915536,
+    "stamp": "2016:08:09 13:06:11",
+    "hash": "8e583c94b17dfef6c7df8e3f2acbfa21bda61da8"
+  },
+  "gPhoto/2016/IMG_0162.JPG": {
+    "size": 1719673,
+    "stamp": "2016:08:09 13:06:14",
+    "hash": "423502eb5d0a0dcf2e29082e38ecab0b3b08303b"
+  },
+  "gPhoto/2016/IMG_0163.JPG": {
+    "size": 2275487,
+    "stamp": "2016:08:09 13:06:40",
+    "hash": "f1d5606786f5a19f0df771ee427e7f08941ccdf5"
+  },
+  "gPhoto/2016/IMG_0164.JPG": {
+    "size": 2205094,
+    "stamp": "2016:08:09 13:06:49",
+    "hash": "37bd0a8c943b3d5c163477833ac5fb725e9a3de7"
+  },
+  "gPhoto/2016/IMG_0165.JPG": {
+    "size": 1964834,
+    "stamp": "2016:08:09 13:06:53",
+    "hash": "1b778d903a6d4b33f9c269ebe6d7bcdb5ec3a22a"
+  },
+  "gPhoto/2016/IMG_0166.JPG": {
+    "size": 2575594,
+    "stamp": "2016:08:09 13:07:09",
+    "hash": "9b3c5a75ebd47cbcf7c767bc34e55c0b60671d6d"
+  },
+  "gPhoto/2016/IMG_0167.JPG": {
+    "size": 2416652,
+    "stamp": "2016:08:09 13:07:13",
+    "hash": "38e4ffcc6c9f1582090e7ef96dd515dee81c74ce"
+  },
+  "gPhoto/2016/IMG_0168.JPG": {
+    "size": 1902401,
+    "stamp": "2016:08:09 13:07:22",
+    "hash": "e5338e0c6a6b91b5ee6cf03455a3f8c328977924"
+  },
+  "gPhoto/2016/IMG_0169.JPG": {
+    "size": 1798959,
+    "stamp": "2016:08:09 13:07:24",
+    "hash": "c2f41ae190c1ccd7c7710393c80f6aa8b53dfebd"
+  },
+  "gPhoto/2016/IMG_0170.JPG": {
+    "size": 1870677,
+    "stamp": "2016:08:09 13:08:14",
+    "hash": "ba08dfa87556e41eeef07755583d0d3cbbc308b9"
+  },
+  "gPhoto/2016/IMG_0171.JPG": {
+    "size": 2108727,
+    "stamp": "2016:08:09 13:08:19",
+    "hash": "ff97e811a52091bf0b0bdbf45bc49c2ec68757b1"
+  },
+  "gPhoto/2016/IMG_0172.JPG": {
+    "size": 2485508,
+    "stamp": "2016:08:09 13:09:54",
+    "hash": "6f5ed2a02db2edc7e767811d867b42df02af204d"
+  },
+  "gPhoto/2016/IMG_0173.JPG": {
+    "size": 1987858,
+    "stamp": "2016:08:09 13:09:55",
+    "hash": "afd29e2e39ee5e3d7ac2e99c1d59619e0ad9c22b"
+  },
+  "gPhoto/2016/IMG_0174.JPG": {
+    "size": 971592,
+    "stamp": "2016:08:10 06:36:08",
+    "hash": "b60cefe9f703a1b0bef1834799507a3016df8797"
+  },
+  "gPhoto/2016/IMG_0177.JPG": {
+    "size": 885592,
+    "stamp": "2016:08:10 06:37:22",
+    "hash": "3e5f26043396fc8b3aa9523dc4f5ee0d8222b603"
+  },
+  "gPhoto/2016/IMG_0182.JPG": {
+    "size": 1500696,
+    "stamp": "2016:08:11 17:33:34",
+    "hash": "2c7331d13e6150193002a65334950f8be54cf0b8"
+  },
+  "gPhoto/2016/IMG_0183.JPG": {
+    "size": 1926625,
+    "stamp": "2016:08:11 17:33:43",
+    "hash": "9a203386b5704f8c6bc6371f5616b77351f917a8"
+  },
+  "gPhoto/2016/IMG_0184.JPG": {
+    "size": 1430380,
+    "stamp": "2016:08:11 17:34:15",
+    "hash": "7a4a1bb3126c2686ff69e60910f33ae23f51d170"
+  },
+  "gPhoto/2016/IMG_0185.JPG": {
+    "size": 1797982,
+    "stamp": "2016:08:11 17:34:35",
+    "hash": "4e48fa3dc102995b59e9188bc24129fbe7496eac"
+  },
+  "gPhoto/2016/IMG_0186.JPG": {
+    "size": 1873384,
+    "stamp": "2016:08:11 17:34:37",
+    "hash": "088fc52217bb417e119dd7be791d7012a72e9199"
+  },
+  "gPhoto/2016/IMG_0187.JPG": {
+    "size": 1874510,
+    "stamp": "2016:08:11 17:34:59",
+    "hash": "21ab988d192f18492e42f0424223b1fcc33a9d6b"
+  },
+  "gPhoto/2016/IMG_0188.JPG": {
+    "size": 1557096,
+    "stamp": "2016:08:11 18:09:57",
+    "hash": "1bd593b92d12013ed5f36029ec3ac43b06681e16"
+  },
+  "gPhoto/2016/IMG_0189.JPG": {
+    "size": 1847970,
+    "stamp": "2016:08:11 20:16:28",
+    "hash": "9b8507a007868a58b5265c7494ad6e045070cbd1"
+  },
+  "gPhoto/2016/IMG_0190.JPG": {
+    "size": 1246905,
+    "stamp": "2016:08:12 12:37:12",
+    "hash": "c2c527c53b33c8bec6317fa3cb1b46ee3085d9cd"
+  },
+  "gPhoto/2016/IMG_0191.JPG": {
+    "size": 1090419,
+    "stamp": "2016:08:12 12:37:27",
+    "hash": "76391e4be6b90bf5af79d4dcc506d4bf07fbb60f"
+  },
+  "gPhoto/2016/IMG_0195.JPG": {
+    "size": 1281418,
+    "stamp": "2016:08:14 11:52:58",
+    "hash": "e1faa92e60b1f225e7fc2aff2968e35b387609d7"
+  },
+  "gPhoto/2016/IMG_0196.JPG": {
+    "size": 1300409,
+    "stamp": "2016:08:14 11:53:05",
+    "hash": "02722cea546c247376565c70111b8469fed3e4a1"
+  },
+  "gPhoto/2016/IMG_0197.JPG": {
+    "size": 1646825,
+    "stamp": "2016:08:14 11:53:16",
+    "hash": "34f968d3c5da720383336986d5db140d7daee284"
+  },
+  "gPhoto/2016/IMG_0198.JPG": {
+    "size": 1186907,
+    "stamp": "2016:09:14 13:52:18",
+    "hash": "71c787c076a3bafc508d07ec78e85f00f3d18ea7"
+  },
+  "gPhoto/2016/IMG_0199.JPG": {
+    "size": 1010414,
+    "stamp": "2016:09:14 13:52:20",
+    "hash": "fd73e5b75af4645a338f976a76eb4e08227ae48a"
+  },
+  "gPhoto/2016/IMG_0200.JPG": {
+    "size": 1471163,
+    "stamp": "2016:09:14 13:52:32",
+    "hash": "3e86a16aed76a03f87cb029a569154e7a287bf84"
+  },
+  "gPhoto/2016/IMG_0201.JPG": {
+    "size": 1160183,
+    "stamp": "2016:09:14 13:52:40",
+    "hash": "251dd2ff72fec1f257bd11b1927555d53eb9d41b"
+  },
+  "gPhoto/2016/IMG_0202.JPG": {
+    "size": 2141385,
+    "stamp": "2016:09:14 13:52:47",
+    "hash": "38b231e6bd3b6fff2282184fe7c7b8a177c0c0f8"
+  },
+  "gPhoto/2016/IMG_0203.JPG": {
+    "size": 1122997,
+    "stamp": "2016:09:14 13:52:51",
+    "hash": "eea831e48e7bd14ca4683212f056baad6039bd8e"
+  },
+  "gPhoto/2016/IMG_0204.JPG": {
+    "size": 1600537,
+    "stamp": "2016:09:14 13:53:01",
+    "hash": "e5dbad8666ab755c6ab88db4421771f2a2772aec"
+  },
+  "gPhoto/2016/IMG_0205.JPG": {
+    "size": 569948,
+    "stamp": "2016:09:14 15:17:27",
+    "hash": "b98eff132a3762d60ee188b1285563157b8ac6c7"
+  },
+  "gPhoto/2016/IMG_0227.JPG": {
+    "size": 1196032,
+    "stamp": "2016:10:02 16:22:18",
+    "hash": "b34a5f68bd3e626f1db643254049b599e7f5fad3"
+  },
+  "gPhoto/2016/IMG_0228.JPG": {
+    "size": 797189,
+    "stamp": "2016:10:02 16:22:35",
+    "hash": "deba3c2db871616b7a8bee2254e5d2fd7698ed02"
+  },
+  "gPhoto/2016/IMG_0229.JPG": {
+    "size": 1655145,
+    "stamp": "2016:10:02 20:05:13",
+    "hash": "99f739ec544c14983791d0c8126d5c90dd681145"
+  },
+  "gPhoto/2016/IMG_0234.JPG": {
+    "size": 1549853,
+    "stamp": "2016:10:12 15:02:37",
+    "hash": "1d9e4f37817a23b324ddc9299514118b9d168b72"
+  },
+  "gPhoto/2016/IMG_0235.JPG": {
+    "size": 1378481,
+    "stamp": "2016:10:12 15:02:42",
+    "hash": "5479bb19dbfa7f53bdc1a01410d1bcb5fb8b75ca"
+  },
+  "gPhoto/2016/IMG_0240.JPG": {
+    "size": 1192682,
+    "stamp": "2016:11:25 13:03:18",
+    "hash": "ffaaf641c128f6c39b15cde7fd8a29b9039cf5e4"
+  },
+  "gPhoto/2016/IMG_0246.JPG": {
+    "size": 1200532,
+    "stamp": "2016:11:26 19:11:04",
+    "hash": "0ec285c90a1157d6c37a56b783076e258dd5e0ee"
+  },
+  "gPhoto/2016/IMG_0247.JPG": {
+    "size": 1566701,
+    "stamp": "2016:11:26 19:11:13",
+    "hash": "d635cbcaf9ce2fff53b893f44d68ac23ad020ae1"
+  },
+  "gPhoto/2016/IMG_0250.JPG": {
+    "size": 1222076,
+    "stamp": "2016:12:08 18:39:23",
+    "hash": "69e67a9061786af8746b7453a70081a698ab3cef"
+  },
+  "gPhoto/2016/IMG_0252.JPG": {
+    "size": 1682558,
+    "stamp": "2016:12:08 18:40:39",
+    "hash": "38c58a6ddd166012845fba22dbf3ebedeb48cee0"
+  },
+  "gPhoto/2016/IMG_0259.JPG": {
+    "size": 1417583,
+    "stamp": "2016:12:15 13:05:36",
+    "hash": "cccfff006153c0bfd81535e8c0149b892019bd26"
+  },
+  "gPhoto/2016/IMG_0264.JPG": {
+    "size": 1106862,
+    "stamp": "2016:12:15 13:08:16",
+    "hash": "a2bd6c745b662997a6b54904a9e827f59cc29c6f"
+  },
+  "gPhoto/2016/IMG_0265.JPG": {
+    "size": 1005157,
+    "stamp": "2016:12:23 19:36:15",
+    "hash": "a46814415616ee9fa0534230e125456e7580b90b"
+  },
+  "gPhoto/2016/IMG_0266.JPG": {
+    "size": 996050,
+    "stamp": "2016:12:23 19:36:21",
+    "hash": "6b40dafac24ad548a18f43b7dfd17857b436a23f"
+  },
+  "gPhoto/2016/IMG_0267.JPG": {
+    "size": 793595,
+    "stamp": "2016:12:23 19:36:29",
+    "hash": "6e3ced3ec139cefbda4f21a24bc429616cda53f6"
+  },
+  "gPhoto/2017/IMG_0002.JPG": {
+    "size": 1223424,
+    "stamp": "2017:08:07 17:47:00",
+    "hash": "ca580e05ce36d5367944025e172f8d9957b8f414"
+  },
+  "gPhoto/2017/IMG_0003.JPG": {
+    "size": 1158002,
+    "stamp": "2017:08:07 17:47:00",
+    "hash": "d6abf24adcdd12f6fc50201def17622dfd739ab5"
+  },
+  "gPhoto/2017/IMG_0006.JPG": {
+    "size": 1396647,
+    "stamp": "2017:08:07 17:47:13",
+    "hash": "d453bcc58ecd4bef259dc0bb6e70790e08d06ede"
+  },
+  "gPhoto/2017/IMG_0012.JPG": {
+    "size": 1818804,
+    "stamp": "2017:08:09 22:10:09",
+    "hash": "f30efd8565d66fe5c5118d1d431712fdf5edeb66"
+  },
+  "gPhoto/2017/IMG_0013.JPG": {
+    "size": 1693202,
+    "stamp": "2017:08:09 22:10:09",
+    "hash": "1815ad02946715891a0a0f18886929cf7b96a8f1"
+  },
+  "gPhoto/2017/IMG_0014.JPG": {
+    "size": 1686093,
+    "stamp": "2017:08:09 22:10:10",
+    "hash": "7afb8b255915cc4a168025bf138ee3f197c5d41a"
+  },
+  "gPhoto/2017/IMG_0015.JPG": {
+    "size": 1758861,
+    "stamp": "2017:08:09 22:10:10",
+    "hash": "3691e07d33d244c06b2444647b4f82b54a30dca9"
+  },
+  "gPhoto/2017/IMG_0016 (1).JPG": {
+    "size": 1593816,
+    "stamp": "2017:08:09 22:10:10",
+    "hash": "44ed6a9cac84ac099b1f3dea946043c9918af7ab"
+  },
+  "gPhoto/2017/IMG_0016.JPG": {
+    "size": 330461,
+    "stamp": "Unknown",
+    "hash": "b391ed4b84b584919e22349c16848e52f43d49c3"
+  },
+  "gPhoto/2017/IMG_0017.JPG": {
+    "size": 1667568,
+    "stamp": "2017:08:09 22:10:10",
+    "hash": "f1d8ce16254b48faed0514f7cf400d3a73992446"
+  },
+  "gPhoto/2017/IMG_0019.JPG": {
+    "size": 859183,
+    "stamp": "2017:07:14 11:12:39",
+    "hash": "b18be3288efb041831ea369664cdd2e9d6172155"
+  },
+  "gPhoto/2017/IMG_0020.JPG": {
+    "size": 816532,
+    "stamp": "2017:07:14 11:12:50",
+    "hash": "3e422b1155674c44f7ce58030068b6c05e803d59"
+  },
+  "gPhoto/2017/IMG_0021 (1).JPG": {
+    "size": 2079343,
+    "stamp": "2017:08:09 22:10:21",
+    "hash": "241e1e66c009851f8bca6a5973bfff60176cc950"
+  },
+  "gPhoto/2017/IMG_0021.JPG": {
+    "size": 1050861,
+    "stamp": "2017:07:14 11:13:01",
+    "hash": "170c233bfa566cdb58ca1d3a67df665913a4d059"
+  },
+  "gPhoto/2017/IMG_0022 (1).JPG": {
+    "size": 2127241,
+    "stamp": "2017:08:09 22:10:21",
+    "hash": "2d7e4c5658324a8fad5435d0e8a584e3b4abdbda"
+  },
+  "gPhoto/2017/IMG_0022.JPG": {
+    "size": 1058069,
+    "stamp": "2017:07:14 11:13:08",
+    "hash": "c9948ea7eda08e903f79cf18d6360ab14bfc79aa"
+  },
+  "gPhoto/2017/IMG_0023 (1).JPG": {
+    "size": 2032440,
+    "stamp": "2017:08:09 22:10:21",
+    "hash": "01a7248583edc299fba3eb813eeba858788ab993"
+  },
+  "gPhoto/2017/IMG_0023.JPG": {
+    "size": 1099451,
+    "stamp": "2017:07:14 11:13:25",
+    "hash": "5af8123e6334680431db60052b6611d652a20418"
+  },
+  "gPhoto/2017/IMG_0024 (1).JPG": {
+    "size": 2173161,
+    "stamp": "2017:08:09 22:10:21",
+    "hash": "f322f48dcedba708c7f0994d2d596cc377c08cda"
+  },
+  "gPhoto/2017/IMG_0024.JPG": {
+    "size": 863357,
+    "stamp": "2017:07:14 11:13:33",
+    "hash": "da01a8ca27d4d3457b8a18d75ca66586b13eb8a8"
+  },
+  "gPhoto/2017/IMG_0025 (1).JPG": {
+    "size": 1659243,
+    "stamp": "2017:08:09 22:10:34",
+    "hash": "976749cdcd78b8c25b6e73eef9e518962b94b57f"
+  },
+  "gPhoto/2017/IMG_0025.JPG": {
+    "size": 876863,
+    "stamp": "2017:07:14 11:13:39",
+    "hash": "c649b76f8db399649d3d28e9b9ad895954dfdea5"
+  },
+  "gPhoto/2017/IMG_0026 (1).JPG": {
+    "size": 1572837,
+    "stamp": "2017:08:09 22:10:36",
+    "hash": "4f67af37108a396d6cf06c6149ab46aabe81594d"
+  },
+  "gPhoto/2017/IMG_0026.JPG": {
+    "size": 994423,
+    "stamp": "2017:07:14 11:15:59",
+    "hash": "cc1cf795ae7fcd2df5bfb43db321cc1feda3e98b"
+  },
+  "gPhoto/2017/IMG_0027.JPG": {
+    "size": 2057048,
+    "stamp": "2017:08:09 22:10:47",
+    "hash": "077dfeed39da9b725ab44526cc20f3199490dcf6"
+  },
+  "gPhoto/2017/IMG_0028.JPG": {
+    "size": 1574356,
+    "stamp": "2017:08:09 22:10:47",
+    "hash": "c4f8d3ef68da855d68dcd5733aa5b9f4f6d6ab0f"
+  },
+  "gPhoto/2017/IMG_0029.JPG": {
+    "size": 1537538,
+    "stamp": "2017:08:09 22:10:48",
+    "hash": "f0ed59b67f065959f65cd67894ff79a20a1470cb"
+  },
+  "gPhoto/2017/IMG_0030.JPG": {
+    "size": 1766470,
+    "stamp": "2017:08:09 22:17:23",
+    "hash": "6acc8407387935cc448a47b293ca6903996fe317"
+  },
+  "gPhoto/2017/IMG_0031.JPG": {
+    "size": 1863879,
+    "stamp": "2017:08:09 22:17:23",
+    "hash": "74ea59206bbeb3a70fc21c12083c4cd74e4728f9"
+  },
+  "gPhoto/2017/IMG_0032.JPG": {
+    "size": 1636861,
+    "stamp": "2017:08:09 22:17:23",
+    "hash": "fa89cb6d19f55c99005f42f43a6914a3c20bb22a"
+  },
+  "gPhoto/2017/IMG_0033.JPG": {
+    "size": 1569463,
+    "stamp": "2017:08:09 22:17:23",
+    "hash": "192be9eaa340de0261a6d9edbed854dd9b0e3102"
+  },
+  "gPhoto/2017/IMG_0034.JPG": {
+    "size": 1455575,
+    "stamp": "2017:08:09 22:17:23",
+    "hash": "da71ca372593a47d46391f248e974d1c829936ce"
+  },
+  "gPhoto/2017/IMG_0035.JPG": {
+    "size": 1595398,
+    "stamp": "2017:08:09 22:17:34",
+    "hash": "1aec138d1cde2e49ea7cb43d21033fe4c9efec0c"
+  },
+  "gPhoto/2017/IMG_0036.JPG": {
+    "size": 1624064,
+    "stamp": "2017:08:09 22:17:34",
+    "hash": "657e52ceb58dc322ab45f4752bdb46b47bdf1c93"
+  },
+  "gPhoto/2017/IMG_0037.JPG": {
+    "size": 1408066,
+    "stamp": "2017:08:09 22:17:35",
+    "hash": "da3a3fa7e89c9346bd5521ed385c2a0c71b37ae2"
+  },
+  "gPhoto/2017/IMG_0038.JPG": {
+    "size": 1427315,
+    "stamp": "2017:08:11 11:07:48",
+    "hash": "42c2467f10691da4059de3f708351562b8114609"
+  },
+  "gPhoto/2017/IMG_0039.JPG": {
+    "size": 1404346,
+    "stamp": "2017:08:11 11:08:19",
+    "hash": "c463f102646b43121aa057a7436121ffea0d1264"
+  },
+  "gPhoto/2017/IMG_0040.JPG": {
+    "size": 1521749,
+    "stamp": "2017:08:11 11:08:32",
+    "hash": "b54d1cecdef5cff27a8061bd59a9b9d2ad2e72ba"
+  },
+  "gPhoto/2017/IMG_0041.JPG": {
+    "size": 1711877,
+    "stamp": "2017:08:11 11:08:58",
+    "hash": "69ad0652f0bf1aa01bad5f7acaf5057c7cfc577b"
+  },
+  "gPhoto/2017/IMG_0042.JPG": {
+    "size": 1632634,
+    "stamp": "2017:08:11 11:08:58",
+    "hash": "d24c202876a38910583c7f2260c8055d11c15303"
+  },
+  "gPhoto/2017/IMG_0043.JPG": {
+    "size": 1571192,
+    "stamp": "2017:08:11 11:08:58",
+    "hash": "f4fb8bb558070a3a33c3e45b5069c047f105f388"
+  },
+  "gPhoto/2017/IMG_0044.JPG": {
+    "size": 1531630,
+    "stamp": "2017:08:11 11:08:58",
+    "hash": "81fc4732a0942f1b9ca0356683b3b1d24859b588"
+  },
+  "gPhoto/2017/IMG_0045.JPG": {
+    "size": 1787569,
+    "stamp": "2017:08:11 11:08:58",
+    "hash": "e418c3f1b3f655428a22a8ff841a17c2ee97ad96"
+  },
+  "gPhoto/2017/IMG_0046.JPG": {
+    "size": 1716577,
+    "stamp": "2017:08:11 11:08:58",
+    "hash": "934b1a3a9d7d3abfba2a3f752e49fb2fc3b23a06"
+  },
+  "gPhoto/2017/IMG_0047.JPG": {
+    "size": 1736245,
+    "stamp": "2017:08:11 11:08:59",
+    "hash": "1aa1dde1975ad07526b302a81102c11bf63ec44b"
+  },
+  "gPhoto/2017/IMG_0048.JPG": {
+    "size": 1707449,
+    "stamp": "2017:08:11 11:08:59",
+    "hash": "9b61c20cd86bfd6bad8e51950747d3d7f98100e6"
+  },
+  "gPhoto/2017/IMG_0049.JPG": {
+    "size": 1718575,
+    "stamp": "2017:08:11 11:08:59",
+    "hash": "259f9d216e2779aeac1df4ce962de9ed586f6fe8"
+  },
+  "gPhoto/2017/IMG_0050.JPG": {
+    "size": 1515793,
+    "stamp": "2017:08:11 11:08:59",
+    "hash": "43a889f4370d4c0f96371455fdbc464bf223754c"
+  },
+  "gPhoto/2017/IMG_0051.JPG": {
+    "size": 1424857,
+    "stamp": "2017:08:11 11:08:59",
+    "hash": "1c55400e3aa1fbc9b582a90ff56ebdd4b1be2016"
+  },
+  "gPhoto/2017/IMG_0052.JPG": {
+    "size": 1632112,
+    "stamp": "2017:08:11 11:09:01",
+    "hash": "e554bae454d2170c0d583f9bb72062fd9165e46e"
+  },
+  "gPhoto/2017/IMG_0053.JPG": {
+    "size": 1552780,
+    "stamp": "2017:08:11 11:09:02",
+    "hash": "d9fd810fc615a07e98f3e7a05a75341a66e5a476"
+  },
+  "gPhoto/2017/IMG_0054.JPG": {
+    "size": 1538355,
+    "stamp": "2017:08:11 11:09:02",
+    "hash": "d4c479a4b8ee024d2989101ad38aac083397bb71"
+  },
+  "gPhoto/2017/IMG_0055.JPG": {
+    "size": 1730830,
+    "stamp": "2017:08:11 11:09:02",
+    "hash": "a5b99f0aff8f4658c7a650032e4bebe422c5d5aa"
+  },
+  "gPhoto/2017/IMG_0056.JPG": {
+    "size": 2497511,
+    "stamp": "2017:08:12 12:04:42",
+    "hash": "e28508637a6ffe183ae869881164dc67be4cf005"
+  },
+  "gPhoto/2017/IMG_0057.JPG": {
+    "size": 2720858,
+    "stamp": "2017:08:12 12:04:43",
+    "hash": "6b59ac3e24acecf2a305c9bd09e6f75dd8e4b2d7"
+  },
+  "gPhoto/2017/IMG_0058.JPG": {
+    "size": 2359448,
+    "stamp": "2017:08:12 12:04:43",
+    "hash": "8b222f9e46bf6ff15a1a3a332cbc2331babb2e33"
+  },
+  "gPhoto/2017/IMG_0059.JPG": {
+    "size": 2338793,
+    "stamp": "2017:08:12 12:04:43",
+    "hash": "ee67fbc49fc4bcc36fef4dbe41552aa10711e37e"
+  },
+  "gPhoto/2017/IMG_0060.JPG": {
+    "size": 4239795,
+    "stamp": "2017:08:12 12:04:52",
+    "hash": "78075841f1c1e3910e249d687bbb273f060f3174"
+  },
+  "gPhoto/2017/IMG_0061.JPG": {
+    "size": 3032500,
+    "stamp": "2017:08:12 12:04:52",
+    "hash": "5feac887cf02badd9691df8d4c3f749e1ef52519"
+  },
+  "gPhoto/2017/IMG_0062.JPG": {
+    "size": 2863346,
+    "stamp": "2017:08:12 12:04:52",
+    "hash": "479d6839aa58457e653781936ec4f7ab1fb82825"
+  },
+  "gPhoto/2017/IMG_0063.JPG": {
+    "size": 3117409,
+    "stamp": "2017:08:12 12:04:53",
+    "hash": "426c1ecacde0e8da62ddc8eea10452022df8151d"
+  },
+  "gPhoto/2017/IMG_0064.JPG": {
+    "size": 2973101,
+    "stamp": "2017:08:12 12:04:53",
+    "hash": "6d10a9e4ca07b62554d84f523f2fa075d3879ee0"
+  },
+  "gPhoto/2017/IMG_0065.JPG": {
+    "size": 4280604,
+    "stamp": "2017:08:12 12:05:06",
+    "hash": "6943631d2361e0332982c171f323968feea5fd22"
+  },
+  "gPhoto/2017/IMG_0066.JPG": {
+    "size": 2065719,
+    "stamp": "2017:08:12 12:05:08",
+    "hash": "d666ebda0dfe58dc84c405223f46dc6fc7e2f97c"
+  },
+  "gPhoto/2017/IMG_0067.JPG": {
+    "size": 2464504,
+    "stamp": "2017:08:12 12:05:08",
+    "hash": "849804c03d5ebdcbac7b8ba86f1ab0485967ad10"
+  },
+  "gPhoto/2017/IMG_0068.JPG": {
+    "size": 4297409,
+    "stamp": "2017:08:12 12:05:09",
+    "hash": "2ff943ef78eed935e16d48e3357609e32d3a5eb5"
+  },
+  "gPhoto/2017/IMG_0072.JPG": {
+    "size": 3662607,
+    "stamp": "2017:08:12 12:05:48",
+    "hash": "8f06aca31224c9b308aad857cff127f53f9c8a61"
+  },
+  "gPhoto/2017/IMG_0073.JPG": {
+    "size": 2757054,
+    "stamp": "2017:08:12 12:05:48",
+    "hash": "73e29edfd3f1cb98693a083c700f2fc5f7109cf8"
+  },
+  "gPhoto/2017/IMG_0074.JPG": {
+    "size": 3901342,
+    "stamp": "2017:08:12 12:05:48",
+    "hash": "eed660a84febb7ec1b5f55bf571da4c578bc105f"
+  },
+  "gPhoto/2017/IMG_0075.JPG": {
+    "size": 2732920,
+    "stamp": "2017:08:12 12:07:06",
+    "hash": "fe3da07019405c15d36796fb9037164117557377"
+  },
+  "gPhoto/2017/IMG_0076.JPG": {
+    "size": 2716603,
+    "stamp": "2017:08:12 12:07:06",
+    "hash": "1f52922b530e348a758e6194edb38747bd4b46ca"
+  },
+  "gPhoto/2017/IMG_0077.JPG": {
+    "size": 2252643,
+    "stamp": "2017:08:12 12:07:06",
+    "hash": "93bf20d32c81c16f25257ff5f9483fd2236b0f54"
+  },
+  "gPhoto/2017/IMG_0078.JPG": {
+    "size": 2677124,
+    "stamp": "2017:08:12 12:07:39",
+    "hash": "7254cfc3fe60682e2e1a42858a3400a3d883795a"
+  },
+  "gPhoto/2017/IMG_0083.JPG": {
+    "size": 3007932,
+    "stamp": "2017:08:12 12:07:56",
+    "hash": "7b970886e3b7453b276f09496bb8967232b1d718"
+  },
+  "gPhoto/2017/IMG_0084.JPG": {
+    "size": 2968564,
+    "stamp": "2017:08:12 12:07:59",
+    "hash": "2c0b3324bacbf1f48173e66b892614762b5cf193"
+  },
+  "gPhoto/2017/IMG_0085.JPG": {
+    "size": 1688417,
+    "stamp": "2017:08:13 19:26:44",
+    "hash": "72b6c5f5e325323633cf8465d3b56002aa7e4dca"
+  },
+  "gPhoto/2017/IMG_0086.JPG": {
+    "size": 1644543,
+    "stamp": "2017:08:13 19:28:37",
+    "hash": "d74e2ac6549309e668588108379f8c8e0b3eeb90"
+  },
+  "gPhoto/2017/IMG_0087.JPG": {
+    "size": 1632131,
+    "stamp": "2017:08:13 19:28:37",
+    "hash": "d27297cc79be22a73adf1e58a787b35a7e376695"
+  },
+  "gPhoto/2017/IMG_0088.JPG": {
+    "size": 1633010,
+    "stamp": "2017:08:13 19:28:37",
+    "hash": "0d420ebaee00a0641d362841119f5256a1a16e04"
+  },
+  "gPhoto/2017/IMG_0089.JPG": {
+    "size": 1639104,
+    "stamp": "2017:08:13 19:28:37",
+    "hash": "1a7e3f8f7dd165f1601e2e9932a8c0ad45735d0e"
+  },
+  "gPhoto/2017/IMG_0090.JPG": {
+    "size": 1618004,
+    "stamp": "2017:08:13 19:28:38",
+    "hash": "3be5b895a1f40d36f443b258f4d7495178e495c3"
+  },
+  "gPhoto/2017/IMG_0091.JPG": {
+    "size": 1595319,
+    "stamp": "2017:08:13 19:28:40",
+    "hash": "386097527e8ae1a00041ec9c16e33c41e8b83157"
+  },
+  "gPhoto/2017/IMG_0092.JPG": {
+    "size": 1878964,
+    "stamp": "2017:08:13 19:29:08",
+    "hash": "2a8206a6be7179996b05e0acf7b0de4e5441f492"
+  },
+  "gPhoto/2017/IMG_0093.JPG": {
+    "size": 1870494,
+    "stamp": "2017:08:13 19:29:08",
+    "hash": "1abd2203954161159ebf15fc8e58882a7e863d15"
+  },
+  "gPhoto/2017/IMG_0094.JPG": {
+    "size": 1869810,
+    "stamp": "2017:08:13 19:29:09",
+    "hash": "b8b04f7ecfc86a4483156eddb5442771c11d6031"
+  },
+  "gPhoto/2017/IMG_0095.JPG": {
+    "size": 1872237,
+    "stamp": "2017:08:13 19:29:09",
+    "hash": "65818fc8d8e61a77bc30945af683d1b7dcd17bf2"
+  },
+  "gPhoto/2017/IMG_0096.JPG": {
+    "size": 1866593,
+    "stamp": "2017:08:13 19:29:09",
+    "hash": "3fa6efada6d5046b3d0c6a97f581d2ac8ec2dda4"
+  },
+  "gPhoto/2017/IMG_0097.JPG": {
+    "size": 1877914,
+    "stamp": "2017:08:13 19:29:09",
+    "hash": "bbfeb83f348b36dad31eeb23ed6b5458b38bfea2"
+  },
+  "gPhoto/2017/IMG_0098.JPG": {
+    "size": 1869892,
+    "stamp": "2017:08:13 19:29:09",
+    "hash": "41c334f86db76f3ab1c511f32e7b36084b0e17bd"
+  },
+  "gPhoto/2017/IMG_0099.JPG": {
+    "size": 1917868,
+    "stamp": "2017:08:13 19:29:12",
+    "hash": "144b1c66c478218649b4bee10314344c91efef6d"
+  },
+  "gPhoto/2017/IMG_0101.JPG": {
+    "size": 1826684,
+    "stamp": "2017:08:13 19:57:37",
+    "hash": "0e2e092be3007a3e7a465a35555a0b5eb60f2dfe"
+  },
+  "gPhoto/2017/IMG_0102.JPG": {
+    "size": 1607710,
+    "stamp": "2017:08:13 19:57:48",
+    "hash": "2564ed307d81b7c3a66bfa4e1e321175836d9bac"
+  },
+  "gPhoto/2017/IMG_0105.JPG": {
+    "size": 1921042,
+    "stamp": "2017:08:13 20:01:03",
+    "hash": "39bac1fef663f1ceae4490ea117837a7f50b6a1e"
+  },
+  "gPhoto/2017/IMG_0108.JPG": {
+    "size": 2274349,
+    "stamp": "2017:08:13 20:05:08",
+    "hash": "17e33a28e36891d6192f3bf636e553dd0ece0266"
+  },
+  "gPhoto/2017/IMG_0109.JPG": {
+    "size": 2285700,
+    "stamp": "2017:08:13 20:05:08",
+    "hash": "72d5cb4584adf1340b42f95b3876f4fd91a7dbeb"
+  },
+  "gPhoto/2017/IMG_0110.JPG": {
+    "size": 2268559,
+    "stamp": "2017:08:13 20:05:08",
+    "hash": "76e8349286a451361b1f2c0343e966522018dc9b"
+  },
+  "gPhoto/2017/IMG_0111.JPG": {
+    "size": 2192697,
+    "stamp": "2017:08:13 20:05:43",
+    "hash": "4c81a4f059f9420a741a0b64273393af5c21ffb4"
+  },
+  "gPhoto/2017/IMG_0112.JPG": {
+    "size": 2221194,
+    "stamp": "2017:08:13 20:05:43",
+    "hash": "2e29a1dfa060559ab6160e18a7f2f2aa4f8596fc"
+  },
+  "gPhoto/2017/IMG_0113.JPG": {
+    "size": 1230384,
+    "stamp": "2017:08:13 20:06:12",
+    "hash": "4df6183eace9898503f4675272965fdf5e421dda"
+  },
+  "gPhoto/2017/IMG_0114.JPG": {
+    "size": 1228558,
+    "stamp": "2017:08:13 20:12:14",
+    "hash": "3900dd1f5657b57caf3e329ce6d231eb3fffa322"
+  },
+  "gPhoto/2017/IMG_0116.JPG": {
+    "size": 885231,
+    "stamp": "2017:08:13 22:09:08",
+    "hash": "d5763f8f99fc9f2da478bb6081bdf43561557fc3"
+  },
+  "gPhoto/2017/IMG_0118.JPG": {
+    "size": 1025230,
+    "stamp": "2017:08:13 22:12:47",
+    "hash": "57c6a672c9a95b11839d8f362ee8afd90adabf94"
+  },
+  "gPhoto/2017/IMG_0119.JPG": {
+    "size": 1973217,
+    "stamp": "2017:08:14 12:25:19",
+    "hash": "b4dddd65f1362825f27e7faf1836fa112a8f4d6b"
+  },
+  "gPhoto/2017/IMG_0120.JPG": {
+    "size": 2136702,
+    "stamp": "2017:08:14 12:25:27",
+    "hash": "e9a1e35d4c2afb099c86556524ae94376a8bb226"
+  },
+  "gPhoto/2017/IMG_0123.JPG": {
+    "size": 1841508,
+    "stamp": "2017:08:14 13:45:27",
+    "hash": "1e66c592b6a213347c9a95f926ed0d678173448c"
+  },
+  "gPhoto/2017/IMG_0124.JPG": {
+    "size": 1451410,
+    "stamp": "2017:08:14 13:45:57",
+    "hash": "6549e6aa434bc999f5051bccfabdbc0c4d1bd9c4"
+  },
+  "gPhoto/2017/IMG_0127.JPG": {
+    "size": 1536772,
+    "stamp": "2017:08:14 13:47:02",
+    "hash": "c757663201fb93c1ae9cdce43a52c283bf100bc0"
+  },
+  "gPhoto/2017/IMG_0128.JPG": {
+    "size": 1538213,
+    "stamp": "2017:08:14 18:06:07",
+    "hash": "864f9bb6e7c647adb099c365df541f7807e8e473"
+  },
+  "gPhoto/2017/IMG_0129.JPG": {
+    "size": 1664787,
+    "stamp": "2017:08:14 18:06:39",
+    "hash": "c4499bba7a3b8120115497a6a1f566550c5c0f8a"
+  },
+  "gPhoto/2017/IMG_0131.JPG": {
+    "size": 1388097,
+    "stamp": "2017:08:14 19:06:52",
+    "hash": "46be8221ddf663ee274315782a809b11a88122ce"
+  },
+  "gPhoto/2017/IMG_0133.JPG": {
+    "size": 2165294,
+    "stamp": "2017:08:14 19:08:56",
+    "hash": "8f81c3cdee838044ff35a323b275c82daa53fd75"
+  },
+  "gPhoto/2017/IMG_0135.JPG": {
+    "size": 2260373,
+    "stamp": "2017:08:14 19:10:19",
+    "hash": "e3a92372b8a9bb8d34b39f63ea3ab29fa806ab0b"
+  },
+  "gPhoto/2017/IMG_0136.JPG": {
+    "size": 1811867,
+    "stamp": "2017:08:14 19:10:36",
+    "hash": "eaf04e9233cf46993d0da157ab5f42324707aa64"
+  },
+  "gPhoto/2017/IMG_0138.JPG": {
+    "size": 2410658,
+    "stamp": "2017:08:14 19:12:34",
+    "hash": "233496edfd88f57fd0cab42902852071f7cdab6c"
+  },
+  "gPhoto/2017/IMG_0140.MOV": {
+    "size": 975965,
+    "stamp": "Unknown",
+    "hash": "1df303b8b374c3f6ab38afea88bfc8c148b2ce8c"
+  },
+  "gPhoto/2017/IMG_0141.MOV": {
+    "size": 704810,
+    "stamp": "Unknown",
+    "hash": "51ce82a9bc4fae7bd188c4e0c4a452b8f7bf9022"
+  },
+  "gPhoto/2017/IMG_0144.JPG": {
+    "size": 1461451,
+    "stamp": "2017:08:14 19:41:28",
+    "hash": "f1122fc892225c2b964b0b2611a89ca94e94d8bf"
+  },
+  "gPhoto/2017/IMG_0146.JPG": {
+    "size": 1752743,
+    "stamp": "2017:08:14 19:42:20",
+    "hash": "564a19bc45eec2792f73c436a49a28ed609610aa"
+  },
+  "gPhoto/2017/IMG_0147.JPG": {
+    "size": 1724590,
+    "stamp": "2017:08:14 19:42:20",
+    "hash": "8dd06b336672645273d4ea23e2889b649f453053"
+  },
+  "gPhoto/2017/IMG_0148.JPG": {
+    "size": 773214,
+    "stamp": "Unknown",
+    "hash": "69cc1959787b1eeb8312e0f4cbe6110aa1f80742"
+  },
+  "gPhoto/2017/IMG_0149.JPG": {
+    "size": 2564180,
+    "stamp": "2017:08:15 11:56:26",
+    "hash": "411fb376151991c2849b8f8a3f79859a51bfa013"
+  },
+  "gPhoto/2017/IMG_0150.JPG": {
+    "size": 2528091,
+    "stamp": "2017:08:15 11:56:26",
+    "hash": "1c47a1f44916b464177d9c2b4a57f0d8b761852c"
+  },
+  "gPhoto/2017/IMG_0151.JPG": {
+    "size": 2326209,
+    "stamp": "2017:08:15 11:56:26",
+    "hash": "fa166ae29058fbed42f06a6338e8c2b1442ea82e"
+  },
+  "gPhoto/2017/IMG_0152.JPG": {
+    "size": 2374296,
+    "stamp": "2017:08:15 11:56:26",
+    "hash": "8edc5b8bef3115b031193dfd614092f4e8a24707"
+  },
+  "gPhoto/2017/IMG_0153.JPG": {
+    "size": 2528793,
+    "stamp": "2017:08:15 17:44:50",
+    "hash": "b4e40392f75e9e0028ac9bf3243c1275f8a9c815"
+  },
+  "gPhoto/2017/IMG_0154.JPG": {
+    "size": 1441018,
+    "stamp": "2017:08:15 17:44:53",
+    "hash": "2f5b92b143a46f684682cf2335b5635ce42d6579"
+  },
+  "gPhoto/2017/IMG_0155.JPG": {
+    "size": 1356213,
+    "stamp": "2017:08:15 17:45:39",
+    "hash": "7df971b7302c070b090ce7cac47a0b6c5e921dbf"
+  },
+  "gPhoto/2017/IMG_0157.JPG": {
+    "size": 2011841,
+    "stamp": "2017:08:16 14:51:03",
+    "hash": "9bfaab8284c58ae4b8588b6c0d0bc2634deb6d1d"
+  },
+  "gPhoto/2017/IMG_0158.JPG": {
+    "size": 1574780,
+    "stamp": "2017:08:16 15:04:40",
+    "hash": "966cc77dbcdca9270d05cace1433badb7ffc2767"
+  },
+  "gPhoto/2017/IMG_0159.JPG": {
+    "size": 1631257,
+    "stamp": "2017:08:16 15:04:42",
+    "hash": "a711c726c022c87c731f19684005a88a726e8953"
+  },
+  "gPhoto/2017/IMG_0160.JPG": {
+    "size": 1689933,
+    "stamp": "2017:08:16 15:04:54",
+    "hash": "ed10c3cdcc4041a5a61f8bdf9ee85e698880d659"
+  },
+  "gPhoto/2017/IMG_0161.JPG": {
+    "size": 1726510,
+    "stamp": "2017:08:16 15:04:56",
+    "hash": "010f93d4eff83edfcfc9626bf17d2fa1372a7b73"
+  },
+  "gPhoto/2017/IMG_0162.JPG": {
+    "size": 1706286,
+    "stamp": "2017:08:16 15:04:56",
+    "hash": "a1595fa88bc4f0d291ad64bacae78dda469496ac"
+  },
+  "gPhoto/2017/IMG_0163.JPG": {
+    "size": 1737739,
+    "stamp": "2017:08:16 15:04:56",
+    "hash": "00b55b1a545ae238f3ec82df3251c5803e9693c5"
+  },
+  "gPhoto/2017/IMG_0164.JPG": {
+    "size": 1724859,
+    "stamp": "2017:08:16 15:04:56",
+    "hash": "dbb3d679a5d02b93dc11004081d2c13ca2b03605"
+  },
+  "gPhoto/2017/IMG_0165.JPG": {
+    "size": 1726181,
+    "stamp": "2017:08:16 15:04:56",
+    "hash": "29c2a639e6cbd6abd0cbecb46ba08f4462cfb2b6"
+  },
+  "gPhoto/2017/IMG_0166.JPG": {
+    "size": 1742624,
+    "stamp": "2017:08:16 15:04:56",
+    "hash": "c5ced22ec0d6f0db82f891956b4d4eaf116caf46"
+  },
+  "gPhoto/2017/IMG_0167.JPG": {
+    "size": 1749977,
+    "stamp": "2017:08:16 15:04:56",
+    "hash": "ade6e5d9950fbdea398eedbc434c91ead9814fd8"
+  },
+  "gPhoto/2017/IMG_0168.JPG": {
+    "size": 1756510,
+    "stamp": "2017:08:16 15:04:56",
+    "hash": "cbc0438551331a15e564a1d48690b2d4f7482738"
+  },
+  "gPhoto/2017/IMG_0169.JPG": {
+    "size": 1736423,
+    "stamp": "2017:08:16 15:04:57",
+    "hash": "e9f6390142d93777893315bfea12a243c0025bd2"
+  },
+  "gPhoto/2017/IMG_0170.JPG": {
+    "size": 248623,
+    "stamp": "2017:08:16 15:25:46",
+    "hash": "3f06bb4529a58befe459717175425b23b7020b7b"
+  },
+  "gPhoto/2017/IMG_0171.JPG": {
+    "size": 211962,
+    "stamp": "2017:08:16 15:26:02",
+    "hash": "71e655dd98dd82be56837a8666bbfc171502ba12"
+  },
+  "gPhoto/2017/IMG_0172.JPG": {
+    "size": 191199,
+    "stamp": "2017:08:16 15:26:13",
+    "hash": "adf24ddcb1c73ba9e952c42a2100f9e6c0fb5d3f"
+  },
+  "gPhoto/2017/IMG_0173.JPG": {
+    "size": 1212282,
+    "stamp": "2017:08:16 15:27:01",
+    "hash": "a7c55d8f4d3b7b7783e97dd347e5b44097fe5fef"
+  },
+  "gPhoto/2017/IMG_0174.JPG": {
+    "size": 1369682,
+    "stamp": "2017:08:16 15:36:02",
+    "hash": "ecff81079d5a1dfb33b3d4fc323a0f8a9b5fb374"
+  },
+  "gPhoto/2017/IMG_0175.JPG": {
+    "size": 1374119,
+    "stamp": "2017:08:16 15:36:02",
+    "hash": "898f13c1fdd08ff127c0627a0745572d49be6e1c"
+  },
+  "gPhoto/2017/IMG_0176.JPG": {
+    "size": 1355073,
+    "stamp": "2017:08:16 15:36:02",
+    "hash": "222205ff85b8725f95484f22529c700a5ce5c104"
+  },
+  "gPhoto/2017/IMG_0177.JPG": {
+    "size": 1336587,
+    "stamp": "2017:08:16 15:36:03",
+    "hash": "82faf3319c4e414364f2ef162ce1ed017a8bfda1"
+  },
+  "gPhoto/2017/IMG_0178.JPG": {
+    "size": 1929464,
+    "stamp": "2017:08:16 15:36:07",
+    "hash": "98650f5778ab10b93bf56967112f80b517e71291"
+  },
+  "gPhoto/2017/IMG_0181.JPG": {
+    "size": 2178182,
+    "stamp": "2017:08:16 16:55:03",
+    "hash": "8115798b1e9d52d9b22e7ec785c5d7318d0fcef7"
+  },
+  "gPhoto/2017/IMG_0182.JPG": {
+    "size": 2230393,
+    "stamp": "2017:08:16 16:55:07",
+    "hash": "487b25f38f6b948566a6a877fa8952b8009f6859"
+  },
+  "gPhoto/2017/IMG_0183.JPG": {
+    "size": 2462992,
+    "stamp": "2017:08:16 18:46:12",
+    "hash": "cab1de845a5d9e639fdaec94ee187889d33c431a"
+  },
+  "gPhoto/2017/IMG_0184.JPG": {
+    "size": 2521047,
+    "stamp": "2017:08:16 18:46:12",
+    "hash": "932ded29c454d8c54cd9897e849394489a8a1ceb"
+  },
+  "gPhoto/2017/IMG_0185.JPG": {
+    "size": 3049978,
+    "stamp": "2017:08:16 18:46:17",
+    "hash": "3bac2a6b7540a5d8c14053ebdeb7df75b245032d"
+  },
+  "gPhoto/2017/IMG_0186.JPG": {
+    "size": 1765487,
+    "stamp": "2017:08:16 18:46:36",
+    "hash": "afb64a2f9ba406c907eefbc111ce9ee12b7e16e2"
+  },
+  "gPhoto/2017/IMG_0187.JPG": {
+    "size": 1853701,
+    "stamp": "2017:08:16 18:46:43",
+    "hash": "da9ea36fce7ed37a2d856a07ef19f8c6064be230"
+  },
+  "gPhoto/2017/IMG_0191.JPG": {
+    "size": 591553,
+    "stamp": "2017:08:16 18:52:06",
+    "hash": "ea131dab2c1de880e2d1a19df8795f8ebbb32f7c"
+  },
+  "gPhoto/2017/IMG_0192.JPG": {
+    "size": 1731849,
+    "stamp": "2017:08:16 23:53:02",
+    "hash": "a145a5c919f3939fc4a309756a07202b27e8689d"
+  },
+  "gPhoto/2017/IMG_0193.JPG": {
+    "size": 1535257,
+    "stamp": "2017:08:16 23:53:12",
+    "hash": "9cca636b9716c7fc655a44363de3a83f054e8786"
+  },
+  "gPhoto/2017/IMG_0194.JPG": {
+    "size": 1619243,
+    "stamp": "2017:08:16 23:54:26",
+    "hash": "ce692c8ca5d50f198bc3380b55656e626ea46e66"
+  },
+  "gPhoto/2017/IMG_0195.JPG": {
+    "size": 1516117,
+    "stamp": "2017:08:16 23:54:31",
+    "hash": "c85fe97cfdbbcea97dd1f74b075a28329913802a"
+  },
+  "gPhoto/2017/IMG_0196.JPG": {
+    "size": 1541453,
+    "stamp": "2017:08:16 23:58:13",
+    "hash": "5fd452df8354477445f30c33537a930e025747cd"
+  },
+  "gPhoto/2017/IMG_0206.JPG": {
+    "size": 1283504,
+    "stamp": "2017:08:17 10:48:05",
+    "hash": "bac4b208e018a3bbe2f86a34734445a375a65b73"
+  },
+  "gPhoto/2017/IMG_0207.JPG": {
+    "size": 1213333,
+    "stamp": "2017:08:17 10:48:28",
+    "hash": "643f2c31553a7c6282ef7a5703cdd314f2f65a79"
+  },
+  "gPhoto/2017/IMG_0208.JPG": {
+    "size": 1213675,
+    "stamp": "2017:08:17 10:48:30",
+    "hash": "18ef28c189d20a437eca4a0c5cf1da240ed3d13a"
+  },
+  "gPhoto/2017/IMG_0209.JPG": {
+    "size": 1197326,
+    "stamp": "2017:08:17 10:48:31",
+    "hash": "43cdc058b56f7ca4f46f12e62eaabb40784f3112"
+  },
+  "gPhoto/2017/IMG_0211.JPG": {
+    "size": 1689199,
+    "stamp": "2017:08:17 13:30:11",
+    "hash": "ed03447d709cb7af8479c5a63b14cf366db3f447"
+  },
+  "gPhoto/2017/IMG_0212.JPG": {
+    "size": 2923463,
+    "stamp": "2017:08:17 14:34:34",
+    "hash": "13685e94b0c4fc8d9c97333cba72b66ada949346"
+  },
+  "gPhoto/2017/IMG_0213.JPG": {
+    "size": 2853001,
+    "stamp": "2017:08:17 14:34:38",
+    "hash": "96474d14aa18114aa8898c7a1e5376f271546c1c"
+  },
+  "gPhoto/2017/IMG_0214.JPG": {
+    "size": 2605524,
+    "stamp": "2017:08:17 14:34:43",
+    "hash": "e804090d80842f1487c5e5c7fad041f2e770cd30"
+  },
+  "gPhoto/2017/IMG_0215.JPG": {
+    "size": 2236395,
+    "stamp": "2017:08:17 15:28:04",
+    "hash": "d40f3703586c16b100e282192a4fd07abba6ccbe"
+  },
+  "gPhoto/2017/IMG_0217.JPG": {
+    "size": 3121091,
+    "stamp": "2017:08:17 15:32:18",
+    "hash": "559c4d0d1f4200afdfd8b8fb3a663db437cf91da"
+  },
+  "gPhoto/2017/IMG_0218.JPG": {
+    "size": 2542652,
+    "stamp": "2017:08:17 15:38:47",
+    "hash": "2bca8c2cc8712b81076e80adf4f36399630aa8ef"
+  },
+  "gPhoto/2017/IMG_0219.JPG": {
+    "size": 2181196,
+    "stamp": "2017:08:17 15:41:10",
+    "hash": "7e1387959c7c2c1fd2d5c2c7fb874648bbe302bc"
+  },
+  "gPhoto/2017/IMG_0220.JPG": {
+    "size": 2161078,
+    "stamp": "2017:08:17 15:41:10",
+    "hash": "487f1e562c7979bc5b4c9b1dce29f859b1982782"
+  },
+  "gPhoto/2017/IMG_0221.JPG": {
+    "size": 1886785,
+    "stamp": "2017:08:17 15:41:20",
+    "hash": "fa1fba387b32586535c072b0b53a2cf80f3f9536"
+  },
+  "gPhoto/2017/IMG_0222.JPG": {
+    "size": 2219997,
+    "stamp": "2017:08:17 15:41:55",
+    "hash": "e09c3d5b9eb5516809d89a0ef9478f7712e8e89c"
+  },
+  "gPhoto/2017/IMG_0223.JPG": {
+    "size": 2236952,
+    "stamp": "2017:08:17 15:41:55",
+    "hash": "8a8f3c2df707a96630e5cef07ac4606313469726"
+  },
+  "gPhoto/2017/IMG_0224.JPG": {
+    "size": 2204035,
+    "stamp": "2017:08:17 15:41:55",
+    "hash": "ce80f9b702e2e2b7d63955914f4064a234a346c7"
+  },
+  "gPhoto/2017/IMG_0225.JPG": {
+    "size": 2214502,
+    "stamp": "2017:08:17 15:41:55",
+    "hash": "1ed1fc55281a3b24a1f47fe95c298e6605f9ae41"
+  },
+  "gPhoto/2017/IMG_0226.JPG": {
+    "size": 2214432,
+    "stamp": "2017:08:17 15:41:55",
+    "hash": "3741cea99e58813d54540a74fd1ef3afdab2dac1"
+  },
+  "gPhoto/2017/IMG_0227.JPG": {
+    "size": 2172029,
+    "stamp": "2017:08:17 15:41:55",
+    "hash": "6d0874a41c8348bd8f0c98f42d58189636d87db6"
+  },
+  "gPhoto/2017/IMG_0229.JPG": {
+    "size": 1242830,
+    "stamp": "2017:08:17 17:48:46",
+    "hash": "0e762db71c1e109853b511d1cf08e9b4d13fe649"
+  },
+  "gPhoto/2017/IMG_0230.JPG": {
+    "size": 1401853,
+    "stamp": "2017:08:17 17:48:59",
+    "hash": "3e1af20b974b8f5824bf11465114114c623fdf44"
+  },
+  "gPhoto/2017/IMG_0231.JPG": {
+    "size": 1516232,
+    "stamp": "2017:08:17 17:49:11",
+    "hash": "86c3abaf1ee4dd38d68f2e28ab5d95126c68ad65"
+  },
+  "gPhoto/2017/IMG_0232.JPG": {
+    "size": 1730837,
+    "stamp": "2017:08:17 17:50:06",
+    "hash": "1e2e289b3c5a1b997ffe066bc29fc0407d734c17"
+  },
+  "gPhoto/2017/IMG_0234.JPG": {
+    "size": 3077268,
+    "stamp": "2017:08:17 18:18:28",
+    "hash": "152b907f0f8bf061243ec9fd34fa1eb024d50d22"
+  },
+  "gPhoto/2017/IMG_0235.JPG": {
+    "size": 1916204,
+    "stamp": "2017:08:17 19:05:19",
+    "hash": "5992f386a82e3571b75862a950bb1a3429dd221e"
+  },
+  "gPhoto/2017/IMG_0236.JPG": {
+    "size": 2192724,
+    "stamp": "2017:08:17 19:05:22",
+    "hash": "47ba7fc08ccf150a6199fb47133cbdf12eae11de"
+  },
+  "gPhoto/2017/IMG_0237.JPG": {
+    "size": 1340742,
+    "stamp": "2017:08:17 19:05:36",
+    "hash": "6bde503ea4449271372fd5827cfbf2192ff16440"
+  },
+  "gPhoto/2017/IMG_0238.JPG": {
+    "size": 2199665,
+    "stamp": "2017:08:17 19:05:45",
+    "hash": "8b163585251e224ffcbbb67646cb5d53a771f797"
+  },
+  "gPhoto/2017/IMG_0239.JPG": {
+    "size": 1773391,
+    "stamp": "2017:08:17 19:09:23",
+    "hash": "61f39bb49c16dd2df9d2ace031a7d78ae0d5f74f"
+  },
+  "gPhoto/2017/IMG_0240.JPG": {
+    "size": 1898953,
+    "stamp": "2017:08:17 19:09:26",
+    "hash": "8bb3a2fd3827c68ad19b4dee249496316f55d22d"
+  },
+  "gPhoto/2017/IMG_0241.JPG": {
+    "size": 1892582,
+    "stamp": "2017:08:17 19:09:37",
+    "hash": "f559d3081bb69f188eb5964c5fd1f98627d63fa3"
+  },
+  "gPhoto/2017/IMG_0242.MOV": {
+    "size": 12037707,
+    "stamp": "Unknown",
+    "hash": "2f5aa7cd2b39934f0f1f62063655ff01b0fa8c9d"
+  },
+  "gPhoto/2017/IMG_0243.JPG": {
+    "size": 2342076,
+    "stamp": "2017:08:17 19:11:44",
+    "hash": "da6926de3cb1fc17ad07b5f8a044a37a3cc0760f"
+  },
+  "gPhoto/2017/IMG_0244.JPG": {
+    "size": 2474221,
+    "stamp": "2017:08:17 19:11:48",
+    "hash": "ba19b01b6194e547ad0f31ae625b32ac48eb582b"
+  },
+  "gPhoto/2017/IMG_0245.JPG": {
+    "size": 2521885,
+    "stamp": "2017:08:17 19:11:49",
+    "hash": "299e65c9e564beef9f73272472c90dc95c58234a"
+  },
+  "gPhoto/2017/IMG_0246.JPG": {
+    "size": 1426743,
+    "stamp": "2017:08:17 21:40:54",
+    "hash": "73a836124eab620cdb9758a5635ef0a32d4c41b0"
+  },
+  "gPhoto/2017/IMG_0247.JPG": {
+    "size": 1859891,
+    "stamp": "2017:08:18 08:09:55",
+    "hash": "676d9017ba84e51014b60257f3f7e7497f807c7f"
+  },
+  "gPhoto/2017/IMG_0248.JPG": {
+    "size": 1901622,
+    "stamp": "2017:08:18 08:09:56",
+    "hash": "b21e96b73648fcc4d0ca9fdf9304880c6f70216d"
+  },
+  "gPhoto/2017/IMG_0249.JPG": {
+    "size": 1721936,
+    "stamp": "2017:08:18 08:09:56",
+    "hash": "5344ed9bd48064911c234b5f1d2ff78650b23166"
+  },
+  "gPhoto/2017/IMG_0250.JPG": {
+    "size": 1887108,
+    "stamp": "2017:08:18 08:09:56",
+    "hash": "015d2053bafa630216c700b09c9f2bbb0e43f76f"
+  },
+  "gPhoto/2017/IMG_0251.JPG": {
+    "size": 1788439,
+    "stamp": "2017:08:18 08:09:59",
+    "hash": "7ed11c50a5bf2457ec3c09c0687053100c899f7d"
+  },
+  "gPhoto/2017/IMG_0252.JPG": {
+    "size": 1675805,
+    "stamp": "2017:08:18 08:10:00",
+    "hash": "4b201adad2450a61cb9affc460c59846327be265"
+  },
+  "gPhoto/2017/IMG_0253.JPG": {
+    "size": 1582595,
+    "stamp": "2017:08:18 08:35:16",
+    "hash": "6ff74f94fa6a6ab387f356599d180d28f2c638c5"
+  },
+  "gPhoto/2017/IMG_0256.JPG": {
+    "size": 2682913,
+    "stamp": "2017:08:18 08:40:35",
+    "hash": "439b91b31876d0861476cf326f28e03ed8c285dd"
+  },
+  "gPhoto/2017/IMG_0259.JPG": {
+    "size": 2806648,
+    "stamp": "2017:08:18 10:24:26",
+    "hash": "06cab2024640794b7ca2cb88f00875ba0b88227a"
+  },
+  "gPhoto/2017/IMG_0260.JPG": {
+    "size": 3445975,
+    "stamp": "2017:08:18 10:24:28",
+    "hash": "8cda6aac68d4c47db7cb60e3079a28710c691ad5"
+  },
+  "gPhoto/2017/IMG_0261.JPG": {
+    "size": 3700441,
+    "stamp": "2017:08:18 10:24:30",
+    "hash": "1c98caa8c7595b9b3678d40b5f46bff9eb751a9f"
+  },
+  "gPhoto/2017/IMG_0262.JPG": {
+    "size": 203514,
+    "stamp": "2017:08:19 08:47:46",
+    "hash": "1e732d907fa542480ca7e4a83de0eef5d489af4f"
+  },
+  "gPhoto/2017/IMG_0263.JPG": {
+    "size": 225117,
+    "stamp": "2017:08:19 08:48:02",
+    "hash": "e5f484ba31e0a45a9b8d06d6e096aa068267955f"
+  },
+  "gPhoto/2017/IMG_0264.JPG": {
+    "size": 2039883,
+    "stamp": "2017:08:19 08:49:30",
+    "hash": "18a7ac44ed3e0b1cef9206dfd3adb16ebb230522"
+  },
+  "gPhoto/2017/IMG_0265.JPG": {
+    "size": 1509051,
+    "stamp": "2017:08:19 08:49:41",
+    "hash": "30f8eb041a301b687e365d3e519899cfee513c96"
+  },
+  "gPhoto/2017/IMG_0266.JPG": {
+    "size": 1530458,
+    "stamp": "2017:08:19 08:49:52",
+    "hash": "d783eb6b8be0168778b88366e5737412d44b5c74"
+  },
+  "gPhoto/2017/IMG_0267.JPG": {
+    "size": 3068037,
+    "stamp": "2017:08:19 13:12:10",
+    "hash": "6a02a7467edb9761c9f364620dea9964782e9f06"
+  },
+  "gPhoto/2017/IMG_0268.JPG": {
+    "size": 3048380,
+    "stamp": "2017:08:19 13:12:12",
+    "hash": "0db7f09a799a4557d733168ab53285aae64dad7c"
+  },
+  "gPhoto/2017/IMG_0269.JPG": {
+    "size": 2177711,
+    "stamp": "2017:08:19 13:53:45",
+    "hash": "c71e50de5436b6c79e0e46b5079c938065ebda08"
+  },
+  "gPhoto/2017/IMG_0270 (1).JPG": {
+    "size": 1225721,
+    "stamp": "2017:01:26 10:34:40",
+    "hash": "bb3b67d5e72c17f0328eaa1ac5608f7ee999fdb1"
+  },
+  "gPhoto/2017/IMG_0270.JPG": {
+    "size": 2156218,
+    "stamp": "2017:08:19 13:53:49",
+    "hash": "6fa5ed2a59ef928341a8589d2226cc1b81747c80"
+  },
+  "gPhoto/2017/IMG_0271.JPG": {
+    "size": 740824,
+    "stamp": "2017:08:19 17:39:49",
+    "hash": "352dbdbc048b79d97a1e560bca9baa63f11d8c56"
+  },
+  "gPhoto/2017/IMG_0272.JPG": {
+    "size": 844892,
+    "stamp": "2017:08:19 17:41:33",
+    "hash": "27469bb2dff2b105873f92c5491d6b042d22efe5"
+  },
+  "gPhoto/2017/IMG_0273.JPG": {
+    "size": 1584011,
+    "stamp": "2017:08:19 18:04:29",
+    "hash": "f896f49f1141d3a872d317f0378927fe0e2685d9"
+  },
+  "gPhoto/2017/IMG_0274.JPG": {
+    "size": 1915581,
+    "stamp": "2017:08:19 18:04:41",
+    "hash": "977fbfdd915763953d686e1aa4506bafe3033c0d"
+  },
+  "gPhoto/2017/IMG_0275.JPG": {
+    "size": 1384433,
+    "stamp": "2017:08:19 18:04:48",
+    "hash": "d5a2e196e7c60cb75fd2ed6f8886b339e9c2786d"
+  },
+  "gPhoto/2017/IMG_0276.JPG": {
+    "size": 1575456,
+    "stamp": "2017:08:19 18:04:54",
+    "hash": "a1f17e5ba3992584d5d463b464b4549507892976"
+  },
+  "gPhoto/2017/IMG_0277.JPG": {
+    "size": 1386845,
+    "stamp": "2017:08:19 18:34:56",
+    "hash": "80ad78bb653380228006b4f8e9bd028c94b271b8"
+  },
+  "gPhoto/2017/IMG_0278.JPG": {
+    "size": 2019220,
+    "stamp": "2017:08:19 18:35:39",
+    "hash": "96cb6faae04e5ee1b80516f99f128d3146a80404"
+  },
+  "gPhoto/2017/IMG_0279.JPG": {
+    "size": 3138985,
+    "stamp": "2017:08:19 18:36:16",
+    "hash": "f51d44396d08d8019dc12c8cde4e1390bcbe6191"
+  },
+  "gPhoto/2017/IMG_0280.JPG": {
+    "size": 3379644,
+    "stamp": "2017:08:19 18:40:43",
+    "hash": "2da40d47e8f4e3b322671a417570d8df1c83dd00"
+  },
+  "gPhoto/2017/IMG_0281.JPG": {
+    "size": 2692439,
+    "stamp": "2017:08:19 18:40:46",
+    "hash": "c4c895fd28f18f67892fc4642905757ef66165ad"
+  },
+  "gPhoto/2017/IMG_0282.JPG": {
+    "size": 2969829,
+    "stamp": "2017:08:19 18:41:29",
+    "hash": "4e296b80d7c079d5f79b186502b0f7958359e913"
+  },
+  "gPhoto/2017/IMG_0283.JPG": {
+    "size": 3117683,
+    "stamp": "2017:08:19 18:41:41",
+    "hash": "5d574c0cd7bfac13ca8edf44cf5e9e2da71c400a"
+  },
+  "gPhoto/2017/IMG_0284.JPG": {
+    "size": 1224067,
+    "stamp": "2017:08:20 06:47:04",
+    "hash": "90672ea6415d3566f52fe0725c7ca841f9fc06af"
+  },
+  "gPhoto/2017/IMG_0285.JPG": {
+    "size": 1219108,
+    "stamp": "2017:08:20 06:47:04",
+    "hash": "c3a0d5f7318be4194e1dd001d2f968e0bdec7599"
+  },
+  "gPhoto/2017/IMG_0286.JPG": {
+    "size": 1218076,
+    "stamp": "2017:08:20 06:47:04",
+    "hash": "796fdb0522b2b808e9a3dff9db2dbf517f223bc6"
+  },
+  "gPhoto/2017/IMG_0287.JPG": {
+    "size": 1026352,
+    "stamp": "2017:08:20 06:47:21",
+    "hash": "2cb1b393788add73a6a415ff561234e8578f7c8f"
+  },
+  "gPhoto/2017/IMG_0288.JPG": {
+    "size": 1041928,
+    "stamp": "2017:08:20 06:47:22",
+    "hash": "95077fa8bc8336e394a88738cc8ab1efd7f950ac"
+  },
+  "gPhoto/2017/IMG_0289.JPG": {
+    "size": 997620,
+    "stamp": "2017:08:20 06:49:16",
+    "hash": "9f160217e149706c3c9cf623e9cc9b5c5141e538"
+  },
+  "gPhoto/2017/IMG_0290.JPG": {
+    "size": 1026758,
+    "stamp": "2017:08:20 06:49:18",
+    "hash": "30efeaf58bf1be4f96bf4336b45417fda86af15d"
+  },
+  "gPhoto/2017/IMG_0291.JPG": {
+    "size": 2829177,
+    "stamp": "2017:08:20 09:36:59",
+    "hash": "1ccc8c34a236c7ce5d55298b26270b70ef68e60a"
+  },
+  "gPhoto/2017/IMG_0292 (1).JPG": {
+    "size": 1243223,
+    "stamp": "2017:02:05 11:55:24",
+    "hash": "a497611554f3ffd47d0ce468548e2da8513387c0"
+  },
+  "gPhoto/2017/IMG_0292.JPG": {
+    "size": 4198692,
+    "stamp": "2017:08:20 09:37:01",
+    "hash": "a71a95ac62f5a0abe4951fcc4e75fdad5a39dfd3"
+  },
+  "gPhoto/2017/IMG_0293.JPG": {
+    "size": 2968014,
+    "stamp": "2017:08:20 09:37:03",
+    "hash": "d5599afeea042a584e914ccec78018035177dcf7"
+  },
+  "gPhoto/2017/IMG_0294 (1).JPG": {
+    "size": 790164,
+    "stamp": "2017:03:15 11:23:50",
+    "hash": "535c742dcbc492f51773880baea03287b0d61bb3"
+  },
+  "gPhoto/2017/IMG_0294.JPG": {
+    "size": 3185501,
+    "stamp": "2017:08:20 09:37:03",
+    "hash": "74ee21dc43743eea1158a898c3548a590f00751f"
+  },
+  "gPhoto/2017/IMG_0295 (1).JPG": {
+    "size": 914995,
+    "stamp": "2017:03:20 13:05:47",
+    "hash": "8640ea2b0a1bd05b132c403158662f97ac79ad59"
+  },
+  "gPhoto/2017/IMG_0295.JPG": {
+    "size": 2913565,
+    "stamp": "2017:08:20 09:37:03",
+    "hash": "1ea1ec2e6e3c97a51009365dc2ebdeb2f78aa9f8"
+  },
+  "gPhoto/2017/IMG_0296 (1).JPG": {
+    "size": 892843,
+    "stamp": "2017:03:20 13:05:48",
+    "hash": "62a35e9a6bd2c08bc44e9ab3ee132bf25505dd09"
+  },
+  "gPhoto/2017/IMG_0296.JPG": {
+    "size": 3442219,
+    "stamp": "2017:08:20 09:37:07",
+    "hash": "7bde9448a04ef9964ed54adbc92e0fd4087f5158"
+  },
+  "gPhoto/2017/IMG_0297.JPG": {
+    "size": 847275,
+    "stamp": "2017:04:03 17:54:30",
+    "hash": "de646f2535a2883c9824d1b2033745822f7e6551"
+  },
+  "gPhoto/2017/IMG_0299.JPG": {
+    "size": 3223367,
+    "stamp": "2017:08:20 09:38:35",
+    "hash": "4659fd26a2e3c135607ffa6807a6487864404fc0"
+  },
+  "gPhoto/2017/IMG_0300 (1).JPG": {
+    "size": 780401,
+    "stamp": "2017:04:03 17:54:34",
+    "hash": "02c7f70c641b7bb1b79b606b498ba764a43d2dc0"
+  },
+  "gPhoto/2017/IMG_0300.JPG": {
+    "size": 2436868,
+    "stamp": "2017:08:20 09:48:43",
+    "hash": "975eb18834174bb1b21f5ffe99826879a83de39d"
+  },
+  "gPhoto/2017/IMG_0301.JPG": {
+    "size": 3443038,
+    "stamp": "2017:08:20 10:09:31",
+    "hash": "78ca2b2d5dd8edd7b5558984ec9bf4a4b712a567"
+  },
+  "gPhoto/2017/IMG_0302 (1).JPG": {
+    "size": 712815,
+    "stamp": "2017:04:03 17:54:45",
+    "hash": "740e9d5ba2405720b4e00e8be70ecd6e61cc1af7"
+  },
+  "gPhoto/2017/IMG_0302.JPG": {
+    "size": 2361366,
+    "stamp": "2017:08:20 14:51:19",
+    "hash": "01f085404ce1afb789781eb6b0a5b274457527bc"
+  },
+  "gPhoto/2017/IMG_0304.JPG": {
+    "size": 5481885,
+    "stamp": "2017:08:20 15:00:01",
+    "hash": "a9878a054906b21efde76c5565ff907e8c923ae1"
+  },
+  "gPhoto/2017/IMG_0305.JPG": {
+    "size": 773901,
+    "stamp": "2017:04:03 17:54:49",
+    "hash": "11530b035c78537f53dbfaa8b8752d549e087927"
+  },
+  "gPhoto/2017/IMG_0306.JPG": {
+    "size": 3170648,
+    "stamp": "2017:08:20 15:01:22",
+    "hash": "0e4df79f298fa71114691b6065a6e777d8467a35"
+  },
+  "gPhoto/2017/IMG_0309.JPG": {
+    "size": 251910,
+    "stamp": "2017:08:20 15:06:35",
+    "hash": "b88e59e68e40ff73e4369e97fc1ef911cb9d66d8"
+  },
+  "gPhoto/2017/IMG_0310 (1).JPG": {
+    "size": 1109257,
+    "stamp": "2017:04:03 18:11:04",
+    "hash": "65b84d58650040b5abf61ed95ab884a7fd8f112f"
+  },
+  "gPhoto/2017/IMG_0310.JPG": {
+    "size": 3792775,
+    "stamp": "2017:08:20 15:11:18",
+    "hash": "add347afcec39b66e4342ab4bbf91a235c9178e1"
+  },
+  "gPhoto/2017/IMG_0311 (1).JPG": {
+    "size": 1277556,
+    "stamp": "2017:04:03 18:46:57",
+    "hash": "8a72a220fe18b84228fe3a5a212c1eb9caaf40dc"
+  },
+  "gPhoto/2017/IMG_0311.JPG": {
+    "size": 3566145,
+    "stamp": "2017:08:20 15:17:57",
+    "hash": "889196b21c4bf5006088f8e30e58058e3daafe48"
+  },
+  "gPhoto/2017/IMG_0312.JPG": {
+    "size": 4439438,
+    "stamp": "2017:08:20 15:18:03",
+    "hash": "f912c6035d5a974b65fca42e313adf2a56268484"
+  },
+  "gPhoto/2017/IMG_0313.JPG": {
+    "size": 3768860,
+    "stamp": "2017:08:20 15:18:14",
+    "hash": "494ea276e803bedd6297729d3c66460b2c44f40c"
+  },
+  "gPhoto/2017/IMG_0314.JPG": {
+    "size": 1350015,
+    "stamp": "2017:08:20 15:32:24",
+    "hash": "76a3910647a6636d7c75e1f5fc1ab3d9d8233dae"
+  },
+  "gPhoto/2017/IMG_0315 (1).JPG": {
+    "size": 661188,
+    "stamp": "2017:04:03 18:49:21",
+    "hash": "5637c61eaed7d2fa3f09dfcf69bf92586b280fd8"
+  },
+  "gPhoto/2017/IMG_0315.JPG": {
+    "size": 1857554,
+    "stamp": "2017:08:20 15:56:40",
+    "hash": "d1420aea3a24b918fe99ad236e91a951a1482138"
+  },
+  "gPhoto/2017/IMG_0316 (1).JPG": {
+    "size": 801598,
+    "stamp": "2017:04:03 18:49:23",
+    "hash": "63b4d5befed28d7cc584528823897acdf955a4c0"
+  },
+  "gPhoto/2017/IMG_0316.JPG": {
+    "size": 336660,
+    "stamp": "2017:08:20 16:46:13",
+    "hash": "4fa6a4257871256bce082f5005c6d638d74af59a"
+  },
+  "gPhoto/2017/IMG_0317 (1).JPG": {
+    "size": 1222026,
+    "stamp": "2017:04:03 19:10:15",
+    "hash": "ab9fad588a24e975f822d2ceeddc8e525223418f"
+  },
+  "gPhoto/2017/IMG_0317.JPG": {
+    "size": 1712009,
+    "stamp": "2017:08:20 17:05:09",
+    "hash": "e23389eef8b15de19deca9519e6bc53881e0c691"
+  },
+  "gPhoto/2017/IMG_0318.JPG": {
+    "size": 1030404,
+    "stamp": "Unknown",
+    "hash": "d8c1961f35f2bfa9400c49bac27edbb8ba4402cc"
+  },
+  "gPhoto/2017/IMG_0319.JPG": {
+    "size": 384015,
+    "stamp": "Unknown",
+    "hash": "29e5fe18b6de8e04f5c32ba0b6e96433c9e04113"
+  },
+  "gPhoto/2017/IMG_0320.JPG": {
+    "size": 1613845,
+    "stamp": "2017:08:21 08:32:02",
+    "hash": "a285fa5512d55a7f5d4bf2939658ec9bd1d42335"
+  },
+  "gPhoto/2017/IMG_0320.MOV": {
+    "size": 3823498,
+    "stamp": "Unknown",
+    "hash": "439acef2434f82f8b44f981313d7d6e93dc9089d"
+  },
+  "gPhoto/2017/IMG_0321.JPG": {
+    "size": 2058558,
+    "stamp": "2017:08:21 08:45:51",
+    "hash": "1705692b253c932d998698231c7e83a5af62a939"
+  },
+  "gPhoto/2017/IMG_0322 (1).JPG": {
+    "size": 1287460,
+    "stamp": "2017:04:03 19:11:46",
+    "hash": "debbef6519e5e46f1ebd1a66ce9086ac37d92d8f"
+  },
+  "gPhoto/2017/IMG_0322.JPG": {
+    "size": 1775731,
+    "stamp": "2017:08:21 10:46:14",
+    "hash": "55472132ca2cadc3417962ca9641e9f387329c50"
+  },
+  "gPhoto/2017/IMG_0323 (1).JPG": {
+    "size": 1222564,
+    "stamp": "2017:04:03 19:13:30",
+    "hash": "1106daa504c399f0c59e8c854c9e39023d560b53"
+  },
+  "gPhoto/2017/IMG_0323.JPG": {
+    "size": 3143525,
+    "stamp": "2017:08:21 10:49:19",
+    "hash": "2bb7304d27db841f028fe21933e6732e4759856b"
+  },
+  "gPhoto/2017/IMG_0324.JPG": {
+    "size": 1833389,
+    "stamp": "2017:08:21 10:49:59",
+    "hash": "e5f319909517c163994d03ea16db6aa1fe23e206"
+  },
+  "gPhoto/2017/IMG_0325.PNG": {
+    "size": 810116,
+    "stamp": "Unknown",
+    "hash": "ccab39caa44fc314dd8726449f0ef18a4a752710"
+  },
+  "gPhoto/2017/IMG_0326.PNG": {
+    "size": 494846,
+    "stamp": "Unknown",
+    "hash": "3b94a5c184e37d4b8c9bf91a7d890ce0aceae92b"
+  },
+  "gPhoto/2017/IMG_0327.JPG": {
+    "size": 1185268,
+    "stamp": "2017:08:21 11:22:26",
+    "hash": "5a497dc97c458c292be33ca452d46836860cb994"
+  },
+  "gPhoto/2017/IMG_0328.JPG": {
+    "size": 1216531,
+    "stamp": "2017:04:03 19:13:44",
+    "hash": "a14617b3b2216daec0ea02dc9c5fb3e121f10acf"
+  },
+  "gPhoto/2017/IMG_0329.JPG": {
+    "size": 1328795,
+    "stamp": "2017:08:21 16:34:09",
+    "hash": "acc156c3342cf3cb496411b25f4a63e93c6f06aa"
+  },
+  "gPhoto/2017/IMG_0330.JPG": {
+    "size": 83784,
+    "stamp": "Unknown",
+    "hash": "9af827027de524ae1746ee10ad0c7f8fe9b444bd"
+  },
+  "gPhoto/2017/IMG_0331 (1).JPG": {
+    "size": 1379699,
+    "stamp": "2017:04:03 19:14:48",
+    "hash": "9f3899f65011f5358382401bf14d7bb025e58f9f"
+  },
+  "gPhoto/2017/IMG_0331.JPG": {
+    "size": 65494,
+    "stamp": "Unknown",
+    "hash": "a7db07eba9dc8a9437b659f27b5f307f76c27edb"
+  },
+  "gPhoto/2017/IMG_0332.JPG": {
+    "size": 80415,
+    "stamp": "Unknown",
+    "hash": "8004f90cf09baed3c9e38e03b0e6bff0c986f6ef"
+  },
+  "gPhoto/2017/IMG_0333.JPG": {
+    "size": 85385,
+    "stamp": "Unknown",
+    "hash": "537716114ed9b2d5d02a270251aee193f81162e7"
+  },
+  "gPhoto/2017/IMG_0334.JPG": {
+    "size": 2243966,
+    "stamp": "2017:08:22 08:39:50",
+    "hash": "3e8860373fc91403fde19cf7e98c78e8c73a922b"
+  },
+  "gPhoto/2017/IMG_0335.JPG": {
+    "size": 1164728,
+    "stamp": "2017:08:22 09:02:41",
+    "hash": "86fb31bc0709b9eb9a7a48a0881c5fe1151c0632"
+  },
+  "gPhoto/2017/IMG_0336.JPG": {
+    "size": 2672113,
+    "stamp": "2017:08:22 11:22:39",
+    "hash": "7c93b4bf2421f7e584a53802f8d2886961ae8855"
+  },
+  "gPhoto/2017/IMG_0337 (1).JPG": {
+    "size": 1190675,
+    "stamp": "2017:04:27 19:51:14",
+    "hash": "b604559c06c0c493ab10ca7e13487dc22d0c7ded"
+  },
+  "gPhoto/2017/IMG_0337.JPG": {
+    "size": 1834533,
+    "stamp": "2017:08:22 12:07:24",
+    "hash": "e6f1ba6410418b4ebdfd8f8a7f60b57ead4eb163"
+  },
+  "gPhoto/2017/IMG_0338 (1).JPG": {
+    "size": 1074074,
+    "stamp": "2017:04:27 20:06:58",
+    "hash": "ad6ea795a36158570e8f35b74dfaa718b73d3759"
+  },
+  "gPhoto/2017/IMG_0338.JPG": {
+    "size": 970867,
+    "stamp": "2017:08:22 12:12:47",
+    "hash": "1f390042434f55838a90171a23c4c36ebec2bd79"
+  },
+  "gPhoto/2017/IMG_0339.JPG": {
+    "size": 863769,
+    "stamp": "2017:08:22 12:48:00",
+    "hash": "a3fe37e93c6bdaa12d156c66c5ea8e88c7b324c7"
+  },
+  "gPhoto/2017/IMG_0340.JPG": {
+    "size": 1698671,
+    "stamp": "2017:08:22 13:00:03",
+    "hash": "8fc49be3b1aeb6be5d781abe153eb1ad8dd0e7b9"
+  },
+  "gPhoto/2017/IMG_0341 (1).JPG": {
+    "size": 1193235,
+    "stamp": "2017:05:07 19:40:19",
+    "hash": "a86669f69f6dc5fd402947178ba25a9a397eabc2"
+  },
+  "gPhoto/2017/IMG_0341.JPG": {
+    "size": 951851,
+    "stamp": "2017:08:22 13:00:13",
+    "hash": "df2a9cf12196008a4a4aefa0356abca85bb75e07"
+  },
+  "gPhoto/2017/IMG_0342.JPG": {
+    "size": 650697,
+    "stamp": "2017:08:22 13:00:37",
+    "hash": "8217eb0d8cfc834cd6077db55982bf90493ad62e"
+  },
+  "gPhoto/2017/IMG_0343 (1).JPG": {
+    "size": 1138914,
+    "stamp": "2017:05:07 19:42:18",
+    "hash": "88ddac5f975ce73331708002339f85dad2b59dc3"
+  },
+  "gPhoto/2017/IMG_0343.JPG": {
+    "size": 1046574,
+    "stamp": "2017:08:22 13:00:50",
+    "hash": "d134f09baa3cffaef18a7aaec4cdf1c2abf22dee"
+  },
+  "gPhoto/2017/IMG_0344.JPG": {
+    "size": 1233638,
+    "stamp": "2017:05:07 19:44:31",
+    "hash": "564a1e62d2ec7efae776fbe92031eaf523a68adf"
+  },
+  "gPhoto/2017/IMG_0346.JPG": {
+    "size": 2393724,
+    "stamp": "2017:08:23 12:44:38",
+    "hash": "9168b01a63a332cfe248c9f29412bfa219962824"
+  },
+  "gPhoto/2017/IMG_0348.JPG": {
+    "size": 242782,
+    "stamp": "Unknown",
+    "hash": "13b145e4a41b8ca85b8e875a2e5eca9b7014d387"
+  },
+  "gPhoto/2017/IMG_0349 (1).JPG": {
+    "size": 906766,
+    "stamp": "2017:05:07 19:46:17",
+    "hash": "df37585bd4a26aec10c8bf6bed86b5a343f320db"
+  },
+  "gPhoto/2017/IMG_0349.JPG": {
+    "size": 205439,
+    "stamp": "Unknown",
+    "hash": "b12cf426c3550791a8dfbffdbf709abf662ef4a2"
+  },
+  "gPhoto/2017/IMG_0350 (1).JPG": {
+    "size": 971855,
+    "stamp": "2017:05:07 19:46:18",
+    "hash": "21ed0076fad1685983dcd5b5ee9aa756ff23dd3a"
+  },
+  "gPhoto/2017/IMG_0350.JPG": {
+    "size": 711973,
+    "stamp": "2017:08:23 17:04:44",
+    "hash": "af946b67379aae91882f4a5ba5c0a76454ad5d56"
+  },
+  "gPhoto/2017/IMG_0351 (1).JPG": {
+    "size": 1093801,
+    "stamp": "2017:05:07 19:46:29",
+    "hash": "3d796ae9e37c4ec3d80740078dcec9a2cee85161"
+  },
+  "gPhoto/2017/IMG_0351.JPG": {
+    "size": 809917,
+    "stamp": "2017:08:23 17:04:51",
+    "hash": "d314f7991e92c380a69d4c811088f5ac171ed5bb"
+  },
+  "gPhoto/2017/IMG_0352 (1).JPG": {
+    "size": 1090423,
+    "stamp": "2017:05:07 19:46:30",
+    "hash": "c61b1efe2d3e76e3b61f678a027d90d5e8a62c9c"
+  },
+  "gPhoto/2017/IMG_0352.JPG": {
+    "size": 823134,
+    "stamp": "2017:08:23 17:04:52",
+    "hash": "399c227711433f4ffc453fca6f53e6086f0c48f7"
+  },
+  "gPhoto/2017/IMG_0353.JPG": {
+    "size": 720856,
+    "stamp": "2017:08:23 17:04:53",
+    "hash": "181982445429aac724e4c3bd4889d17588c05860"
+  },
+  "gPhoto/2017/IMG_0354.JPG": {
+    "size": 820883,
+    "stamp": "2017:08:23 17:04:54",
+    "hash": "fe4582e09c6f8eb61f08c7078e2b43dbd5ff4edd"
+  },
+  "gPhoto/2017/IMG_0356 (1).JPG": {
+    "size": 1065628,
+    "stamp": "2017:05:07 19:54:23",
+    "hash": "b9dcad1558fee50c097d963259e7da5a11217a26"
+  },
+  "gPhoto/2017/IMG_0356.JPG": {
+    "size": 3155061,
+    "stamp": "2017:08:24 09:37:05",
+    "hash": "47fa6b5bed0531e32f5490c088d97563dd5bf5ba"
+  },
+  "gPhoto/2017/IMG_0357 (1).JPG": {
+    "size": 1279504,
+    "stamp": "2017:05:07 19:54:30",
+    "hash": "7d9fb9be4451f8adccd9f072f5600744f88b9dce"
+  },
+  "gPhoto/2017/IMG_0357.JPG": {
+    "size": 3195085,
+    "stamp": "2017:08:24 09:37:08",
+    "hash": "8fb7400fc5d55001684034d7e94efebd296927ef"
+  },
+  "gPhoto/2017/IMG_0358.JPG": {
+    "size": 3249480,
+    "stamp": "2017:08:24 09:37:11",
+    "hash": "fb757842eeb5e7cf3ca69535bb9778cefbf4f27f"
+  },
+  "gPhoto/2017/IMG_0359 (1).JPG": {
+    "size": 952374,
+    "stamp": "2017:05:07 19:55:16",
+    "hash": "cd24269648d53ca7e38f27d442c365dbc4df2009"
+  },
+  "gPhoto/2017/IMG_0359.JPG": {
+    "size": 3079178,
+    "stamp": "2017:08:24 11:41:24",
+    "hash": "18739feaebc2894506e364359e041b56e8c2e2fd"
+  },
+  "gPhoto/2017/IMG_0360 (1).JPG": {
+    "size": 894047,
+    "stamp": "2017:05:07 19:56:24",
+    "hash": "a517f7b4960c1c0a5ce7bdd325c48d0407374829"
+  },
+  "gPhoto/2017/IMG_0360.JPG": {
+    "size": 3431862,
+    "stamp": "2017:08:24 11:42:06",
+    "hash": "c35227a2c6733ae03c08e5c27cd7edb09394a44a"
+  },
+  "gPhoto/2017/IMG_0361 (1).JPG": {
+    "size": 1787194,
+    "stamp": "2017:05:14 09:42:34",
+    "hash": "2ef675a15aa8c8a2f20a7cfa95bd307a60bbfe36"
+  },
+  "gPhoto/2017/IMG_0361.JPG": {
+    "size": 2040332,
+    "stamp": "2017:08:24 11:42:18",
+    "hash": "73da2a591045f6adf8dbe47e77b29bd890b613c7"
+  },
+  "gPhoto/2017/IMG_0362 (1).JPG": {
+    "size": 1681510,
+    "stamp": "2017:05:14 09:42:47",
+    "hash": "d6de7fc4065d160b17be64d685835f286062c2f8"
+  },
+  "gPhoto/2017/IMG_0362.JPG": {
+    "size": 2610325,
+    "stamp": "2017:08:24 11:42:29",
+    "hash": "1214f267811c33212032b9f4594ebd61e7e542bc"
+  },
+  "gPhoto/2017/IMG_0363.JPG": {
+    "size": 1745842,
+    "stamp": "2017:05:14 09:42:59",
+    "hash": "841cdb534e5a165e96f6aba49017cbcca835b2bb"
+  },
+  "gPhoto/2017/IMG_0364 (1).JPG": {
+    "size": 1616375,
+    "stamp": "2017:05:14 09:43:37",
+    "hash": "802b8119ece63a1255e3dece778dfb016f67960e"
+  },
+  "gPhoto/2017/IMG_0364.JPG": {
+    "size": 319633,
+    "stamp": "2017:08:24 11:43:17",
+    "hash": "a6917d039a10be85ad334a1b723a87f094fbf390"
+  },
+  "gPhoto/2017/IMG_0365 (1).JPG": {
+    "size": 1526727,
+    "stamp": "2017:05:14 09:43:52",
+    "hash": "3560cbe2c95f6f7b3bea8c8a78d395d442997d78"
+  },
+  "gPhoto/2017/IMG_0365.JPG": {
+    "size": 3802586,
+    "stamp": "2017:08:24 11:43:20",
+    "hash": "9125241a5b9bca8988b43b719cfb127123de1068"
+  },
+  "gPhoto/2017/IMG_0366 (1).JPG": {
+    "size": 2063306,
+    "stamp": "2017:05:14 09:44:45",
+    "hash": "372123a2f3254bba3d6ac9ed6e58d9e9304bcd31"
+  },
+  "gPhoto/2017/IMG_0366.JPG": {
+    "size": 3779821,
+    "stamp": "2017:08:24 11:43:21",
+    "hash": "dc6faef728f90c4fce64f4b012f483dfa2958a37"
+  },
+  "gPhoto/2017/IMG_0367 (1).JPG": {
+    "size": 2032440,
+    "stamp": "2017:05:14 09:44:46",
+    "hash": "e1508bf4959b527908e6ccb71b683ee845e347b5"
+  },
+  "gPhoto/2017/IMG_0367.JPG": {
+    "size": 3571510,
+    "stamp": "2017:08:24 11:43:23",
+    "hash": "847d3c1241e2186d6ca6242e2b088566dae3ca49"
+  },
+  "gPhoto/2017/IMG_0368 (1).JPG": {
+    "size": 2069003,
+    "stamp": "2017:05:14 09:46:39",
+    "hash": "26262783fa1e8265d42d6625970363a9f8f25b26"
+  },
+  "gPhoto/2017/IMG_0368.JPG": {
+    "size": 3756028,
+    "stamp": "2017:08:24 11:43:25",
+    "hash": "f913a43982afc074dd94dd64d56c5d3eaa12f4e8"
+  },
+  "gPhoto/2017/IMG_0369.JPG": {
+    "size": 3570418,
+    "stamp": "2017:08:24 11:43:26",
+    "hash": "e4615b5f7acc00fbb647281c1e2d57e572c2f511"
+  },
+  "gPhoto/2017/IMG_0370.JPG": {
+    "size": 76774,
+    "stamp": "Unknown",
+    "hash": "012b83fb032fe031e61bb0d839fb4c480ab8e0ce"
+  },
+  "gPhoto/2017/IMG_0371.JPG": {
+    "size": 148053,
+    "stamp": "Unknown",
+    "hash": "ebe06b9cf73cf8e18476faec859a64b5f708ea93"
+  },
+  "gPhoto/2017/IMG_0372 (1).JPG": {
+    "size": 1583186,
+    "stamp": "2017:05:14 11:17:59",
+    "hash": "2770926b549c7083545ab49b55e9bfe78047d1c4"
+  },
+  "gPhoto/2017/IMG_0372.JPG": {
+    "size": 177812,
+    "stamp": "Unknown",
+    "hash": "6f163e1861a609f1440d6bdc63fff2a316ee73cc"
+  },
+  "gPhoto/2017/IMG_0373.JPG": {
+    "size": 102119,
+    "stamp": "Unknown",
+    "hash": "c4b68e160f727e41752c7035743e6bcc3578d0fa"
+  },
+  "gPhoto/2017/IMG_0374.JPG": {
+    "size": 100239,
+    "stamp": "Unknown",
+    "hash": "f388a962f2c1d6db43d002f68b3675a786defc75"
+  },
+  "gPhoto/2017/IMG_0375 (1).JPG": {
+    "size": 1388292,
+    "stamp": "2017:05:14 11:22:09",
+    "hash": "a26d6308ea52c955c2432baeee6e65eced7e2eeb"
+  },
+  "gPhoto/2017/IMG_0375.JPG": {
+    "size": 145061,
+    "stamp": "Unknown",
+    "hash": "b6954736e4cc7d9ab6567b05319b4f5d4b684c4a"
+  },
+  "gPhoto/2017/IMG_0376.JPG": {
+    "size": 139840,
+    "stamp": "Unknown",
+    "hash": "abaa5656955b86ce343c0272f6885a3b0d82a314"
+  },
+  "gPhoto/2017/IMG_0377 (1).JPG": {
+    "size": 1436365,
+    "stamp": "2017:05:14 11:54:44",
+    "hash": "1851bd8bcd27c56fa46b618f43dde98829574ee3"
+  },
+  "gPhoto/2017/IMG_0377.JPG": {
+    "size": 189094,
+    "stamp": "Unknown",
+    "hash": "05c51ca1547c03504e954e98dbad544df3425467"
+  },
+  "gPhoto/2017/IMG_0378 (1).JPG": {
+    "size": 1529972,
+    "stamp": "2017:05:14 11:55:17",
+    "hash": "9e53dfe8ed09a34055b42ac42707f127351f03c6"
+  },
+  "gPhoto/2017/IMG_0378.JPG": {
+    "size": 185269,
+    "stamp": "Unknown",
+    "hash": "6cebb543544c7e4935fc5d98453008f89dc957f6"
+  },
+  "gPhoto/2017/IMG_0379.JPG": {
+    "size": 73413,
+    "stamp": "Unknown",
+    "hash": "c396fa475eed21a6971e1ba83b97d0aba2c52c69"
+  },
+  "gPhoto/2017/IMG_0381 (1).JPG": {
+    "size": 1634188,
+    "stamp": "2017:05:17 07:34:31",
+    "hash": "8aef56a5402dc9585871709922bdf1317e549290"
+  },
+  "gPhoto/2017/IMG_0381.JPG": {
+    "size": 194218,
+    "stamp": "Unknown",
+    "hash": "504514c4df46e8f61b3abf019c9f76c33d6398a9"
+  },
+  "gPhoto/2017/IMG_0382.JPG": {
+    "size": 99285,
+    "stamp": "Unknown",
+    "hash": "7eb6e82b655302b1e75b266de824248c5891e16b"
+  },
+  "gPhoto/2017/IMG_0383.JPG": {
+    "size": 168223,
+    "stamp": "Unknown",
+    "hash": "d6b0cdb893d46fc26943c2b13683d4b0ececc710"
+  },
+  "gPhoto/2017/IMG_0384.JPG": {
+    "size": 110947,
+    "stamp": "Unknown",
+    "hash": "0e866711878de13556153b298b218fefabee388f"
+  },
+  "gPhoto/2017/IMG_0385.JPG": {
+    "size": 149494,
+    "stamp": "Unknown",
+    "hash": "8c59956fc8e569a749c5f1ccf2c3bd5d86570cbc"
+  },
+  "gPhoto/2017/IMG_0386.JPG": {
+    "size": 105810,
+    "stamp": "Unknown",
+    "hash": "953d6bea9c2928d3a5cfa0eaf3f17c7d046b9f7d"
+  },
+  "gPhoto/2017/IMG_0387 (1).JPG": {
+    "size": 1588243,
+    "stamp": "2017:05:17 07:37:14",
+    "hash": "6b29a7b3e9874cfd768d9fb4a580252bc068d161"
+  },
+  "gPhoto/2017/IMG_0387.JPG": {
+    "size": 203696,
+    "stamp": "Unknown",
+    "hash": "fd7138e64cc5c3286a4014237d2717968c033ddd"
+  },
+  "gPhoto/2017/IMG_0389.JPG": {
+    "size": 219491,
+    "stamp": "Unknown",
+    "hash": "5edb8cbcaaed61b584b6e54eab769d203b498d04"
+  },
+  "gPhoto/2017/IMG_0391.JPG": {
+    "size": 3030366,
+    "stamp": "2017:08:24 12:42:46",
+    "hash": "5d6c8748f52a6cf5a0d5b4219e822c762c004598"
+  },
+  "gPhoto/2017/IMG_0392.JPG": {
+    "size": 1935170,
+    "stamp": "2017:08:24 12:49:59",
+    "hash": "f064cf6bd8dae7a674f5cc61f8f4e55c122adf1c"
+  },
+  "gPhoto/2017/IMG_0393.JPG": {
+    "size": 1980212,
+    "stamp": "2017:05:20 09:05:47",
+    "hash": "4ccecbf0acf78061004d12a6f7bea380654eaa58"
+  },
+  "gPhoto/2017/IMG_0394.JPG": {
+    "size": 1546631,
+    "stamp": "2017:08:24 14:22:11",
+    "hash": "772428c022b621e8161be435dbfd323b4527b292"
+  },
+  "gPhoto/2017/IMG_0395.JPG": {
+    "size": 2453309,
+    "stamp": "2017:08:24 14:22:43",
+    "hash": "016959ee71504e90ee42588abac45257d3d926d4"
+  },
+  "gPhoto/2017/IMG_0396.JPG": {
+    "size": 2556746,
+    "stamp": "2017:08:24 14:22:47",
+    "hash": "7045ab9138ce655f77aa2cf4f69d1dd548fa52be"
+  },
+  "gPhoto/2017/IMG_0397.JPG": {
+    "size": 2141741,
+    "stamp": "2017:08:24 15:48:11",
+    "hash": "a13b35c25e50a7ea8cfe2b8b984f8112ea1f486c"
+  },
+  "gPhoto/2017/IMG_0398.JPG": {
+    "size": 2030036,
+    "stamp": "2017:08:24 15:48:20",
+    "hash": "56a8e41a3edad50c988f6b8785aed02b1f74b305"
+  },
+  "gPhoto/2017/IMG_0399.JPG": {
+    "size": 2006892,
+    "stamp": "2017:08:24 15:48:21",
+    "hash": "341edc1dd3cae303dfd77280637a73e255861321"
+  },
+  "gPhoto/2017/IMG_0400 (1).JPG": {
+    "size": 1885844,
+    "stamp": "2017:06:11 09:17:27",
+    "hash": "f9e3fe5f1889f3d4d4ef44ee35ce719021b9500f"
+  },
+  "gPhoto/2017/IMG_0400.JPG": {
+    "size": 2091074,
+    "stamp": "2017:08:24 15:48:23",
+    "hash": "b733af011c971f31a54349f1e0daeb7734076c24"
+  },
+  "gPhoto/2017/IMG_0401 (1).JPG": {
+    "size": 1833679,
+    "stamp": "2017:06:11 09:17:28",
+    "hash": "825035341805a4e00a7f2deee4c4d23db8ab6e82"
+  },
+  "gPhoto/2017/IMG_0401.JPG": {
+    "size": 2236908,
+    "stamp": "2017:08:24 15:48:28",
+    "hash": "c360b33862efed2724706eabb4be2b1041095bfd"
+  },
+  "gPhoto/2017/IMG_0402.JPG": {
+    "size": 2144590,
+    "stamp": "2017:08:24 15:49:17",
+    "hash": "bc959350001ba7eb25ba7c8e33dfdd62acdb44c5"
+  },
+  "gPhoto/2017/IMG_0403.JPG": {
+    "size": 1964525,
+    "stamp": "2017:08:24 15:49:19",
+    "hash": "de5b4b8eb4fd283f29b850f291ef4a7560db48e2"
+  },
+  "gPhoto/2017/IMG_0404.JPG": {
+    "size": 2066216,
+    "stamp": "2017:08:24 15:49:20",
+    "hash": "1864a66baf6990609884ab8500404e6bcea9d0ee"
+  },
+  "gPhoto/2017/IMG_0405.JPG": {
+    "size": 2057256,
+    "stamp": "2017:08:24 15:49:21",
+    "hash": "5f7edc7515b1b1ae88f8d717e30144e6cc9d9eec"
+  },
+  "gPhoto/2017/IMG_0406.JPG": {
+    "size": 1696879,
+    "stamp": "2017:08:24 15:52:13",
+    "hash": "ad5ec52e99891e2e0704639721224864806c28db"
+  },
+  "gPhoto/2017/IMG_0407.JPG": {
+    "size": 1960175,
+    "stamp": "2017:08:24 15:52:24",
+    "hash": "2f7348958e9646551144a7d414178d47d35f2f29"
+  },
+  "gPhoto/2017/IMG_0408.JPG": {
+    "size": 1865535,
+    "stamp": "2017:08:24 15:52:30",
+    "hash": "af320c5129c86eb4b4d5bca53194c5b3a2c4d13b"
+  },
+  "gPhoto/2017/IMG_0409.JPG": {
+    "size": 1947118,
+    "stamp": "2017:08:24 15:52:31",
+    "hash": "b198ad2f18a37943414f3dd597a817d0a88a094a"
+  },
+  "gPhoto/2017/IMG_0410.JPG": {
+    "size": 2555578,
+    "stamp": "2017:08:24 15:52:50",
+    "hash": "3e1646919c3783c1f3d3c8c2db7b8ee0de85d05a"
+  },
+  "gPhoto/2017/IMG_0411 (1).JPG": {
+    "size": 2094533,
+    "stamp": "2017:06:15 10:36:18",
+    "hash": "e1419b4ffc0b05030c32e5ccdccad41714f29617"
+  },
+  "gPhoto/2017/IMG_0411.JPG": {
+    "size": 2413902,
+    "stamp": "2017:08:24 15:53:12",
+    "hash": "6265928064ed79eadd3896905d8d1775f41307e3"
+  },
+  "gPhoto/2017/IMG_0413.JPG": {
+    "size": 719220,
+    "stamp": "2017:08:24 15:53:20",
+    "hash": "a5cbab5ea1f0a42c6ab5b2b3db09204cd6f851d0"
+  },
+  "gPhoto/2017/IMG_0414 (1).JPG": {
+    "size": 3009373,
+    "stamp": "2017:06:17 10:13:30",
+    "hash": "6c1a347e082a774f9e0eed1da21cfa36731c5317"
+  },
+  "gPhoto/2017/IMG_0414.JPG": {
+    "size": 2477343,
+    "stamp": "2017:08:24 15:56:42",
+    "hash": "9c505b00d6dbb1b67d7de086ef16b57ab1dbf733"
+  },
+  "gPhoto/2017/IMG_0415.JPG": {
+    "size": 2497962,
+    "stamp": "2017:08:24 15:57:16",
+    "hash": "81a18930e1677b9ddc33e4ac82f90f1c4344e564"
+  },
+  "gPhoto/2017/IMG_0416.JPG": {
+    "size": 2502186,
+    "stamp": "2017:08:24 15:57:28",
+    "hash": "b16786c31ee0c91e76bc8210fec0fd5cb6e53a80"
+  },
+  "gPhoto/2017/IMG_0417.JPG": {
+    "size": 2384963,
+    "stamp": "2017:08:24 15:57:47",
+    "hash": "32fcb9bdf15a1a4f2cd6372ebdcf270ddfab4f8d"
+  },
+  "gPhoto/2017/IMG_0418.JPG": {
+    "size": 1610571,
+    "stamp": "2017:08:24 16:11:18",
+    "hash": "955e0e677f71097f725bed43daf9f58ef5bd26e2"
+  },
+  "gPhoto/2017/IMG_0419 (1).JPG": {
+    "size": 1963266,
+    "stamp": "2017:06:17 10:16:10",
+    "hash": "c7b7ba6d278c6429b6caae4e39bee73df07e9b7c"
+  },
+  "gPhoto/2017/IMG_0419.JPG": {
+    "size": 1592707,
+    "stamp": "2017:08:24 16:11:26",
+    "hash": "8cb31fb051a9d8c16d82130e19a9635a26c4fc26"
+  },
+  "gPhoto/2017/IMG_0420.JPG": {
+    "size": 1160631,
+    "stamp": "2017:08:24 16:11:37",
+    "hash": "c2e62adf679626cb2b1ac0e4aeda328ea6dc1a93"
+  },
+  "gPhoto/2017/IMG_0421.JPG": {
+    "size": 1384676,
+    "stamp": "2017:08:24 16:29:07",
+    "hash": "d24f45bff894910b9159d259af3cb2600b9795dc"
+  },
+  "gPhoto/2017/IMG_0422 (1).JPG": {
+    "size": 2045639,
+    "stamp": "2017:06:17 10:28:55",
+    "hash": "da6d9174aa1de880db894a4ca94bc4b48304e72a"
+  },
+  "gPhoto/2017/IMG_0422.JPG": {
+    "size": 1346569,
+    "stamp": "2017:08:24 16:29:15",
+    "hash": "2f6613c1a23257d41bdea28aea43fd26086164af"
+  },
+  "gPhoto/2017/IMG_0424.JPG": {
+    "size": 1702353,
+    "stamp": "2017:08:24 17:03:55",
+    "hash": "0c3841cbce76365e8a7c345d00cd1cb9039a10a9"
+  },
+  "gPhoto/2017/IMG_0425 (1).JPG": {
+    "size": 1719193,
+    "stamp": "2017:06:20 08:20:56",
+    "hash": "c6681e3b27626f2ff70282b0f27269887e2ba2c9"
+  },
+  "gPhoto/2017/IMG_0425.JPG": {
+    "size": 772351,
+    "stamp": "2017:08:24 18:30:58",
+    "hash": "054da9578882739f078239ffa10a8fc644ea587c"
+  },
+  "gPhoto/2017/IMG_0426.JPG": {
+    "size": 1397083,
+    "stamp": "2017:08:25 12:20:30",
+    "hash": "6f0ce6efae2ee25ef08c7690f653971b60f8be2f"
+  },
+  "gPhoto/2017/IMG_0427.JPG": {
+    "size": 1196684,
+    "stamp": "2017:08:25 12:21:27",
+    "hash": "40349e5f2e4d2129e9ac5719fd1ab77dfacacb53"
+  },
+  "gPhoto/2017/IMG_0429 (1).JPG": {
+    "size": 1644729,
+    "stamp": "2017:06:20 09:02:03",
+    "hash": "79c69a5a5446056b0b99482aad43d927a50ffcbe"
+  },
+  "gPhoto/2017/IMG_0429.JPG": {
+    "size": 2307611,
+    "stamp": "2017:08:25 12:31:36",
+    "hash": "3693e26d1ea29808aacd54c89ff70d0c89ec8b1b"
+  },
+  "gPhoto/2017/IMG_0430.JPG": {
+    "size": 2794061,
+    "stamp": "2017:08:25 14:33:31",
+    "hash": "55d22948833bbcb7c42a3a0b8ade67624cb8c64a"
+  },
+  "gPhoto/2017/IMG_0431.JPG": {
+    "size": 2929165,
+    "stamp": "2017:08:25 14:33:39",
+    "hash": "67620c8f6903518d6c249f88cf558c26d621c1f3"
+  },
+  "gPhoto/2017/IMG_0432.JPG": {
+    "size": 256528,
+    "stamp": "2017:08:25 21:11:34",
+    "hash": "4d7125e0e30f413ee5920bd5412d40cf8b4ff442"
+  },
+  "gPhoto/2017/IMG_0433.JPG": {
+    "size": 246651,
+    "stamp": "2017:08:25 21:11:46",
+    "hash": "c0f3778c9e81d9e492960f85d81d9aec2e8fd583"
+  },
+  "gPhoto/2017/IMG_0437.JPG": {
+    "size": 1827461,
+    "stamp": "2017:08:26 18:37:02",
+    "hash": "f42e353b0dbbec9ae2f5f089e154ea4dda51ed66"
+  },
+  "gPhoto/2017/IMG_0444.JPG": {
+    "size": 2687168,
+    "stamp": "2017:08:26 18:39:55",
+    "hash": "e9078c3561214eb180a3e3a13c1575c2845b66ea"
+  },
+  "gPhoto/2017/IMG_0445 (1).JPG": {
+    "size": 1269752,
+    "stamp": "2017:07:04 12:11:39",
+    "hash": "2415ac262721c6a8a06cfcbe80266261be9cec9b"
+  },
+  "gPhoto/2017/IMG_0445.JPG": {
+    "size": 2338906,
+    "stamp": "2017:08:26 18:40:00",
+    "hash": "46c4a85b97b94c11f925b5e8bd156a06d9a3b2ee"
+  },
+  "gPhoto/2017/IMG_0446.JPG": {
+    "size": 2290504,
+    "stamp": "2017:08:26 18:40:02",
+    "hash": "55b0c5718dda3cf4bdc013f9fffa04754ca4dc0b"
+  },
+  "gPhoto/2017/IMG_0447.JPG": {
+    "size": 2079725,
+    "stamp": "2017:08:26 18:42:56",
+    "hash": "f635e15d24a146ca28264b34bdf495381bafb4c1"
+  },
+  "gPhoto/2017/IMG_0448 (1).JPG": {
+    "size": 2665081,
+    "stamp": "2017:07:08 16:59:01",
+    "hash": "e9de4007fe402358877cc39dbe7223908593264c"
+  },
+  "gPhoto/2017/IMG_0448.JPG": {
+    "size": 1812625,
+    "stamp": "2017:08:26 18:43:28",
+    "hash": "7116cfc3cb5bbc7f0c7fd64227608652b4e28333"
+  },
+  "gPhoto/2017/IMG_0449 (1).JPG": {
+    "size": 3002475,
+    "stamp": "2017:07:08 16:59:25",
+    "hash": "7243115602873aace2e7788fd1fe722a67d6ac69"
+  },
+  "gPhoto/2017/IMG_0449.JPG": {
+    "size": 1870126,
+    "stamp": "2017:08:26 18:43:55",
+    "hash": "609f96b84cd15174663e9b916105e26d497447e6"
+  },
+  "gPhoto/2017/IMG_0450 (1).JPG": {
+    "size": 3026984,
+    "stamp": "2017:07:08 16:59:29",
+    "hash": "d1e348ad6776d669ea7895d74d7ded75289efe08"
+  },
+  "gPhoto/2017/IMG_0450.JPG": {
+    "size": 2221837,
+    "stamp": "2017:08:26 18:56:22",
+    "hash": "14deb8287bf2e13294d600f24201d0b6549c8e4f"
+  },
+  "gPhoto/2017/IMG_0451.JPG": {
+    "size": 1709103,
+    "stamp": "2017:08:26 18:56:28",
+    "hash": "479a0037b0a6a45de0254faf5a15142d739a064f"
+  },
+  "gPhoto/2017/IMG_0454.JPG": {
+    "size": 1891522,
+    "stamp": "2017:08:26 18:59:08",
+    "hash": "2f4e295624e46955de35a582d6ef2aa10d18d829"
+  },
+  "gPhoto/2017/IMG_0455 (1).JPG": {
+    "size": 1738708,
+    "stamp": "2017:07:11 14:13:17",
+    "hash": "09a36bac87aa49943dbc193dffaef011dc972b00"
+  },
+  "gPhoto/2017/IMG_0455.JPG": {
+    "size": 1854221,
+    "stamp": "2017:08:26 19:11:05",
+    "hash": "3f877fae649fb78f5b9bc766ac726b0718c17a84"
+  },
+  "gPhoto/2017/IMG_0456 (1).JPG": {
+    "size": 1641371,
+    "stamp": "2017:07:11 14:14:15",
+    "hash": "0fb31967a13d07e5fbf4dbd151e9d63d8b58bb2e"
+  },
+  "gPhoto/2017/IMG_0456.JPG": {
+    "size": 1105399,
+    "stamp": "2017:08:26 19:26:22",
+    "hash": "1b9ce5d61f124a48978ff14e740ec8d0488ad98e"
+  },
+  "gPhoto/2017/IMG_0457.JPG": {
+    "size": 1388620,
+    "stamp": "2017:08:26 19:27:05",
+    "hash": "2c1ee38d249b2a6e942233637881390ac5aa06f1"
+  },
+  "gPhoto/2017/IMG_0458.JPG": {
+    "size": 1333247,
+    "stamp": "2017:08:26 19:27:11",
+    "hash": "0c51cb8d60fe07843684bf3a2c2d72aead506a96"
+  },
+  "gPhoto/2017/IMG_0459 (1).JPG": {
+    "size": 1849669,
+    "stamp": "2017:07:11 14:14:39",
+    "hash": "ff63b10e651e4360350f21c9caab3fba7536215b"
+  },
+  "gPhoto/2017/IMG_0459.JPG": {
+    "size": 1397183,
+    "stamp": "2017:08:26 19:29:24",
+    "hash": "43bdbead28a8ac89b02a62bdb2355a7b0db9f3a9"
+  },
+  "gPhoto/2017/IMG_0460 (1).JPG": {
+    "size": 1586008,
+    "stamp": "2017:07:11 14:14:46",
+    "hash": "008dbe6b1381401b6a6ff277a17eddb4f97ea6fd"
+  },
+  "gPhoto/2017/IMG_0460.JPG": {
+    "size": 1661840,
+    "stamp": "2017:08:26 19:29:29",
+    "hash": "95c7e0797f39fb8f0b167c23100efdc161dc8c13"
+  },
+  "gPhoto/2017/IMG_0461 (1).JPG": {
+    "size": 1685348,
+    "stamp": "2017:07:11 14:14:50",
+    "hash": "675a371902b634a44054953d7292db2bc503975d"
+  },
+  "gPhoto/2017/IMG_0461.JPG": {
+    "size": 1646269,
+    "stamp": "2017:08:26 19:31:35",
+    "hash": "dccfb6873215d62ffd8aa6d14866c02be026854c"
+  },
+  "gPhoto/2017/IMG_0462.JPG": {
+    "size": 1591384,
+    "stamp": "2017:08:26 19:35:34",
+    "hash": "33dd729cee0a319436b505853ff1ac79504d7f64"
+  },
+  "gPhoto/2017/IMG_0463.JPG": {
+    "size": 1687637,
+    "stamp": "2017:08:26 19:35:46",
+    "hash": "84afb3b04811c8f59bf215138dbd94f369781ce4"
+  },
+  "gPhoto/2017/IMG_0464.JPG": {
+    "size": 1659436,
+    "stamp": "2017:08:26 19:35:46",
+    "hash": "9ff8409e2071b9984f20bcfe0ab43f8b07e5bbb4"
+  },
+  "gPhoto/2017/IMG_0466.JPG": {
+    "size": 1953527,
+    "stamp": "2017:07:22 11:06:39",
+    "hash": "aed27c1a0da42854f7f3242ce23cafbe1b8a803a"
+  },
+  "gPhoto/2017/IMG_0467 (1).JPG": {
+    "size": 1419812,
+    "stamp": "2017:07:22 11:10:17",
+    "hash": "4f33261fb16f2c7d8367bc35f40a9fa09d5107b2"
+  },
+  "gPhoto/2017/IMG_0467.JPG": {
+    "size": 2473102,
+    "stamp": "2017:08:26 20:40:23",
+    "hash": "08534a7f4c22183f882f74ecf5e30588e5fbb9ac"
+  },
+  "gPhoto/2017/IMG_0468.JPG": {
+    "size": 2395315,
+    "stamp": "2017:08:26 20:40:29",
+    "hash": "74a30bc9825747b5a5c7d548ee7586b26a7cfbbf"
+  },
+  "gPhoto/2017/IMG_0469.JPG": {
+    "size": 2566441,
+    "stamp": "2017:08:26 20:40:47",
+    "hash": "002507f00888fb249f7b24f28ebe5e31a6545dd0"
+  },
+  "gPhoto/2017/IMG_0470.JPG": {
+    "size": 1641670,
+    "stamp": "2017:08:26 20:40:54",
+    "hash": "2ca703ffd5ed011b69a52ad860d4a51d6fc2a501"
+  },
+  "gPhoto/2017/IMG_0471.JPG": {
+    "size": 1244996,
+    "stamp": "2017:08:26 20:41:27",
+    "hash": "c017a35ad6b22f61afc7b3aa0eb973959ecf9ef3"
+  },
+  "gPhoto/2017/IMG_0472.JPG": {
+    "size": 1033680,
+    "stamp": "2017:08:26 20:46:06",
+    "hash": "510c66a76ff5c5bb1da56894de973f5e4004387c"
+  },
+  "gPhoto/2017/IMG_0473.JPG": {
+    "size": 1046630,
+    "stamp": "2017:08:26 20:46:06",
+    "hash": "f40a1d58e0db5dd204db6d69781e7673cb842606"
+  },
+  "gPhoto/2017/IMG_0474.JPG": {
+    "size": 1079890,
+    "stamp": "2017:08:26 20:46:06",
+    "hash": "c7d7aa2af1f46b1ab0116b55ce1904e7099609df"
+  },
+  "gPhoto/2017/IMG_0475.JPG": {
+    "size": 1262824,
+    "stamp": "2017:08:26 20:46:15",
+    "hash": "814c6f0ccd46c32b89c7bf1e748e0565325e7284"
+  },
+  "gPhoto/2017/IMG_0476.JPG": {
+    "size": 2048108,
+    "stamp": "2017:08:26 20:47:46",
+    "hash": "62999a6ad1399e8e9c25f990dde12ceb0c9d1552"
+  },
+  "gPhoto/2017/IMG_0477.JPG": {
+    "size": 1975298,
+    "stamp": "2017:08:26 20:47:49",
+    "hash": "962c722e07a5df2c9acc074245e8ab416b0eaaba"
+  },
+  "gPhoto/2017/IMG_0478.JPG": {
+    "size": 2141812,
+    "stamp": "2017:08:26 20:47:50",
+    "hash": "054d00fb155b3898b2ed93eb1b8bce23bcd1eb49"
+  },
+  "gPhoto/2017/IMG_0479.JPG": {
+    "size": 2053198,
+    "stamp": "2017:08:26 20:47:54",
+    "hash": "c7ecea2be43edc0ac5f6ba2cbc304c158f96f2ad"
+  },
+  "gPhoto/2017/IMG_0480.JPG": {
+    "size": 2234694,
+    "stamp": "2017:08:26 20:48:20",
+    "hash": "1100641959cd563678dc393772d585e6febe61ee"
+  },
+  "gPhoto/2017/IMG_0481.JPG": {
+    "size": 2043044,
+    "stamp": "2017:08:26 20:48:22",
+    "hash": "d889492d184c2879cf737bfdf332d2d8ffeaee00"
+  },
+  "gPhoto/2017/IMG_0482.JPG": {
+    "size": 2081591,
+    "stamp": "2017:08:26 20:48:33",
+    "hash": "afb9e5797ee497e2e29f8cb2c48bd12a37477876"
+  },
+  "gPhoto/2017/IMG_0484.JPG": {
+    "size": 753127,
+    "stamp": "2017:08:26 20:55:43",
+    "hash": "b7b9f18532f757d0cc37611d59fb737353b97cdf"
+  },
+  "gPhoto/2017/IMG_0485.JPG": {
+    "size": 1984921,
+    "stamp": "2017:08:26 20:56:00",
+    "hash": "02a73e857acd59f2c9d0315e3b0d685716e60b1f"
+  },
+  "gPhoto/2017/IMG_0486.JPG": {
+    "size": 1054698,
+    "stamp": "2017:08:26 20:56:25",
+    "hash": "3beec9137d9546bbf21d231c192ee5b413504b26"
+  },
+  "gPhoto/2017/IMG_0487.JPG": {
+    "size": 1037299,
+    "stamp": "2017:08:26 20:56:29",
+    "hash": "76915d2b0544387f561e11559ab132bdc7631334"
+  },
+  "gPhoto/2017/IMG_0488.JPG": {
+    "size": 1049120,
+    "stamp": "2017:08:26 20:57:04",
+    "hash": "4026c1672f868661ea8066230b90257485db4903"
+  },
+  "gPhoto/2017/IMG_0490.JPG": {
+    "size": 1517617,
+    "stamp": "2017:08:26 20:58:11",
+    "hash": "6836f54bdac085174d9cba0ce00dbed267d0b2c7"
+  },
+  "gPhoto/2017/IMG_0491.JPG": {
+    "size": 1507161,
+    "stamp": "2017:08:26 20:58:14",
+    "hash": "017002ba9a23adef885703709b299c0b811dbd57"
+  },
+  "gPhoto/2017/IMG_0492.JPG": {
+    "size": 1438047,
+    "stamp": "2017:08:26 20:58:17",
+    "hash": "2e0abeb5239683bbefc8a69872c7a8761f5f4ab8"
+  },
+  "gPhoto/2017/IMG_0495.JPG": {
+    "size": 127799,
+    "stamp": "Unknown",
+    "hash": "a85a6d6e056366addd0aacf127d989a6732520f9"
+  },
+  "gPhoto/2017/IMG_0496 (1).JPG": {
+    "size": 1643992,
+    "stamp": "2017:07:22 11:11:50",
+    "hash": "b53d85bdd8d63786e538efa8b08addc414d99641"
+  },
+  "gPhoto/2017/IMG_0496.JPG": {
+    "size": 84464,
+    "stamp": "Unknown",
+    "hash": "904b561e165edc266326ee167ca1a5eefafa3fc3"
+  },
+  "gPhoto/2017/IMG_0497.JPG": {
+    "size": 96129,
+    "stamp": "Unknown",
+    "hash": "32927bf9b7e56be2f0abd021ba7e0bfeabc55df9"
+  },
+  "gPhoto/2017/IMG_0498.JPG": {
+    "size": 95347,
+    "stamp": "Unknown",
+    "hash": "4e5c7e1c7e5b36ae93422c54a90d8f009b8b6adf"
+  },
+  "gPhoto/2017/IMG_0499.JPG": {
+    "size": 136734,
+    "stamp": "Unknown",
+    "hash": "c4a9c4c858bdc8a802d1899c9a037bbdcc0e4240"
+  },
+  "gPhoto/2017/IMG_0500.JPG": {
+    "size": 97934,
+    "stamp": "Unknown",
+    "hash": "ed2784981350ddb8670a4ee54e4676ad6b89b3d3"
+  },
+  "gPhoto/2017/IMG_0501.JPG": {
+    "size": 1485174,
+    "stamp": "2017:08:27 11:30:09",
+    "hash": "74a622a34ccaa5f42d442df2bc91b676fbd6fe55"
+  },
+  "gPhoto/2017/IMG_0502 (1).JPG": {
+    "size": 1843893,
+    "stamp": "2017:07:22 11:12:50",
+    "hash": "808206ff55fecc601bf1e573945b632aa3928678"
+  },
+  "gPhoto/2017/IMG_0502.JPG": {
+    "size": 1522682,
+    "stamp": "2017:08:27 11:30:15",
+    "hash": "4325f047c8f3706c9753f29b9e98d3ac8b4db070"
+  },
+  "gPhoto/2017/IMG_0503.JPG": {
+    "size": 1191792,
+    "stamp": "2017:08:27 11:30:15",
+    "hash": "62751accc4774743cb2f6377f2aa53cd184e10e8"
+  },
+  "gPhoto/2017/IMG_0504.JPG": {
+    "size": 1596108,
+    "stamp": "2017:08:27 12:58:54",
+    "hash": "670472fd5bc3ae85f58496dff036b20631d1a7b7"
+  },
+  "gPhoto/2017/IMG_0505.JPG": {
+    "size": 1391105,
+    "stamp": "2017:08:27 13:14:58",
+    "hash": "0ae05949d0e7a0b8414820a68b70df449c3a51c6"
+  },
+  "gPhoto/2017/IMG_0506.JPG": {
+    "size": 2338671,
+    "stamp": "2017:08:27 13:15:27",
+    "hash": "d124b1d56b24a45ce49f2acf8ec7fa7f6bca8a95"
+  },
+  "gPhoto/2017/IMG_0507 (1).JPG": {
+    "size": 999372,
+    "stamp": "2017:07:22 12:14:55",
+    "hash": "48138ff327e2d2eda4fdb502dfdff870e6d37a6b"
+  },
+  "gPhoto/2017/IMG_0507.JPG": {
+    "size": 1663368,
+    "stamp": "2017:08:27 13:15:59",
+    "hash": "8da9dcf09f1061c8af167dd90f4a9904dd3835db"
+  },
+  "gPhoto/2017/IMG_0508.JPG": {
+    "size": 1721643,
+    "stamp": "2017:08:27 13:16:06",
+    "hash": "73b94c00565462a69c9e1b2581e61443dbe7824a"
+  },
+  "gPhoto/2017/IMG_0509.JPG": {
+    "size": 1273042,
+    "stamp": "2017:08:27 13:26:34",
+    "hash": "b4e30d5a4cb0c762f8f703e610c29d548014b288"
+  },
+  "gPhoto/2017/IMG_0510.JPG": {
+    "size": 1225279,
+    "stamp": "2017:08:27 13:26:48",
+    "hash": "06e2f5b05395bbf203a4c7eedd651677f14368be"
+  },
+  "gPhoto/2017/IMG_0512 (1).JPG": {
+    "size": 959270,
+    "stamp": "2017:07:27 19:35:27",
+    "hash": "2e634d7710619bc150bc115305c9d01d0e223d3d"
+  },
+  "gPhoto/2017/IMG_0512.JPG": {
+    "size": 1246627,
+    "stamp": "2017:08:27 13:36:30",
+    "hash": "a7b11f0130e930dbf039cfe0fb1b19cd80760677"
+  },
+  "gPhoto/2017/IMG_0513.JPG": {
+    "size": 1303603,
+    "stamp": "2017:08:27 13:36:38",
+    "hash": "dc8915f61e3e13649ec0740db2a247f1cebd4c17"
+  },
+  "gPhoto/2017/IMG_0515.JPG": {
+    "size": 2256308,
+    "stamp": "2017:08:27 15:03:24",
+    "hash": "5562556a6930ea8f697ebf25c624d7e59e7c8cf3"
+  },
+  "gPhoto/2017/IMG_0516.JPG": {
+    "size": 2072124,
+    "stamp": "2017:08:27 15:03:25",
+    "hash": "f343d270eb238f2ef949fa0d1e6c641404cc8322"
+  },
+  "gPhoto/2017/IMG_0517.JPG": {
+    "size": 1773615,
+    "stamp": "2017:08:27 15:03:57",
+    "hash": "6b4886eba640d14e2714839cce1685a73370b781"
+  },
+  "gPhoto/2017/IMG_0536.JPG": {
+    "size": 229717,
+    "stamp": "Unknown",
+    "hash": "5deb36586b238770a3256b81e40ad5be0ce0f405"
+  },
+  "gPhoto/2017/IMG_0538.JPG": {
+    "size": 1670105,
+    "stamp": "2017:08:27 19:29:01",
+    "hash": "dfe7e629a0c0fcc9a1a234e8af0b71c9cb985fd1"
+  },
+  "gPhoto/2017/IMG_0539.JPG": {
+    "size": 1786575,
+    "stamp": "2017:08:27 19:29:08",
+    "hash": "88a09e4ea93be8734d8e224bec6bafd1dbb35ba5"
+  },
+  "gPhoto/2017/IMG_0541.JPG": {
+    "size": 1061438,
+    "stamp": "2017:08:27 20:38:04",
+    "hash": "9899ee5b8e8a66035b050959ae8384ee22dc93dd"
+  },
+  "gPhoto/2017/IMG_0542.JPG": {
+    "size": 1113923,
+    "stamp": "2017:08:27 20:38:11",
+    "hash": "375797e96a0bf4de7b28d5538ea8bc639baf93e7"
+  },
+  "gPhoto/2017/IMG_0543.JPG": {
+    "size": 892659,
+    "stamp": "2017:08:27 20:41:32",
+    "hash": "80b19270ee7ac1353bd8eb8525545fe6cb5dd1c3"
+  },
+  "gPhoto/2017/IMG_0544.JPG": {
+    "size": 895266,
+    "stamp": "2017:08:27 20:41:55",
+    "hash": "4414f657def659c8ffce8c0232ff6529435c84c6"
+  },
+  "gPhoto/2017/IMG_0545.JPG": {
+    "size": 1026601,
+    "stamp": "2017:08:27 20:42:03",
+    "hash": "a1eb0161cfb9c3de2d0ee596f0e26510819cefd4"
+  },
+  "gPhoto/2017/IMG_0553.JPG": {
+    "size": 3242638,
+    "stamp": "2017:08:28 12:40:22",
+    "hash": "9a2935f3735a26e5f2eb186b9757a6762a2a73de"
+  },
+  "gPhoto/2017/IMG_0554.JPG": {
+    "size": 985877,
+    "stamp": "2017:08:28 12:40:33",
+    "hash": "b2b4e2fb39bb61876b7b08b6f13d73f4d6d8f181"
+  },
+  "gPhoto/2017/IMG_0558.JPG": {
+    "size": 2797699,
+    "stamp": "2017:08:28 12:41:35",
+    "hash": "c1ecba97fcc6b776b5b48ed0422a757b0b7b05b6"
+  },
+  "gPhoto/2017/IMG_0559.JPG": {
+    "size": 832752,
+    "stamp": "2017:08:28 16:50:25",
+    "hash": "8e29a33f8f9982dd1d282ec87d689406d149193a"
+  },
+  "gPhoto/2017/IMG_0560.JPG": {
+    "size": 623908,
+    "stamp": "2017:08:28 16:50:25",
+    "hash": "9370a7459086ed71ddb9411f0c525dd2f5c79708"
+  },
+  "gPhoto/2017/IMG_0561.JPG": {
+    "size": 2568365,
+    "stamp": "2017:08:29 08:43:32",
+    "hash": "b9f42f81c1bc20905fd1874a6abdabfabbd2bf83"
+  },
+  "gPhoto/2017/IMG_0562.JPG": {
+    "size": 2782667,
+    "stamp": "2017:08:29 08:43:33",
+    "hash": "ac6ba5e76ef6f2919188e714e1fc9a22e21fa98e"
+  },
+  "gPhoto/2017/IMG_0563.JPG": {
+    "size": 2565171,
+    "stamp": "2017:08:29 08:43:33",
+    "hash": "d023caaa3febd867693dc72eebaa8e4b11f405fe"
+  },
+  "gPhoto/2017/IMG_0564.JPG": {
+    "size": 2426303,
+    "stamp": "2017:08:29 08:43:34",
+    "hash": "96cd6a0638c2f7f9eaab3a93f0c6da0c9db96fc2"
+  },
+  "gPhoto/2017/IMG_0565.JPG": {
+    "size": 2372903,
+    "stamp": "2017:08:29 08:43:40",
+    "hash": "22b14d3f37853fd7c0276c4941ac271f60ec4c0f"
+  },
+  "gPhoto/2017/IMG_0566.JPG": {
+    "size": 2367170,
+    "stamp": "2017:08:29 08:43:40",
+    "hash": "80b7268c62cedb4ff6f52c4609ef62618be017e3"
+  },
+  "gPhoto/2017/IMG_0567.JPG": {
+    "size": 2367717,
+    "stamp": "2017:08:29 08:43:40",
+    "hash": "b1f4140d5ffdcf7c9cea5edb9a67049d3935452b"
+  },
+  "gPhoto/2017/IMG_0568.JPG": {
+    "size": 2344757,
+    "stamp": "2017:08:29 08:43:40",
+    "hash": "78e0eae82717171e1fe03a54930113e89bdb81ad"
+  },
+  "gPhoto/2017/IMG_0569.PNG": {
+    "size": 144753,
+    "stamp": "Unknown",
+    "hash": "35e8097cfc1c4de0f506a42659da21afb7e80e04"
+  },
+  "gPhoto/2017/IMG_0570.JPG": {
+    "size": 111705,
+    "stamp": "Unknown",
+    "hash": "05f2fbee21aacf8e1dd2543249c98a83735b159c"
+  },
+  "gPhoto/2017/IMG_0571.JPG": {
+    "size": 2237860,
+    "stamp": "2017:08:29 11:35:34",
+    "hash": "388f77914eabda30b545a406f82c3a1e47d696d2"
+  },
+  "gPhoto/2017/IMG_0572.JPG": {
+    "size": 1552974,
+    "stamp": "2017:08:29 11:35:50",
+    "hash": "f47b2b1a49dba6dcdc5e7917908af084174848da"
+  },
+  "gPhoto/2017/IMG_0574.JPG": {
+    "size": 407301,
+    "stamp": "Unknown",
+    "hash": "d0587c2e7ec79e347b2f9f971bfafc55becb0fce"
+  },
+  "gPhoto/2017/IMG_0575.JPG": {
+    "size": 769538,
+    "stamp": "Unknown",
+    "hash": "33db9088aca2cb0ae319a0527a19714bd22ab58e"
+  },
+  "gPhoto/2017/IMG_0576.JPG": {
+    "size": 259672,
+    "stamp": "Unknown",
+    "hash": "83e7c81a318ad98d8596590fa4845cfd673d1d17"
+  },
+  "gPhoto/2017/IMG_0577.JPG": {
+    "size": 1637749,
+    "stamp": "2017:08:30 11:01:59",
+    "hash": "ab26967ca03f62b37bb4ad1838615bf7ca7a8392"
+  },
+  "gPhoto/2017/IMG_0578.JPG": {
+    "size": 1250722,
+    "stamp": "2017:08:30 11:02:26",
+    "hash": "56409b0df40ef6cc0189366960dfbc428a722507"
+  },
+  "gPhoto/2017/IMG_0583.JPG": {
+    "size": 1230766,
+    "stamp": "2017:08:30 14:35:02",
+    "hash": "4e5b0d0d40a785fc8798a392ea9e82264fd93623"
+  },
+  "gPhoto/2017/IMG_0584.JPG": {
+    "size": 1253056,
+    "stamp": "2017:08:30 14:41:06",
+    "hash": "6ad66612b3d9aa636d849db213390e2043fd202a"
+  },
+  "gPhoto/2017/IMG_0585.JPG": {
+    "size": 1165350,
+    "stamp": "2017:08:30 14:41:16",
+    "hash": "f037f1ec8c1aa95d9affa5ca6a163bccaa777551"
+  },
+  "gPhoto/2017/IMG_0586.JPG": {
+    "size": 3346450,
+    "stamp": "2017:08:31 16:18:37",
+    "hash": "2e8cae24075c7c1471f38a59c62c750042c9e843"
+  },
+  "gPhoto/2017/IMG_0588.JPG": {
+    "size": 3592547,
+    "stamp": "2017:08:31 16:22:38",
+    "hash": "c847c8d08e63de7def3b3de003d077a7188465a4"
+  },
+  "gPhoto/2017/IMG_0589.JPG": {
+    "size": 3874072,
+    "stamp": "2017:08:31 16:22:38",
+    "hash": "2f8c1db73c8aad025d60ce1715667f768675bac7"
+  },
+  "gPhoto/2017/IMG_0590.JPG": {
+    "size": 3533728,
+    "stamp": "2017:08:31 16:22:38",
+    "hash": "9f628f52c37fbaa3bbe35b958ec7a2ecbdc273f1"
+  },
+  "gPhoto/2017/IMG_0591.JPG": {
+    "size": 2962207,
+    "stamp": "2017:08:31 16:23:41",
+    "hash": "db9f58b6ab56d5d2f5877d8443d71d406de6cc8d"
+  },
+  "gPhoto/2017/IMG_0592.JPG": {
+    "size": 3853550,
+    "stamp": "2017:08:31 16:24:36",
+    "hash": "7743d19b15c19cff65d93dc6c1ce190ee3a59c85"
+  },
+  "gPhoto/2017/IMG_0595.JPG": {
+    "size": 2625129,
+    "stamp": "2017:08:31 16:27:01",
+    "hash": "095607191b73a0d066e1010a600d2f18a931c870"
+  },
+  "gPhoto/2017/IMG_0596.JPG": {
+    "size": 3019198,
+    "stamp": "2017:08:31 16:27:01",
+    "hash": "467de895d9a6e1c8579d7e2d6594da11fa4f83a1"
+  },
+  "gPhoto/2017/IMG_0597.JPG": {
+    "size": 2649121,
+    "stamp": "2017:08:31 16:27:05",
+    "hash": "95b415074f82f8ca594bab434a39dc850e00ee41"
+  },
+  "gPhoto/2017/IMG_0598.JPG": {
+    "size": 2179303,
+    "stamp": "2017:08:31 16:27:20",
+    "hash": "c5015b458b6a09b4ecedcf73cc170ff2a39122aa"
+  },
+  "gPhoto/2017/IMG_0599.JPG": {
+    "size": 2612733,
+    "stamp": "2017:08:31 16:27:20",
+    "hash": "287d03f7a23ff6a934d1615df4d664c1cc6c2da1"
+  },
+  "gPhoto/2017/IMG_0600.JPG": {
+    "size": 2551516,
+    "stamp": "2017:08:31 16:27:31",
+    "hash": "481709a64860ec4a885b9518f1bacde1617d2e90"
+  },
+  "gPhoto/2017/IMG_0602.JPG": {
+    "size": 3293849,
+    "stamp": "2017:08:31 16:31:45",
+    "hash": "e605b2b28ca26c045e4e95ccaa7a684d0807176c"
+  },
+  "gPhoto/2017/IMG_0605.JPG": {
+    "size": 2367773,
+    "stamp": "2017:08:31 16:32:52",
+    "hash": "749ac93e8d7d817ba3e3189d43748c03150724ff"
+  },
+  "gPhoto/2017/IMG_0606.JPG": {
+    "size": 2377304,
+    "stamp": "2017:08:31 16:34:07",
+    "hash": "87cdba7e91f1122e239e4be7b38fe4c97714c4df"
+  },
+  "gPhoto/2017/IMG_0608.JPG": {
+    "size": 1939764,
+    "stamp": "2017:08:31 16:35:26",
+    "hash": "5e670a370a35ef8da3d3292a3b5fbd69daf56ebf"
+  },
+  "gPhoto/2017/IMG_0609.JPG": {
+    "size": 1651332,
+    "stamp": "2017:08:31 16:35:38",
+    "hash": "cb8fafafda958f34602823db8ea633b41632df43"
+  },
+  "gPhoto/2017/IMG_0610.JPG": {
+    "size": 1296289,
+    "stamp": "2017:08:31 16:36:06",
+    "hash": "4025caafab583644f01c84cfc16e933408632202"
+  },
+  "gPhoto/2017/IMG_0611.JPG": {
+    "size": 1866194,
+    "stamp": "2017:08:31 16:36:37",
+    "hash": "7488921bd75cde2ca89010b74d83dcd23ad445ac"
+  },
+  "gPhoto/2017/IMG_0612.JPG": {
+    "size": 3118534,
+    "stamp": "2017:08:31 16:46:38",
+    "hash": "36075d0edfcc365da528f3103d7175e0fea08276"
+  },
+  "gPhoto/2017/IMG_0613.JPG": {
+    "size": 3281393,
+    "stamp": "2017:08:31 17:39:27",
+    "hash": "a96a0ef79b73d680017e17da784d4b7e74bd7ff1"
+  },
+  "gPhoto/2017/IMG_0614.JPG": {
+    "size": 3516175,
+    "stamp": "2017:08:31 17:39:33",
+    "hash": "17b7655f0d5e0b1a809aae8317835a0983fbade0"
+  },
+  "gPhoto/2017/IMG_0615.JPG": {
+    "size": 1658506,
+    "stamp": "2017:08:31 17:49:20",
+    "hash": "41d5cf37efa9314646cd63654870bc3abfa9828a"
+  },
+  "gPhoto/2017/IMG_0616.JPG": {
+    "size": 1822488,
+    "stamp": "2017:08:31 18:05:24",
+    "hash": "e3d92e3a714b3aa6c3dbc6bcc9976e4a8d80c0f0"
+  },
+  "gPhoto/2017/IMG_0618.JPG": {
+    "size": 2368802,
+    "stamp": "2017:08:31 18:28:14",
+    "hash": "02c785d73296ae6df8d4360b77244956ca5a8365"
+  },
+  "gPhoto/2017/IMG_0619.JPG": {
+    "size": 2277963,
+    "stamp": "2017:08:31 18:28:37",
+    "hash": "37ec109159e6f7551e8be462700940fd70641234"
+  },
+  "gPhoto/2017/IMG_0620.JPG": {
+    "size": 2701974,
+    "stamp": "2017:08:31 18:28:54",
+    "hash": "a9870a56c633a95866765575423d585e1f644984"
+  },
+  "gPhoto/2017/IMG_0621.JPG": {
+    "size": 2768296,
+    "stamp": "2017:08:31 18:32:47",
+    "hash": "add125848dea8c43bd63eebc2377d4f594be619d"
+  },
+  "gPhoto/2017/IMG_0622.JPG": {
+    "size": 770972,
+    "stamp": "2017:08:31 18:33:53",
+    "hash": "8b53bec04323cdc4047e806a98413e6c543e4c12"
+  },
+  "gPhoto/2017/IMG_0623.PNG": {
+    "size": 1513823,
+    "stamp": "Unknown",
+    "hash": "c75a95434cddd1cf19c6c558865dcecf4c95ff7b"
+  },
+  "gPhoto/2017/IMG_0624.JPG": {
+    "size": 1689949,
+    "stamp": "2017:09:01 14:07:28",
+    "hash": "30381563fe09e8ea396368829b065dd17e7b3f44"
+  },
+  "gPhoto/2017/IMG_0625.JPG": {
+    "size": 1328397,
+    "stamp": "2017:09:01 14:49:33",
+    "hash": "0aa7f815c2f205ae7ad431f18c32a9acce249c13"
+  },
+  "gPhoto/2017/IMG_0626.JPG": {
+    "size": 1561390,
+    "stamp": "2017:09:01 14:49:47",
+    "hash": "e43b60c9bbba386e668656bbd7687850da318259"
+  },
+  "gPhoto/2017/IMG_0627.JPG": {
+    "size": 446019,
+    "stamp": "Unknown",
+    "hash": "228d1f20b156354d7d56bfbb0f5c69f66527d7c4"
+  },
+  "gPhoto/2017/IMG_0628.JPG": {
+    "size": 439960,
+    "stamp": "Unknown",
+    "hash": "a9a59503702086a2a342b2df8080c476d1a18d74"
+  },
+  "gPhoto/2017/IMG_0629.JPG": {
+    "size": 886327,
+    "stamp": "2017:09:01 15:05:05",
+    "hash": "196f7e6505b62facaed77d27a6c32a5ee8a63c76"
+  },
+  "gPhoto/2017/IMG_0630.JPG": {
+    "size": 1298513,
+    "stamp": "2017:09:01 15:05:47",
+    "hash": "57d6bb0a9afd87c5027aa26957efd419f2590d6d"
+  },
+  "gPhoto/2017/IMG_0631.JPG": {
+    "size": 1603436,
+    "stamp": "2017:09:01 15:05:56",
+    "hash": "09590624b1168bb0a40141f561f71e5f3b634ac2"
+  },
+  "gPhoto/2017/IMG_0632.JPG": {
+    "size": 1320110,
+    "stamp": "2017:09:01 15:06:27",
+    "hash": "15ce4be65366fd83f1bf6803e2bc2df387dbd808"
+  },
+  "gPhoto/2017/IMG_0633.JPG": {
+    "size": 1573994,
+    "stamp": "2017:09:01 15:07:48",
+    "hash": "e3edf93579f090cc8fb8a89a64b41f0b831ef351"
+  },
+  "gPhoto/2017/IMG_0634.JPG": {
+    "size": 1560786,
+    "stamp": "2017:09:01 15:11:07",
+    "hash": "08d86c871b3e47f6a44c911a873fea4bd82815bb"
+  },
+  "gPhoto/2017/IMG_0635.JPG": {
+    "size": 1033274,
+    "stamp": "2017:09:01 15:21:10",
+    "hash": "59eb891271819745f068c4c7e98afd4c70c13cc9"
+  },
+  "gPhoto/2017/IMG_0636.JPG": {
+    "size": 1347210,
+    "stamp": "2017:09:01 15:22:27",
+    "hash": "b10429c47b5d5f6105bc78a452ccdf757e454d5c"
+  },
+  "gPhoto/2017/IMG_0637.JPG": {
+    "size": 891942,
+    "stamp": "2017:09:01 15:22:40",
+    "hash": "ee895192c78bbe4e30387c0b8c728e730d7ab2da"
+  },
+  "gPhoto/2017/IMG_0638.JPG": {
+    "size": 1001238,
+    "stamp": "2017:09:01 15:22:53",
+    "hash": "b29c49f15b09b2db7a603630c82a3449ad4dd53e"
+  },
+  "gPhoto/2017/IMG_0639.JPG": {
+    "size": 3175376,
+    "stamp": "2017:09:01 16:55:29",
+    "hash": "9e22b6bf50079ef9895fef5bf665e9ac5e570620"
+  },
+  "gPhoto/2017/IMG_0640.JPG": {
+    "size": 3158109,
+    "stamp": "2017:09:01 16:55:29",
+    "hash": "2ff50334d470f3ffe954c864a0398a430e9ed5b6"
+  },
+  "gPhoto/2017/IMG_0641.JPG": {
+    "size": 2927670,
+    "stamp": "2017:09:01 16:55:41",
+    "hash": "2724e510c2404cd6253eac6d9280523950e97129"
+  },
+  "gPhoto/2017/IMG_0642.JPG": {
+    "size": 2963657,
+    "stamp": "2017:09:01 16:55:41",
+    "hash": "b24cc179bf25c3cbf4d29b5d4e4ab6e653033cc8"
+  },
+  "gPhoto/2017/IMG_0643.JPG": {
+    "size": 2965194,
+    "stamp": "2017:09:01 16:55:41",
+    "hash": "783dafc12a9558df2d47681b1f854dd430906308"
+  },
+  "gPhoto/2017/IMG_0644.JPG": {
+    "size": 2980346,
+    "stamp": "2017:09:01 16:55:42",
+    "hash": "49b65d6b7d8f98ec0b116e75464279bf2e8277f9"
+  },
+  "gPhoto/2017/IMG_0645.JPG": {
+    "size": 1108953,
+    "stamp": "2017:09:01 20:12:53",
+    "hash": "239816b75dafad16443607ec9e5611d1930cc8a1"
+  },
+  "gPhoto/2017/IMG_0646.JPG": {
+    "size": 1087194,
+    "stamp": "2017:09:01 20:12:54",
+    "hash": "c2b119bc4c0803a6fef9acabb39cd71fad4a178c"
+  },
+  "gPhoto/2017/IMG_0647.JPG": {
+    "size": 741173,
+    "stamp": "2017:09:01 20:13:10",
+    "hash": "0841813b316d79cb71026eb9883d408f996a9d97"
+  },
+  "gPhoto/2017/IMG_0648.JPG": {
+    "size": 1213191,
+    "stamp": "2017:09:01 21:42:41",
+    "hash": "941fac427a37f56cd6b8835c8cd2fe6c51cc3360"
+  },
+  "gPhoto/2017/IMG_0649.JPG": {
+    "size": 1156248,
+    "stamp": "2017:09:01 21:42:46",
+    "hash": "02dc75e42ac4243bae43dfafbbf3a8a2d4fe9ff2"
+  },
+  "gPhoto/2017/IMG_0650.MOV": {
+    "size": 23526966,
+    "stamp": "Unknown",
+    "hash": "41225d5216557583ce30538fa31ca25490e3811a"
+  },
+  "gPhoto/2017/IMG_0651.MOV": {
+    "size": 40503323,
+    "stamp": "Unknown",
+    "hash": "a8205c2b6c443fec1ef2d8b3ea0b3a580bd937fc"
+  },
+  "gPhoto/2017/IMG_0652.JPG": {
+    "size": 1409180,
+    "stamp": "2017:09:01 21:47:56",
+    "hash": "568c0115ab6d04fa7bd6eb2093a45e3f4c4915f7"
+  },
+  "gPhoto/2017/IMG_0653.JPG": {
+    "size": 201043,
+    "stamp": "2017:09:01 22:14:40",
+    "hash": "1edbf712aab9998cff6c20ed8d31c5531e57a5bd"
+  },
+  "gPhoto/2017/IMG_0654.JPG": {
+    "size": 1246738,
+    "stamp": "2017:09:01 22:14:59",
+    "hash": "9f0dd72385a2180533314fe14396682a2fdfb98a"
+  },
+  "gPhoto/2017/IMG_0655.MOV": {
+    "size": 23457174,
+    "stamp": "Unknown",
+    "hash": "8247f773166579cf2186dfe4b89f2cf1ecd1f329"
+  },
+  "gPhoto/2017/IMG_0657.JPG": {
+    "size": 745842,
+    "stamp": "2017:09:02 11:13:25",
+    "hash": "6836b20aa9a481cbf47e6f28f4d1c7f1872ddc03"
+  },
+  "gPhoto/2017/IMG_0658.JPG": {
+    "size": 760230,
+    "stamp": "2017:09:02 11:13:28",
+    "hash": "9c8b31d5438134faf26d961e68a454bc5226fcfc"
+  },
+  "gPhoto/2017/IMG_0659.JPG": {
+    "size": 729721,
+    "stamp": "2017:09:02 11:13:58",
+    "hash": "7c09e5cb0df3f6f6c1d23700bd5718115d4840de"
+  },
+  "gPhoto/2017/IMG_0660.JPG": {
+    "size": 761164,
+    "stamp": "2017:09:02 11:14:01",
+    "hash": "5b2ae26d139c543157ebd382ebf2cd5d15e52730"
+  },
+  "gPhoto/2017/IMG_0661.JPG": {
+    "size": 1948804,
+    "stamp": "2017:09:02 14:11:31",
+    "hash": "089173e575f3b636a24082049de5f36d7bafa3aa"
+  },
+  "gPhoto/2017/IMG_0662.JPG": {
+    "size": 1652200,
+    "stamp": "2017:09:02 14:15:46",
+    "hash": "4469ccf8c8c141db67b89d2cfaad3e16e8e4834e"
+  },
+  "gPhoto/2017/IMG_0663.JPG": {
+    "size": 1598588,
+    "stamp": "2017:09:02 14:15:47",
+    "hash": "2f785c00b79c006ac1328a6146df23c7e114bacb"
+  },
+  "gPhoto/2017/IMG_0664.JPG": {
+    "size": 1794203,
+    "stamp": "2017:09:02 14:15:48",
+    "hash": "f352e6de71c5a95df22e119a6036ca156493f55b"
+  },
+  "gPhoto/2017/IMG_0666.JPG": {
+    "size": 697626,
+    "stamp": "2017:09:02 14:18:03",
+    "hash": "c1aee9e101e74660da5ab2503e4416cec970550a"
+  },
+  "gPhoto/2017/IMG_0667.JPG": {
+    "size": 799332,
+    "stamp": "2017:09:02 14:22:29",
+    "hash": "097a0927f5a02a7e1cdfe82f74be0ee58f777d88"
+  },
+  "gPhoto/2017/IMG_0668.JPG": {
+    "size": 804912,
+    "stamp": "2017:09:02 14:22:29",
+    "hash": "e0a66f206261dfb4a63bed0b07392c95c059fb36"
+  },
+  "gPhoto/2017/IMG_0669.JPG": {
+    "size": 845797,
+    "stamp": "2017:09:02 14:22:33",
+    "hash": "8764db1eeb53911d4c505c22287f31d242f0eee9"
+  },
+  "gPhoto/2017/IMG_0670.JPG": {
+    "size": 756821,
+    "stamp": "2017:09:02 14:22:33",
+    "hash": "48e1741b77d6a468ac8c2f5a8f428ed78f5e98d7"
+  },
+  "gPhoto/2017/IMG_0671.JPG": {
+    "size": 715476,
+    "stamp": "2017:09:02 14:22:34",
+    "hash": "c2d6ce88b77022443bf08f15dc965ceb4e2a6c1c"
+  },
+  "gPhoto/2017/IMG_0672.JPG": {
+    "size": 755678,
+    "stamp": "2017:09:02 14:22:34",
+    "hash": "2dc0b594784294d8975d9d57e498cd1d2405ff2b"
+  },
+  "gPhoto/2017/IMG_0673.JPG": {
+    "size": 900536,
+    "stamp": "2017:09:02 14:22:34",
+    "hash": "b5b2ce89db51b148bd89d634118076623e9131c9"
+  },
+  "gPhoto/2017/IMG_0674.JPG": {
+    "size": 741658,
+    "stamp": "2017:09:02 14:22:34",
+    "hash": "1dd01b9f1c89556a59670a6ca2a4dc5f568b5ea0"
+  },
+  "gPhoto/2017/IMG_0675.JPG": {
+    "size": 674991,
+    "stamp": "2017:09:02 14:22:34",
+    "hash": "cbf8dc945144a7c223184510c72f9f6a2f908146"
+  },
+  "gPhoto/2017/IMG_0676.JPG": {
+    "size": 719195,
+    "stamp": "2017:09:02 14:22:34",
+    "hash": "ec20a0c28d101738597aad3991e1ead6ff0c176e"
+  },
+  "gPhoto/2017/IMG_0677.JPG": {
+    "size": 696062,
+    "stamp": "2017:09:02 14:22:34",
+    "hash": "93b2c50cd9d90d70a4e95a5be58684ce3d39304f"
+  },
+  "gPhoto/2017/IMG_0678.JPG": {
+    "size": 574261,
+    "stamp": "2017:09:02 14:22:34",
+    "hash": "8e455910091c93387b70bed36926c88b7607e496"
+  },
+  "gPhoto/2017/IMG_0679.JPG": {
+    "size": 574006,
+    "stamp": "2017:09:02 14:22:34",
+    "hash": "3c2371934e4739b1e4ffdd466b195f556a48b725"
+  },
+  "gPhoto/2017/IMG_0680.JPG": {
+    "size": 590302,
+    "stamp": "2017:09:02 14:22:35",
+    "hash": "4f50220719eac8b79fd59a93db44103cfbd6779a"
+  },
+  "gPhoto/2017/IMG_0683.JPG": {
+    "size": 2366379,
+    "stamp": "2017:09:02 14:27:10",
+    "hash": "df2e03ec22b39b8fbfd4b88b04d66de44f260bce"
+  },
+  "gPhoto/2017/IMG_0684.JPG": {
+    "size": 1811863,
+    "stamp": "2017:09:02 14:28:13",
+    "hash": "8804015de23059b9601217a26f030dfbfdaf0f9e"
+  },
+  "gPhoto/2017/IMG_0685.JPG": {
+    "size": 2041721,
+    "stamp": "2017:09:02 14:36:07",
+    "hash": "9060aa09dd31267cc10b33f51c00c092dcca4f7d"
+  },
+  "gPhoto/2017/IMG_0686.JPG": {
+    "size": 1681194,
+    "stamp": "2017:09:02 15:01:48",
+    "hash": "d8ebc471b58642a572920f413993d9ffb7bb8a5b"
+  },
+  "gPhoto/2017/IMG_0687.JPG": {
+    "size": 280905,
+    "stamp": "Unknown",
+    "hash": "15371e8a0c9680cc5eed1e9ac9a048c51b686f28"
+  },
+  "gPhoto/2017/IMG_0692.JPG": {
+    "size": 1411613,
+    "stamp": "2017:09:02 15:14:36",
+    "hash": "78886d81b69a0ecc3074bf7cae64f78d2430c7ae"
+  },
+  "gPhoto/2017/IMG_0693.JPG": {
+    "size": 1537628,
+    "stamp": "2017:09:02 15:14:39",
+    "hash": "e950dd93f453085a705dfd9aabd869bf2eed3b08"
+  },
+  "gPhoto/2017/IMG_0694.JPG": {
+    "size": 281322,
+    "stamp": "2017:09:02 16:37:38",
+    "hash": "6888f62f9754b65734ca7d3f6d416b4628503e22"
+  },
+  "gPhoto/2017/IMG_0695.JPG": {
+    "size": 307769,
+    "stamp": "2017:09:02 16:37:43",
+    "hash": "364c8a72a19b4289df9302ed87768f621205508a"
+  },
+  "gPhoto/2017/IMG_0696.JPG": {
+    "size": 328349,
+    "stamp": "2017:09:02 16:37:48",
+    "hash": "d086dc19d1aa558136ba780a47a0a5bc5f2e0b34"
+  },
+  "gPhoto/2017/IMG_0697.JPG": {
+    "size": 2437475,
+    "stamp": "2017:09:02 16:47:09",
+    "hash": "0eade467a7bd9349d5affce66cc75ed6cf72e274"
+  },
+  "gPhoto/2017/IMG_0698.JPG": {
+    "size": 2141561,
+    "stamp": "2017:09:02 17:05:56",
+    "hash": "77e24c54ec176195857c5d885a0ff1aec7677bc2"
+  },
+  "gPhoto/2017/IMG_0699.JPG": {
+    "size": 1592600,
+    "stamp": "2017:09:02 17:06:15",
+    "hash": "b228890c042775606cab2c0ffed7fa639d4c5353"
+  },
+  "gPhoto/2017/IMG_0700.JPG": {
+    "size": 1151341,
+    "stamp": "2017:09:02 17:23:17",
+    "hash": "b500172e12d0549e4157d8ca94c2cec71a6e2302"
+  },
+  "gPhoto/2017/IMG_0701.JPG": {
+    "size": 2641655,
+    "stamp": "2017:09:02 17:27:58",
+    "hash": "11677cf1f89e0d950c25b82395710717bbbe14dd"
+  },
+  "gPhoto/2017/IMG_0702.JPG": {
+    "size": 1444336,
+    "stamp": "2017:09:02 17:41:51",
+    "hash": "2bf90be4832a7446f49fc709671e7a6066584929"
+  },
+  "gPhoto/2017/IMG_0703.JPG": {
+    "size": 855068,
+    "stamp": "2017:09:02 17:46:57",
+    "hash": "b29048eb034a9fffeff472a1896281fac9f7306f"
+  },
+  "gPhoto/2017/IMG_0704.JPG": {
+    "size": 178312,
+    "stamp": "Unknown",
+    "hash": "ac0111c087656ad964d0d3d38a3e426562f81353"
+  },
+  "gPhoto/2017/IMG_0705.JPG": {
+    "size": 1735882,
+    "stamp": "2017:09:02 18:28:00",
+    "hash": "7760526799e119e5e1155a977592d9edf1307b28"
+  },
+  "gPhoto/2017/IMG_0706.JPG": {
+    "size": 3909339,
+    "stamp": "2017:09:02 18:28:56",
+    "hash": "a0266ea7192b2a44925ad43b9c8e93996ac7c533"
+  },
+  "gPhoto/2017/IMG_0707.JPG": {
+    "size": 3383399,
+    "stamp": "2017:09:02 18:28:57",
+    "hash": "3becb4bf734dedbd073cf390c666d084ed89008c"
+  },
+  "gPhoto/2017/IMG_0708.JPG": {
+    "size": 1395416,
+    "stamp": "2017:09:02 18:36:40",
+    "hash": "5dea1c4522daf2ae054be621b9d5abb9ab975c2d"
+  },
+  "gPhoto/2017/IMG_0709.JPG": {
+    "size": 1232705,
+    "stamp": "2017:09:02 18:36:51",
+    "hash": "50d5996252b7e1c4a4695a31832cb21d6d03890b"
+  },
+  "gPhoto/2017/IMG_0710.JPG": {
+    "size": 1162281,
+    "stamp": "2017:09:02 18:36:54",
+    "hash": "505819955c0433d1a14feed1c27035490898d282"
+  },
+  "gPhoto/2017/IMG_0715.JPG": {
+    "size": 2516714,
+    "stamp": "2017:09:02 18:38:47",
+    "hash": "049e46f61faf64b2b57644b5dcfa5aaf9756c54c"
+  },
+  "gPhoto/2017/IMG_0716.JPG": {
+    "size": 2075066,
+    "stamp": "2017:09:02 18:38:52",
+    "hash": "84b8e7ab604051f0a0d00ce48096da7cbc8680b9"
+  },
+  "gPhoto/2017/IMG_0719.JPG": {
+    "size": 2862552,
+    "stamp": "2017:09:02 18:53:49",
+    "hash": "9f69fa83bbecdbdc0795cd5ba96204c59d4b723f"
+  },
+  "gPhoto/2017/IMG_0720.JPG": {
+    "size": 973149,
+    "stamp": "2017:09:02 18:56:35",
+    "hash": "e0744c285f505767d1bd086791fe8d6c22adf84a"
+  },
+  "gPhoto/2017/IMG_0721.JPG": {
+    "size": 953483,
+    "stamp": "2017:09:02 18:56:36",
+    "hash": "1d6db6d18d251d851915bb7c2e5582fa8a26c55b"
+  },
+  "gPhoto/2017/IMG_0722.JPG": {
+    "size": 901579,
+    "stamp": "2017:09:02 18:56:36",
+    "hash": "6d07c818f3fc225f02e72bc0dd2ff3811713df90"
+  },
+  "gPhoto/2017/IMG_0723.JPG": {
+    "size": 971776,
+    "stamp": "2017:09:02 18:56:36",
+    "hash": "83b66ad74931e032b0780f5c2961468109f2ed37"
+  },
+  "gPhoto/2017/IMG_0724.JPG": {
+    "size": 951245,
+    "stamp": "2017:09:02 18:56:36",
+    "hash": "0f056543f3b4c6363fa74515732035396037edfb"
+  },
+  "gPhoto/2017/IMG_0725.JPG": {
+    "size": 925308,
+    "stamp": "2017:09:02 18:56:36",
+    "hash": "b91dbef4a9caab4b10bef69088634ee0e3979f15"
+  },
+  "gPhoto/2017/IMG_0726.JPG": {
+    "size": 1486985,
+    "stamp": "2017:09:02 18:56:43",
+    "hash": "bc060b38d1a9c9f25df4154ffdf40c637fe0ed28"
+  },
+  "gPhoto/2017/IMG_0727.JPG": {
+    "size": 1739532,
+    "stamp": "2017:09:02 19:14:11",
+    "hash": "f19466b6bba17d3e14f065f1cf6b2ed0ffc305e9"
+  },
+  "gPhoto/2017/IMG_0728.JPG": {
+    "size": 2295937,
+    "stamp": "2017:09:02 19:14:27",
+    "hash": "aa00a82da388d910405669a8bf5afea6d6afd78b"
+  },
+  "gPhoto/2017/IMG_0729.JPG": {
+    "size": 1049414,
+    "stamp": "2017:09:02 19:14:40",
+    "hash": "267fcd800d4fb605d8bd316ec40953d68e233a20"
+  },
+  "gPhoto/2017/IMG_0730.JPG": {
+    "size": 1179467,
+    "stamp": "2017:09:02 19:14:51",
+    "hash": "d3097324bc2c991bc9daf64bc027d0c11d6ecf30"
+  },
+  "gPhoto/2017/IMG_0732.JPG": {
+    "size": 1288771,
+    "stamp": "2017:09:03 08:01:52",
+    "hash": "c3c4cd05fab0d9e69bd481f18e7f4fb32680dcd3"
+  },
+  "gPhoto/2017/IMG_0733.JPG": {
+    "size": 1320572,
+    "stamp": "2017:09:03 08:01:54",
+    "hash": "0e598af68b405d6ac57b2f8c776b109371875dde"
+  },
+  "gPhoto/2017/IMG_0734.JPG": {
+    "size": 1476808,
+    "stamp": "2017:09:03 09:00:43",
+    "hash": "881ed80feaf61a81a7c2d40dc19bd0eecd812b93"
+  },
+  "gPhoto/2017/IMG_0735.JPG": {
+    "size": 1371964,
+    "stamp": "2017:09:03 09:00:56",
+    "hash": "0d89232a3f4f2c227aef551106543ed747f13671"
+  },
+  "gPhoto/2017/IMG_0736.JPG": {
+    "size": 1513907,
+    "stamp": "2017:09:03 09:01:04",
+    "hash": "b6e99fdecb2aad7a5315577506af875c60fac6e8"
+  },
+  "gPhoto/2017/IMG_0737.JPG": {
+    "size": 1234105,
+    "stamp": "2017:09:03 12:07:01",
+    "hash": "3270445982fb9cef253ccacf9f4945b6a35f0b89"
+  },
+  "gPhoto/2017/IMG_0738.JPG": {
+    "size": 262184,
+    "stamp": "2017:09:03 12:08:18",
+    "hash": "e03d1b51ae88cba4187a9af9e23c433cd3a7932a"
+  },
+  "gPhoto/2017/IMG_0739.JPG": {
+    "size": 140333,
+    "stamp": "Unknown",
+    "hash": "3f9a3377dfbac40d6711fca520e8f55fc5f8d8e1"
+  },
+  "gPhoto/2017/IMG_0740.JPG": {
+    "size": 160768,
+    "stamp": "Unknown",
+    "hash": "578c43e7e39fd08d5636d9eb263cc6e037bbd2ea"
+  },
+  "gPhoto/2017/IMG_0741.JPG": {
+    "size": 383882,
+    "stamp": "Unknown",
+    "hash": "355d4f1301591d53892668f9982115383976e8c1"
+  },
+  "gPhoto/2017/IMG_0743.JPG": {
+    "size": 1195943,
+    "stamp": "2017:09:03 12:59:27",
+    "hash": "a4f3bda468b7afc52b3125dc327995bea35060c8"
+  },
+  "gPhoto/2017/IMG_0748.JPG": {
+    "size": 1326929,
+    "stamp": "2017:09:03 17:20:42",
+    "hash": "ebc423b831f74985376e4cede432c057d7fc4ccb"
+  },
+  "gPhoto/2017/IMG_0749.JPG": {
+    "size": 1308901,
+    "stamp": "2017:09:03 17:20:43",
+    "hash": "7109c74d32ba08ddaaad891c34411bbefe2da8c2"
+  },
+  "gPhoto/2017/IMG_0750.JPG": {
+    "size": 1333289,
+    "stamp": "2017:09:03 17:20:44",
+    "hash": "4666c4d7f6ada833777c2f470083fa17ee386bf3"
+  },
+  "gPhoto/2017/IMG_0751.JPG": {
+    "size": 1043218,
+    "stamp": "2017:09:03 17:20:47",
+    "hash": "2a3e5681f6fab2797f0aacecdbd5053b5801a29e"
+  },
+  "gPhoto/2017/IMG_0752.JPG": {
+    "size": 1032981,
+    "stamp": "2017:09:03 17:20:48",
+    "hash": "1476c81ce78198154cc5dc696e8b4ee96ab750d8"
+  },
+  "gPhoto/2017/IMG_0753.JPG": {
+    "size": 1546584,
+    "stamp": "2017:09:09 16:16:46",
+    "hash": "3595761972d2c5260ded2ad669302d43522119cf"
+  },
+  "gPhoto/2017/IMG_0754.JPG": {
+    "size": 598962,
+    "stamp": "Unknown",
+    "hash": "f996d9606c07583d09843c929c95fd98311cda17"
+  },
+  "gPhoto/2017/IMG_0755.JPG": {
+    "size": 494874,
+    "stamp": "Unknown",
+    "hash": "fe69bca2a59c52af0cffe893627b6c131d45f8c7"
+  },
+  "gPhoto/2017/IMG_0756.JPG": {
+    "size": 498917,
+    "stamp": "Unknown",
+    "hash": "6658f6ecd9a6d05526095d4e02840c789541f848"
+  },
+  "gPhoto/2017/IMG_0757.JPG": {
+    "size": 507432,
+    "stamp": "Unknown",
+    "hash": "859992224a6042bce8811c81c508cc469ccc6086"
+  },
+  "gPhoto/2017/IMG_0764.JPG": {
+    "size": 9374,
+    "stamp": "2017:10:01 15:11:25",
+    "hash": "b9a036dd537cf3dc3f4c67a0b4b35a6cf1aab4c0"
+  },
+  "gPhoto/2017/IMG_0765.JPG": {
+    "size": 1106231,
+    "stamp": "2017:10:03 10:01:59",
+    "hash": "f27228ce6e70f0e2ee6b123995dee91ea7f2a49e"
+  },
+  "gPhoto/2017/IMG_0766.JPG": {
+    "size": 1125667,
+    "stamp": "2017:10:03 10:03:48",
+    "hash": "6b0e7f2ff426945e394ff919c9a6280f29eab36a"
+  },
+  "gPhoto/2017/IMG_0768.JPG": {
+    "size": 1063028,
+    "stamp": "2017:10:03 10:04:48",
+    "hash": "27c281ebd4e645049ac42199bc6a7d99ee6fa4ea"
+  },
+  "gPhoto/2017/IMG_0775.JPG": {
+    "size": 1575358,
+    "stamp": "2017:10:08 18:39:17",
+    "hash": "d100c76eac1b085a593c50e679515c600568ae3d"
+  },
+  "gPhoto/2017/IMG_0777.JPG": {
+    "size": 1684120,
+    "stamp": "2017:10:08 18:39:56",
+    "hash": "b182846356c0d5dce47a84644e4186e474c0ff86"
+  },
+  "gPhoto/2017/IMG_0778.JPG": {
+    "size": 1803165,
+    "stamp": "2017:10:23 13:29:37",
+    "hash": "23081fd2cacdbc0307b3e7d181555b903d30c260"
+  },
+  "gPhoto/2017/IMG_0779.JPG": {
+    "size": 2534142,
+    "stamp": "2017:10:23 13:29:50",
+    "hash": "2dc2259b55f49846776984b8aec7b397d4f5cb7e"
+  },
+  "gPhoto/2017/IMG_0780.JPG": {
+    "size": 2730773,
+    "stamp": "2017:10:23 13:29:55",
+    "hash": "dc07433ff1d47c3ab0c49477584989d5a0805ab5"
+  },
+  "gPhoto/2017/IMG_0781.JPG": {
+    "size": 2584941,
+    "stamp": "2017:10:23 13:29:58",
+    "hash": "767d7a99c5e91862050addccc4efb6ccca775011"
+  },
+  "gPhoto/2017/IMG_0782.JPG": {
+    "size": 2631972,
+    "stamp": "2017:10:23 13:30:05",
+    "hash": "4ee36167249a3d2fb03ec3a101fe66140ada197c"
+  },
+  "gPhoto/2017/IMG_0783.JPG": {
+    "size": 1879573,
+    "stamp": "2017:10:23 13:30:21",
+    "hash": "83de14e13a24cbe28f55fb0370e8a527a0f219af"
+  },
+  "gPhoto/2017/IMG_0784.JPG": {
+    "size": 2010665,
+    "stamp": "2017:10:23 13:31:36",
+    "hash": "8e3c482e8c301ffbd7c0367346e66bfc832ae50b"
+  },
+  "gPhoto/2017/IMG_0785.JPG": {
+    "size": 2054244,
+    "stamp": "2017:10:23 13:31:40",
+    "hash": "abdf3fb5e305f386d033e2d0acf3100675d59858"
+  },
+  "gPhoto/2017/IMG_0786.JPG": {
+    "size": 2146270,
+    "stamp": "2017:10:23 13:31:45",
+    "hash": "ad8fd9a1fb2e91ac6111fc6bc51de00303becbab"
+  },
+  "gPhoto/2017/IMG_0787.JPG": {
+    "size": 2143467,
+    "stamp": "2017:10:23 13:31:50",
+    "hash": "00b1da5e1e16ce9c645a39644739aa46434886f1"
+  },
+  "gPhoto/2017/IMG_0788.JPG": {
+    "size": 2338312,
+    "stamp": "2017:10:23 13:31:57",
+    "hash": "e66f2540657e462f780200313f1faa481aada3f1"
+  },
+  "gPhoto/2017/IMG_0789.JPG": {
+    "size": 1692548,
+    "stamp": "2017:10:23 13:32:52",
+    "hash": "08d2b6e0ff300244ab6f808c9cf8a9b99b2414ec"
+  },
+  "gPhoto/2017/IMG_0790.JPG": {
+    "size": 1811583,
+    "stamp": "2017:10:23 13:32:57",
+    "hash": "0fdd79e62a203f945df8421715059bcc72793dfd"
+  },
+  "gPhoto/2017/IMG_0791.JPG": {
+    "size": 1499535,
+    "stamp": "2017:10:23 13:33:01",
+    "hash": "5f9624dce99e331d60dfb0b67fd731cbe156e1c8"
+  },
+  "gPhoto/2017/IMG_0792.JPG": {
+    "size": 1811486,
+    "stamp": "2017:10:23 13:33:06",
+    "hash": "189ab4ec2ef76f1b76b08c099b49e1cc7ef9c37e"
+  },
+  "gPhoto/2017/IMG_0793.JPG": {
+    "size": 1862724,
+    "stamp": "2017:10:23 13:33:17",
+    "hash": "6caad2bb64fd0343fc3619e5dd8a9690151878fd"
+  },
+  "gPhoto/2017/IMG_0794.JPG": {
+    "size": 1916864,
+    "stamp": "2017:10:23 13:33:55",
+    "hash": "84eb4c44e217c2cf972d30397d897888ba557b5e"
+  },
+  "gPhoto/2017/IMG_0795.JPG": {
+    "size": 2179250,
+    "stamp": "2017:10:23 13:34:02",
+    "hash": "5a06c92e819a2c5b0c89579558ccef0ae4c5edae"
+  },
+  "gPhoto/2017/IMG_0796.JPG": {
+    "size": 2240935,
+    "stamp": "2017:10:23 13:34:08",
+    "hash": "f81bc608a032cd069d6cfc2d6ad24b54f757fa97"
+  },
+  "gPhoto/2017/IMG_0797.JPG": {
+    "size": 2128668,
+    "stamp": "2017:10:23 13:34:28",
+    "hash": "40fdd5745f115cb17040e7b35148e27eb563a8c9"
+  },
+  "gPhoto/2017/IMG_0798.JPG": {
+    "size": 2075288,
+    "stamp": "2017:10:23 13:35:13",
+    "hash": "4bae920931d1fb52249dc5865542fe3f2b12e8e4"
+  },
+  "gPhoto/2017/IMG_0799.JPG": {
+    "size": 2276061,
+    "stamp": "2017:10:23 13:35:18",
+    "hash": "9603699180da16c390879d594fe8187357adf493"
+  },
+  "gPhoto/2017/IMG_0800.JPG": {
+    "size": 1177601,
+    "stamp": "2017:10:30 12:34:07",
+    "hash": "37c2fd29d8d164734752acc696570d6a4da024a4"
+  },
+  "gPhoto/2017/IMG_0801.JPG": {
+    "size": 1417587,
+    "stamp": "2017:10:30 12:34:23",
+    "hash": "dca2bc38390deb251f3a02f5718b1592f4903d6b"
+  },
+  "gPhoto/2017/IMG_0802.JPG": {
+    "size": 1391668,
+    "stamp": "2017:10:30 12:34:38",
+    "hash": "9046b71aba95dd79e161ca9eeb737eca2c6ac2b9"
+  },
+  "gPhoto/2017/IMG_0803.JPG": {
+    "size": 1413102,
+    "stamp": "2017:10:30 12:34:40",
+    "hash": "8adb3566696aca74bbf4cce816987f27f39d7ea2"
+  },
+  "gPhoto/2017/IMG_0804.JPG": {
+    "size": 1457787,
+    "stamp": "2017:10:30 12:34:50",
+    "hash": "5b9075ca2f262bdb6826a7266cc546dc891999f3"
+  },
+  "gPhoto/2017/IMG_0805.JPG": {
+    "size": 1366558,
+    "stamp": "2017:10:30 12:35:29",
+    "hash": "e9186c5cd59a175a91d6cb77156308a5878b4717"
+  },
+  "gPhoto/2017/IMG_0806.JPG": {
+    "size": 1307521,
+    "stamp": "2017:10:30 12:35:44",
+    "hash": "4a21eed6879680a9cba85db19e67ff2f6784c777"
+  },
+  "gPhoto/2017/IMG_0807.JPG": {
+    "size": 1225363,
+    "stamp": "2017:10:30 12:35:47",
+    "hash": "74e9695f39fb894e8a788f9aaaa9f0225d085208"
+  },
+  "gPhoto/2017/IMG_0808.JPG": {
+    "size": 1384898,
+    "stamp": "2017:10:30 12:35:52",
+    "hash": "ed810d809a20fb8ccab6afdbc9462e2d2c9fb516"
+  },
+  "gPhoto/2017/IMG_0811.JPG": {
+    "size": 2104577,
+    "stamp": "2017:10:30 12:42:30",
+    "hash": "221691ef75f018926085aeeaba3997222be0b569"
+  },
+  "gPhoto/2017/IMG_0812.JPG": {
+    "size": 2421716,
+    "stamp": "2017:10:30 12:42:47",
+    "hash": "0ceed9c4ae5c1202d5541dcf93c0bf8d75e5b1ca"
+  },
+  "gPhoto/2017/IMG_0813.JPG": {
+    "size": 2333489,
+    "stamp": "2017:10:30 12:43:26",
+    "hash": "03b2ea0af720b9d18ef663668b3615a13195550a"
+  },
+  "gPhoto/2017/IMG_0814.JPG": {
+    "size": 1411321,
+    "stamp": "2017:10:30 12:43:45",
+    "hash": "7e162fef910bf09b9915dfa7e4a4dc609c509567"
+  },
+  "gPhoto/2017/IMG_0816.JPG": {
+    "size": 2603914,
+    "stamp": "2017:11:04 09:08:34",
+    "hash": "e946b2b0f54345171d0844de4a51dfec3009f9b7"
+  },
+  "gPhoto/2017/IMG_0817.JPG": {
+    "size": 2243874,
+    "stamp": "2017:11:04 09:08:34",
+    "hash": "ffac8594f6fbecfc48e877eab87df0f93bacbd57"
+  },
+  "gPhoto/2017/IMG_0818.JPG": {
+    "size": 2470360,
+    "stamp": "2017:11:04 09:08:47",
+    "hash": "e54a44026fada154065068757a7c5da68cdce57f"
+  },
+  "gPhoto/2017/IMG_0819.JPG": {
+    "size": 1752863,
+    "stamp": "2017:11:04 09:09:02",
+    "hash": "9e23b21447349ab2df072aba8c524d2ac683638d"
+  },
+  "gPhoto/2017/IMG_0820.JPG": {
+    "size": 1753761,
+    "stamp": "2017:11:04 09:09:06",
+    "hash": "8a0f23b4404079ceedc421fcee4959da1192ccdb"
+  },
+  "gPhoto/2017/IMG_0823.JPG": {
+    "size": 1163358,
+    "stamp": "2017:11:09 11:43:59",
+    "hash": "fd8c6f913ad0ae09b8fcb493bda14e0d88d49af3"
+  },
+  "gPhoto/2017/IMG_0824.JPG": {
+    "size": 1832249,
+    "stamp": "2017:11:15 10:43:22",
+    "hash": "9b94fd6add5930140713170c1e99fe85e0bb7ce4"
+  },
+  "gPhoto/2017/IMG_0825.JPG": {
+    "size": 1420836,
+    "stamp": "2017:11:15 10:43:54",
+    "hash": "dc0d139ddaa61b7a13e108ba7a51d0bc132ad598"
+  },
+  "gPhoto/2017/IMG_0826.JPG": {
+    "size": 1522073,
+    "stamp": "2017:11:16 19:47:40",
+    "hash": "9609dbd0c6505088167a0300f0a4afaf8731a776"
+  },
+  "gPhoto/2017/IMG_0827.JPG": {
+    "size": 1558282,
+    "stamp": "2017:11:16 19:47:41",
+    "hash": "a82904b40629e064df7d8f1ffab02fd6c2fa414a"
+  },
+  "gPhoto/2017/IMG_0828.JPG": {
+    "size": 1551052,
+    "stamp": "2017:11:16 19:47:41",
+    "hash": "2d701ba757118705c723859405074d564ffc2d30"
+  },
+  "gPhoto/2017/IMG_0829.JPG": {
+    "size": 1555752,
+    "stamp": "2017:11:16 19:47:41",
+    "hash": "0d882d4cbd764a59307a44ef417c32b2bc8dae03"
+  },
+  "gPhoto/2017/IMG_0830.JPG": {
+    "size": 1539937,
+    "stamp": "2017:11:16 19:47:41",
+    "hash": "8fa4118eab7d152b938704ff0d3e9f1c7062ebb5"
+  },
+  "gPhoto/2017/IMG_0831.JPG": {
+    "size": 1562032,
+    "stamp": "2017:11:16 19:47:41",
+    "hash": "20ea012d2bb81d5f8aaf761dc17eca544863ff4e"
+  },
+  "gPhoto/2017/IMG_0832.JPG": {
+    "size": 1524112,
+    "stamp": "2017:11:16 19:47:41",
+    "hash": "5732e75f927f13693468be1ff2138e1f76c7b586"
+  },
+  "gPhoto/2017/IMG_0833.JPG": {
+    "size": 1569781,
+    "stamp": "2017:11:16 19:47:41",
+    "hash": "8bbc3fe623752634b72a8f83819623463691206c"
+  },
+  "gPhoto/2017/IMG_0834.JPG": {
+    "size": 1520558,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "5b5f59e616c126b4e30997ccdce6692208219fd5"
+  },
+  "gPhoto/2017/IMG_0835.JPG": {
+    "size": 1552734,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "dc54e45b53e54d3aa78120fcc264c8b041931f61"
+  },
+  "gPhoto/2017/IMG_0836.JPG": {
+    "size": 1550591,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "eb7c470e6a613b5cc24b58b8a48098aac6c01c11"
+  },
+  "gPhoto/2017/IMG_0837.JPG": {
+    "size": 1554419,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "cd7e5faec542d8aa6572c30699c1e095da1c95ef"
+  },
+  "gPhoto/2017/IMG_0838.JPG": {
+    "size": 1556130,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "33dd1c888b65dba770afe45f9839b5fd08046688"
+  },
+  "gPhoto/2017/IMG_0839.JPG": {
+    "size": 1556617,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "e4ae6fcab08a1d33e3cc302a6e764f31b4b85d30"
+  },
+  "gPhoto/2017/IMG_0840.JPG": {
+    "size": 1548467,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "205eef0697c5d80aca8d64e6aa5007dc8edf7d6e"
+  },
+  "gPhoto/2017/IMG_0841.JPG": {
+    "size": 1607974,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "8e1fb57e574c3f5b538bd9773996292d2d7e307c"
+  },
+  "gPhoto/2017/IMG_0842.JPG": {
+    "size": 1571276,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "f012141d437184006b571f8351850f3811bed742"
+  },
+  "gPhoto/2017/IMG_0843.JPG": {
+    "size": 1543002,
+    "stamp": "2017:11:16 19:47:42",
+    "hash": "cdb44d8b426a6ccd21c2e19180a2a29d2b5735fb"
+  },
+  "gPhoto/2017/IMG_0844.JPG": {
+    "size": 1552477,
+    "stamp": "2017:11:16 19:47:43",
+    "hash": "14dbea792866d3b322ae7a961eecdab6008433eb"
+  },
+  "gPhoto/2017/IMG_0845.JPG": {
+    "size": 1553868,
+    "stamp": "2017:11:16 19:47:43",
+    "hash": "1dd09546f5191fa17bb0ff0cdc1f001e4aaa976e"
+  },
+  "gPhoto/2017/IMG_0846.JPG": {
+    "size": 1636434,
+    "stamp": "2017:11:16 19:48:41",
+    "hash": "9738df942850eeee4290b3b14bd866fd230275a3"
+  },
+  "gPhoto/2017/IMG_0847.JPG": {
+    "size": 1340650,
+    "stamp": "2017:11:16 19:51:04",
+    "hash": "b8ee89794cfa0cb7570161635c710e05cf20b7dc"
+  },
+  "gPhoto/2017/IMG_0848.JPG": {
+    "size": 1761438,
+    "stamp": "2017:11:17 12:02:57",
+    "hash": "6fd141efd12250de501803cd5bf1d5835172919f"
+  },
+  "gPhoto/2017/IMG_0849.JPG": {
+    "size": 2028028,
+    "stamp": "2017:11:17 12:03:04",
+    "hash": "df6a0fdeaa5287ac01af07a7e60b302fa4f872fd"
+  },
+  "gPhoto/2017/IMG_0852.JPG": {
+    "size": 1667577,
+    "stamp": "2017:12:05 11:50:46",
+    "hash": "7dd62b9b62f8b709c59d0880cef841ad8ef29988"
+  },
+  "gPhoto/2017/IMG_0853.JPG": {
+    "size": 254922,
+    "stamp": "2017:12:06 18:13:39",
+    "hash": "f1419d6b6bdfe7f2b34434fa75a5ca96a81846ab"
+  },
+  "gPhoto/2017/IMG_0854.JPG": {
+    "size": 590910,
+    "stamp": "2017:12:06 18:13:56",
+    "hash": "98a64ec22e6556ceca0636960f50c991004984df"
+  },
+  "gPhoto/2017/IMG_0855.JPG": {
+    "size": 776754,
+    "stamp": "2017:12:06 18:14:26",
+    "hash": "61d77ae5d915a3461d118b2a7f36967980096dc9"
+  },
+  "gPhoto/2017/IMG_0856.JPG": {
+    "size": 1285830,
+    "stamp": "2017:12:07 10:26:37",
+    "hash": "021975ae5d1ad1749d998efeb9e3b1e55032f050"
+  },
+  "gPhoto/2017/IMG_0857.JPG": {
+    "size": 970206,
+    "stamp": "2017:12:18 10:02:37",
+    "hash": "48575f2e202a978205c96007c9d499a1fd76bfd5"
+  },
+  "gPhoto/2017/IMG_0858.JPG": {
+    "size": 818826,
+    "stamp": "2017:12:18 10:02:45",
+    "hash": "31c7ac7bf08c3f99c2e69a9bfbe18b054eda9fd5"
+  },
+  "gPhoto/2017/IMG_0859.JPG": {
+    "size": 861539,
+    "stamp": "2017:12:18 10:02:52",
+    "hash": "48c908b86c5c609f73ca37f6be2411dc8feec124"
+  },
+  "gPhoto/2017/IMG_0860.JPG": {
+    "size": 1222837,
+    "stamp": "2017:12:18 10:03:01",
+    "hash": "bdfd3d066460f7d8a864faef47a60f116c0a9382"
+  },
+  "gPhoto/2017/IMG_0861.JPG": {
+    "size": 887891,
+    "stamp": "2017:12:18 10:12:05",
+    "hash": "6488a859be440d4501075a808def9eb6afd7a1ab"
+  },
+  "gPhoto/2017/IMG_0862.JPG": {
+    "size": 889311,
+    "stamp": "2017:12:18 10:12:05",
+    "hash": "f29489a8ade0b89d364fb82b2c4a59d653786233"
+  },
+  "gPhoto/2017/IMG_0863.JPG": {
+    "size": 952556,
+    "stamp": "2017:12:18 10:12:05",
+    "hash": "a00a09434eee2cf2066b91ea4b67dd92db2f1a40"
+  },
+  "gPhoto/2017/IMG_0864.JPG": {
+    "size": 859463,
+    "stamp": "2017:12:20 09:59:28",
+    "hash": "a4836506eb2d82bc50ec56a72562a46f4b560d09"
+  },
+  "gPhoto/2017/IMG_0865.JPG": {
+    "size": 1133687,
+    "stamp": "2017:12:20 09:59:43",
+    "hash": "ba9ea32f9764ceb41cc84563a846f898ae7449f6"
+  },
+  "gPhoto/2017/IMG_8326.JPG": {
+    "size": 3826664,
+    "stamp": "2017:08:17 15:13:28",
+    "hash": "aa21dd395957df95dc9dfc357cd1647f0d080d6b"
+  },
+  "gPhoto/2017/IMG_8460.JPG": {
+    "size": 372231,
+    "stamp": "2017:08:21 08:33:30",
+    "hash": "2f6951aef6a9cd6765813ccf889a98b9234727e7"
+  },
+  "gPhoto/2017/IMG_9867.JPG": {
+    "size": 1271772,
+    "stamp": "2017:12:25 14:29:05",
+    "hash": "06e1961f75af393481f05e76f0a4e41c6a848b03"
+  },
+  "gPhoto/2018/56485617909__12A3FEFF-2664-4D03-8612-9D8F96FE561B.JPG": {
+    "size": 553140,
+    "stamp": "2018:11:25 11:29:39",
+    "hash": "0f12646869cf1bfdbc94b720a021dc496d595966"
+  },
+  "gPhoto/2018/56538513031__F344BBBE-A8AD-4925-AB94-E2D8A9DA31A0.JPG": {
+    "size": 483899,
+    "stamp": "2018:12:01 14:25:30",
+    "hash": "d7164b95ce982db38c942e76df151ae4b1066f00"
+  },
+  "gPhoto/2018/56538597577__99B4EFD2-BD87-4B8A-B60F-D5EF9DFECE3A.JPG": {
+    "size": 1311232,
+    "stamp": "2018:12:01 14:39:35",
+    "hash": "d9ab47862b4ebaf17b43a345c739bc21e395d116"
+  },
+  "gPhoto/2018/56538601415__8A13D038-F037-4485-9ED2-67FF79F840CA.JPG": {
+    "size": 568044,
+    "stamp": "2018:12:01 14:40:14",
+    "hash": "a1ed7f5ce081fbc0c3b93b22c11c84a62f49034a"
+  },
+  "gPhoto/2018/56538607043__C2E4A3DF-6BB9-4C22-9520-27C4904166B9.JPG": {
+    "size": 1100278,
+    "stamp": "2018:12:01 14:41:10",
+    "hash": "9ba8cbafd5804d2c2b5bdbd808b5e0f41565fcbd"
+  },
+  "gPhoto/2018/56538611472__B603E9C5-A3B7-4323-B4BA-F96CF1D6BB56.JPG": {
+    "size": 1000346,
+    "stamp": "2018:12:01 14:41:54",
+    "hash": "9e9713308aa3c44e6dc33eec86fb7110d1b0e21b"
+  },
+  "gPhoto/2018/56538704634__1D800447-C44D-4895-A8FA-A6E188EF7186.JPG": {
+    "size": 637218,
+    "stamp": "2018:12:01 14:57:26",
+    "hash": "1e0d46cd09897fff748c082d2edeefc1abe11ad4"
+  },
+  "gPhoto/2018/56538723845__7BC15033-5AB3-46B2-8BFE-4B6B46E8F265.JPG": {
+    "size": 680330,
+    "stamp": "2018:12:01 15:00:38",
+    "hash": "e807a7f36f9a5910df15a378b39e0743f914e831"
+  },
+  "gPhoto/2018/56538919291__388186DA-9A0D-4305-AE9B-E08561FF3AEB.JPG": {
+    "size": 552155,
+    "stamp": "2018:12:01 15:33:12",
+    "hash": "6dc7d6c0bca42acc0e5c8a5605e9b6c3893b0a80"
+  },
+  "gPhoto/2018/56538937109__1D9F1918-A826-45D6-961D-7236EEDFCA9A.JPG": {
+    "size": 649941,
+    "stamp": "2018:12:01 15:36:11",
+    "hash": "70432a71ffeb531d1f09d7b7f7ea7ceb93b8be1a"
+  },
+  "gPhoto/2018/56625120015__19D9809E-5809-45C4-8D7A-9F094FCDC70F.JPG": {
+    "size": 909013,
+    "stamp": "2018:12:11 15:00:00",
+    "hash": "9189a98e7fb7bc331dc35ec09bab34c5fc602c08"
+  },
+  "gPhoto/2018/IMG_0878.JPG": {
+    "size": 532169,
+    "stamp": "2018:02:03 13:35:02",
+    "hash": "038a2a502c23ae5fe0ca7ae24763c8216014816d"
+  },
+  "gPhoto/2018/IMG_0879.JPG": {
+    "size": 541828,
+    "stamp": "2018:02:03 13:35:14",
+    "hash": "af3ec37357bdbda45f75158959b95cd96dd33424"
+  },
+  "gPhoto/2018/IMG_0880.JPG": {
+    "size": 469595,
+    "stamp": "2018:02:03 13:35:59",
+    "hash": "dfe895a47cbf1b93b3422d47bdbe436f7a82b23e"
+  },
+  "gPhoto/2018/IMG_0881.JPG": {
+    "size": 405407,
+    "stamp": "2018:02:03 13:36:58",
+    "hash": "255b1e13b02c1b4971363c6100400d72b0e9f846"
+  },
+  "gPhoto/2018/IMG_0882.JPG": {
+    "size": 440958,
+    "stamp": "2018:02:03 13:37:01",
+    "hash": "ba4461fea3494dd660e462690b8a8d9b2391eb7c"
+  },
+  "gPhoto/2018/IMG_0883.JPG": {
+    "size": 460522,
+    "stamp": "2018:02:03 13:37:06",
+    "hash": "ca751e0bc97b20449237511ec10082b3eeedd9cd"
+  },
+  "gPhoto/2018/IMG_0884.JPG": {
+    "size": 776044,
+    "stamp": "2018:02:04 20:50:59",
+    "hash": "db19934c18a20d82abaec0cb1ef38dbcfb99181d"
+  },
+  "gPhoto/2018/IMG_0885.JPG": {
+    "size": 752058,
+    "stamp": "2018:02:04 20:51:12",
+    "hash": "e1ec7efeab22e3cf1a584fb929bc293a76aba14e"
+  },
+  "gPhoto/2018/IMG_0887.JPG": {
+    "size": 762585,
+    "stamp": "2018:02:04 20:51:19",
+    "hash": "4110c53f8c2349234a85bb237a5032f0005e0b3e"
+  },
+  "gPhoto/2018/IMG_0901.JPG": {
+    "size": 524129,
+    "stamp": "2018:03:05 09:13:24",
+    "hash": "97640214d472e47a31365594de0e3817ca36f10b"
+  },
+  "gPhoto/2018/IMG_0904.JPG": {
+    "size": 751166,
+    "stamp": "2018:03:05 11:01:59",
+    "hash": "9dad1c0d1180d40c6fe3d96c0e061c788ede498c"
+  },
+  "gPhoto/2018/IMG_0905.JPG": {
+    "size": 475788,
+    "stamp": "2018:03:21 12:06:31",
+    "hash": "3eeda68a46d308e049036594e3925ab063f4ca35"
+  },
+  "gPhoto/2018/IMG_0906.JPG": {
+    "size": 699760,
+    "stamp": "2018:03:23 11:27:46",
+    "hash": "76dd3f71a2795e3da9b84b024593878529a06e81"
+  },
+  "gPhoto/2018/IMG_0908.MOV": {
+    "size": 4555898,
+    "stamp": "Unknown",
+    "hash": "4f89902291dc7b17fa2297ddda6335263555d822"
+  },
+  "gPhoto/2018/IMG_0909.JPG": {
+    "size": 745498,
+    "stamp": "2018:03:23 11:28:36",
+    "hash": "ad7b774e3a96519dd494dfb5df6a37bea239109e"
+  },
+  "gPhoto/2018/IMG_0912.JPG": {
+    "size": 720392,
+    "stamp": "2018:04:01 09:39:02",
+    "hash": "3a6ddc1db7fdac88fba0c61d5de61498a424538a"
+  },
+  "gPhoto/2018/IMG_0914.JPG": {
+    "size": 631390,
+    "stamp": "2018:04:01 09:39:20",
+    "hash": "249a74001ae3e7e17486e0e69b70ba147e70ca81"
+  },
+  "gPhoto/2018/IMG_0915.JPG": {
+    "size": 630001,
+    "stamp": "2018:04:01 10:42:13",
+    "hash": "63909217ddf62182e94f2c56e50be63828b70d88"
+  },
+  "gPhoto/2018/IMG_0916.JPG": {
+    "size": 569212,
+    "stamp": "2018:04:01 10:42:34",
+    "hash": "30462d96f794e9442927bf070be1d5718f784136"
+  },
+  "gPhoto/2018/IMG_0917.JPG": {
+    "size": 548739,
+    "stamp": "2018:04:01 10:42:50",
+    "hash": "49b1348fe03479311e2d2326ee5ee5a6bcf98801"
+  },
+  "gPhoto/2018/IMG_0918.JPG": {
+    "size": 652347,
+    "stamp": "2018:04:01 11:27:48",
+    "hash": "11a4bb92347ee0a2ecc632c3bd2b05dd646e18c1"
+  },
+  "gPhoto/2018/IMG_0920.JPG": {
+    "size": 720357,
+    "stamp": "2018:04:01 11:28:10",
+    "hash": "e7a3a23201d40261a1fe904111b2c6b27d832fdf"
+  },
+  "gPhoto/2018/IMG_0921.JPG": {
+    "size": 653193,
+    "stamp": "2018:04:01 11:28:44",
+    "hash": "eb9ef7d020932a19c2ac22425e6ba88963fa69fe"
+  },
+  "gPhoto/2018/IMG_0923.JPG": {
+    "size": 684549,
+    "stamp": "2018:04:01 11:29:03",
+    "hash": "ee355f221fbb47a43c03ef35246a00691b10893a"
+  },
+  "gPhoto/2018/IMG_0924.JPG": {
+    "size": 593743,
+    "stamp": "2018:04:01 11:29:05",
+    "hash": "e8040170e2db6601eb64cf0d3cd0fd6504c21168"
+  },
+  "gPhoto/2018/IMG_0925.JPG": {
+    "size": 698804,
+    "stamp": "2018:04:01 11:29:05",
+    "hash": "78f2edd60981febe1c83d65235834b6c2430908d"
+  },
+  "gPhoto/2018/IMG_0926.JPG": {
+    "size": 636103,
+    "stamp": "2018:04:01 11:29:05",
+    "hash": "c3b7e6f9f88880e12a16acfce7f48e368c1572fc"
+  },
+  "gPhoto/2018/IMG_0927.JPG": {
+    "size": 674351,
+    "stamp": "2018:04:01 11:30:15",
+    "hash": "c108cabd941ec6bb8a5b6cb18b23798342296c01"
+  },
+  "gPhoto/2018/IMG_0928.JPG": {
+    "size": 749351,
+    "stamp": "2018:04:01 11:30:23",
+    "hash": "e531444c3813a0af85852f3dc93dc88a25cc4860"
+  },
+  "gPhoto/2018/IMG_0929.JPG": {
+    "size": 607952,
+    "stamp": "2018:04:01 12:27:14",
+    "hash": "782d03db18a130db30cc3c4ef8ec81bdb5ddb3b5"
+  },
+  "gPhoto/2018/IMG_0930.JPG": {
+    "size": 574898,
+    "stamp": "2018:04:01 13:01:58",
+    "hash": "642294d380b03fafeb9af84a5b1162f25e13164c"
+  },
+  "gPhoto/2018/IMG_0933.JPG": {
+    "size": 648815,
+    "stamp": "2018:04:01 13:05:03",
+    "hash": "7e21a51201f34b5bb728ea2641bcd180561b793c"
+  },
+  "gPhoto/2018/IMG_0934.JPG": {
+    "size": 713899,
+    "stamp": "2018:04:01 13:10:34",
+    "hash": "ff2997c5ded4e0f23fdbe9a73bc05278a1a63bc8"
+  },
+  "gPhoto/2018/IMG_0935.JPG": {
+    "size": 655159,
+    "stamp": "2018:04:01 17:55:47",
+    "hash": "1549c521cb5afb534bdeca2fa07a23d97d90a088"
+  },
+  "gPhoto/2018/IMG_0936.JPG": {
+    "size": 650708,
+    "stamp": "2018:04:01 17:55:50",
+    "hash": "4886520243c5619355c59fe1a671fe946658fd61"
+  },
+  "gPhoto/2018/IMG_0937.JPG": {
+    "size": 695052,
+    "stamp": "2018:04:01 17:55:56",
+    "hash": "08b4d815dfb0bcf4890838501d17929d10788bb7"
+  },
+  "gPhoto/2018/IMG_0938.JPG": {
+    "size": 729146,
+    "stamp": "2018:04:01 17:56:06",
+    "hash": "9bd11bb5d5d61ad7a8ab57a8665848f5f1ce09f8"
+  },
+  "gPhoto/2018/IMG_0939.JPG": {
+    "size": 747682,
+    "stamp": "2018:04:01 17:56:08",
+    "hash": "3f80036debe202bd8da1be09b308e57c9e8a39ea"
+  },
+  "gPhoto/2018/IMG_0940.JPG": {
+    "size": 1096765,
+    "stamp": "2018:04:01 17:56:13",
+    "hash": "07490bd5813887bc6ad2adc6e0866921c4e82769"
+  },
+  "gPhoto/2018/IMG_0941 (1).PNG": {
+    "size": 182552,
+    "stamp": "Unknown",
+    "hash": "6bde5bd09d9e9b9f74a530df8ffe90ef9bcdd86d"
+  },
+  "gPhoto/2018/IMG_0941.PNG": {
+    "size": 2487467,
+    "stamp": "Unknown",
+    "hash": "a45d9a354049f4d80df0f62b4d5f2453acbb6fb2"
+  },
+  "gPhoto/2018/IMG_0942 (1).PNG": {
+    "size": 1223436,
+    "stamp": "Unknown",
+    "hash": "076c485ddafb18f1e78f0dfe83937eb3195e8698"
+  },
+  "gPhoto/2018/IMG_0942.PNG": {
+    "size": 62017,
+    "stamp": "Unknown",
+    "hash": "7c39d891e33dce2cb20f59a2d4dcdec1a3269287"
+  },
+  "gPhoto/2018/IMG_0943.JPG": {
+    "size": 567751,
+    "stamp": "2018:04:01 20:29:36",
+    "hash": "83c4cf05256f684819db05a31367832454e9f867"
+  },
+  "gPhoto/2018/IMG_0944.JPG": {
+    "size": 618347,
+    "stamp": "2018:04:01 20:29:41",
+    "hash": "3f80e135d23cceed48168d4cceec009215a1ce09"
+  },
+  "gPhoto/2018/IMG_0945.JPG": {
+    "size": 38720,
+    "stamp": "Unknown",
+    "hash": "19b8a6cf6dbdfb150cab1a391cfef8feab75f1a9"
+  },
+  "gPhoto/2018/IMG_0946.PNG": {
+    "size": 397735,
+    "stamp": "Unknown",
+    "hash": "44f26e7ef8c5588d0fdc26cd2c9f350cf3bd7bf9"
+  },
+  "gPhoto/2018/IMG_0947.JPG": {
+    "size": 44231,
+    "stamp": "Unknown",
+    "hash": "179632f5b617a62946e074216bfb9ca404b294fe"
+  },
+  "gPhoto/2018/IMG_0948.JPG": {
+    "size": 190376,
+    "stamp": "Unknown",
+    "hash": "0cc1d38436ad14df00300ddadc11b99b05c8f54d"
+  },
+  "gPhoto/2018/IMG_0949.JPG": {
+    "size": 157734,
+    "stamp": "Unknown",
+    "hash": "208ac030813aade27e772e2f36b47398cce6594c"
+  },
+  "gPhoto/2018/IMG_0950.JPG": {
+    "size": 178107,
+    "stamp": "Unknown",
+    "hash": "783e286306d979d33e16b9e73437dbbcf160425a"
+  },
+  "gPhoto/2018/IMG_0951.JPG": {
+    "size": 81521,
+    "stamp": "Unknown",
+    "hash": "942568a9c651646c7c9f26989d29410e5c89c467"
+  },
+  "gPhoto/2018/IMG_0952.JPG": {
+    "size": 100416,
+    "stamp": "Unknown",
+    "hash": "9d212c2e54f97fa9fc4c8b6b6d3985a9b4a244a8"
+  },
+  "gPhoto/2018/IMG_0953.JPG": {
+    "size": 145816,
+    "stamp": "Unknown",
+    "hash": "9407f7657f79cf2d95d5e96ec99ae7856bffb87b"
+  },
+  "gPhoto/2018/IMG_0976.JPG": {
+    "size": 2270862,
+    "stamp": "2018:04:20 15:09:25",
+    "hash": "3c6c774ee8589e0520ff98c85aef6ce2a927ebde"
+  },
+  "gPhoto/2018/IMG_0977.JPG": {
+    "size": 2395969,
+    "stamp": "2018:04:20 15:09:39",
+    "hash": "fccb8a39e8df357939f834c9e1564adf9f8905c0"
+  },
+  "gPhoto/2018/IMG_0978.JPG": {
+    "size": 2372338,
+    "stamp": "2018:04:20 15:09:47",
+    "hash": "cafcc1bf635a77e579591d571a61c39523824148"
+  },
+  "gPhoto/2018/IMG_0979.JPG": {
+    "size": 1504852,
+    "stamp": "2018:04:20 15:09:51",
+    "hash": "9fa0dee3d26c3784fb59ab3caddd93464a7f5ee4"
+  },
+  "gPhoto/2018/IMG_0980.JPG": {
+    "size": 2234862,
+    "stamp": "2018:04:20 15:10:21",
+    "hash": "136f3041398a0bc488d7691e398cb5fb2ba51ac7"
+  },
+  "gPhoto/2018/IMG_0981.JPG": {
+    "size": 2554860,
+    "stamp": "2018:04:20 15:10:30",
+    "hash": "ce9c0f19ace0c0fff4498be412c8d3c49aaf197d"
+  },
+  "gPhoto/2018/IMG_0982.JPG": {
+    "size": 1434740,
+    "stamp": "2018:04:22 12:09:49",
+    "hash": "8552e42d58845c12294f7c40ae494624b793612f"
+  },
+  "gPhoto/2018/IMG_0983.JPG": {
+    "size": 2249060,
+    "stamp": "2018:04:22 12:10:01",
+    "hash": "0573dc0cffd8a3d8d00fff2c967f3d75fa2f7a0b"
+  },
+  "gPhoto/2018/IMG_0984.JPG": {
+    "size": 1409474,
+    "stamp": "2018:04:22 12:10:02",
+    "hash": "146cad23366bcc890aba8ea76d30c81d79b9855b"
+  },
+  "gPhoto/2018/IMG_0985.JPG": {
+    "size": 982110,
+    "stamp": "2018:04:22 13:02:45",
+    "hash": "1bc44096e24205cea4ff0b5f5d937ea4c08f016d"
+  },
+  "gPhoto/2018/IMG_0986.JPG": {
+    "size": 1019702,
+    "stamp": "2018:04:22 13:02:47",
+    "hash": "0bf77da5f17b05e371c6bbc49e0a99c281b6dd49"
+  },
+  "gPhoto/2018/IMG_0987.JPG": {
+    "size": 975195,
+    "stamp": "2018:04:22 13:02:47",
+    "hash": "29e4c08125b98adb7315acedbfbd9580e0f97030"
+  },
+  "gPhoto/2018/IMG_0988.JPG": {
+    "size": 933973,
+    "stamp": "2018:04:22 13:02:54",
+    "hash": "4094d7a0e385641bdfc5de9c7511e75d0b15bf2d"
+  },
+  "gPhoto/2018/IMG_0989.JPG": {
+    "size": 870546,
+    "stamp": "2018:04:22 13:02:56",
+    "hash": "cb04b575cdd9e22033eb7d436d9105917d6653d5"
+  },
+  "gPhoto/2018/IMG_0990.JPG": {
+    "size": 830902,
+    "stamp": "2018:04:22 13:03:00",
+    "hash": "ee39899081f041eab300ae667041decd89eecb3f"
+  },
+  "gPhoto/2018/IMG_0991.JPG": {
+    "size": 963126,
+    "stamp": "2018:04:22 13:03:03",
+    "hash": "3efcf66ae9f9335c09ca55dccffaa1743ca064ad"
+  },
+  "gPhoto/2018/IMG_0992.JPG": {
+    "size": 934328,
+    "stamp": "2018:04:22 13:03:05",
+    "hash": "ccc32dc1a407eebd936e9ea22a0dc5c15dad76af"
+  },
+  "gPhoto/2018/IMG_0999.JPG": {
+    "size": 765724,
+    "stamp": "2018:04:30 17:14:52",
+    "hash": "36b43c19c3ea34dc29968f7db04d9eb70be5c9ff"
+  },
+  "gPhoto/2018/IMG_1001.JPG": {
+    "size": 922935,
+    "stamp": "2018:04:30 17:15:05",
+    "hash": "5415c7e65eabdb0e911a5dc7a2d7b22316e445b3"
+  },
+  "gPhoto/2018/IMG_1004.JPG": {
+    "size": 787046,
+    "stamp": "2018:04:30 17:15:24",
+    "hash": "a003353add9ae9e70193c15f6f910032f624c654"
+  },
+  "gPhoto/2018/IMG_1007.JPG": {
+    "size": 762744,
+    "stamp": "2018:04:30 18:06:04",
+    "hash": "f023cfc53f52ac8dbd58acaa2faa38a805ba2675"
+  },
+  "gPhoto/2018/IMG_1008.JPG": {
+    "size": 714329,
+    "stamp": "2018:04:30 18:07:02",
+    "hash": "0c9beb046feffc4201eabb76c5e671b8a9856dd9"
+  },
+  "gPhoto/2018/IMG_1010.JPG": {
+    "size": 686717,
+    "stamp": "2018:04:30 18:07:36",
+    "hash": "7e09041d0779c64291aa48ba1ee192ed65d4294e"
+  },
+  "gPhoto/2018/IMG_1018.JPG": {
+    "size": 1253724,
+    "stamp": "2018:05:11 16:07:57",
+    "hash": "1a62743887596e760c4f8a26bcb6406842c1e798"
+  },
+  "gPhoto/2018/IMG_1019.JPG": {
+    "size": 3194075,
+    "stamp": "2018:05:16 14:20:39",
+    "hash": "846be93008438396ad3ac3d7092e703477c15c7c"
+  },
+  "gPhoto/2018/IMG_1020.JPG": {
+    "size": 3222297,
+    "stamp": "2018:05:16 14:20:46",
+    "hash": "667fd9cd363f250a50bd54c28e44a13b7c2e5d6a"
+  },
+  "gPhoto/2018/IMG_1021.JPG": {
+    "size": 3573472,
+    "stamp": "2018:05:16 14:20:51",
+    "hash": "327ccd8443abbbe79f29f3a62dd1574ad519f30b"
+  },
+  "gPhoto/2018/IMG_1022.JPG": {
+    "size": 2597653,
+    "stamp": "2018:05:16 14:38:46",
+    "hash": "516d7991f3dcd73b04af932f61f0876cca652b24"
+  },
+  "gPhoto/2018/IMG_1023.JPG": {
+    "size": 2438049,
+    "stamp": "2018:05:16 14:38:48",
+    "hash": "3fdf66ce020f7957b34260d34710e59022bb08b6"
+  },
+  "gPhoto/2018/IMG_1024.JPG": {
+    "size": 2593680,
+    "stamp": "2018:05:16 14:38:49",
+    "hash": "ead19c0a418d463f9b9298f9282a939f4b14130e"
+  },
+  "gPhoto/2018/IMG_1029.JPG": {
+    "size": 694083,
+    "stamp": "2018:05:18 13:46:22",
+    "hash": "3847094e44f071f63d410e76615398bea09f214c"
+  },
+  "gPhoto/2018/IMG_1030.JPG": {
+    "size": 642869,
+    "stamp": "2018:05:18 13:46:29",
+    "hash": "ecf18bef5485f9c0c747d95fc035aee862693a07"
+  },
+  "gPhoto/2018/IMG_1051.JPG": {
+    "size": 3164197,
+    "stamp": "2018:06:17 16:12:53",
+    "hash": "950cd91b6933e2ad297383e7971825878452fa66"
+  },
+  "gPhoto/2018/IMG_1052.JPG": {
+    "size": 2558529,
+    "stamp": "2018:06:17 16:13:12",
+    "hash": "94be48522ce9853ccb0fba4497836fc7c64d42b3"
+  },
+  "gPhoto/2018/IMG_1053.JPG": {
+    "size": 2262710,
+    "stamp": "2018:06:17 16:13:40",
+    "hash": "8e6af7bf60017fc300ee9eb955c2f478ccedb5db"
+  },
+  "gPhoto/2018/IMG_1054.JPG": {
+    "size": 3029853,
+    "stamp": "2018:06:17 16:15:08",
+    "hash": "4d20b37b77497ea53488c52548ea2adee6f91eef"
+  },
+  "gPhoto/2018/IMG_1055.JPG": {
+    "size": 2767666,
+    "stamp": "2018:06:17 16:15:20",
+    "hash": "e82d2be9fa4b7ad0a544bf305c908f3182fe3235"
+  },
+  "gPhoto/2018/IMG_1056.JPG": {
+    "size": 634750,
+    "stamp": "2018:07:04 13:33:15",
+    "hash": "7bd4efaa4973abdcb7d501be8844aa0196999a03"
+  },
+  "gPhoto/2018/IMG_1057.JPG": {
+    "size": 155846,
+    "stamp": "2018:07:04 14:01:43",
+    "hash": "4d8e875b4ee7ad94ed64a3abfb468d0472f29538"
+  },
+  "gPhoto/2018/IMG_1058.JPG": {
+    "size": 4084758,
+    "stamp": "2018:07:07 12:52:27",
+    "hash": "9354180a99b5ebea92d17ce9136daed7f2d081af"
+  },
+  "gPhoto/2018/IMG_1070.JPG": {
+    "size": 684923,
+    "stamp": "2018:07:31 17:24:06",
+    "hash": "7d9925ad217ec848f9e46dc3aa08078773a6a476"
+  },
+  "gPhoto/2018/IMG_1073.JPG": {
+    "size": 1160678,
+    "stamp": "2018:08:01 10:44:37",
+    "hash": "79416ab200cab27e4ddc65d9d07f91dabe515527"
+  },
+  "gPhoto/2018/IMG_1074.JPG": {
+    "size": 1044912,
+    "stamp": "2018:08:01 10:44:46",
+    "hash": "184268a87040a75b40c1d9ea48428cf89cccac67"
+  },
+  "gPhoto/2018/IMG_1075.JPG": {
+    "size": 682780,
+    "stamp": "2018:08:01 10:44:57",
+    "hash": "ead3da1da79331c2f011cf5cd7e354c8a7035873"
+  },
+  "gPhoto/2018/IMG_1076.JPG": {
+    "size": 2126374,
+    "stamp": "2018:08:03 08:11:01",
+    "hash": "94d28dd784eb65566d1d7ec2441d443eea2fe62d"
+  },
+  "gPhoto/2018/IMG_1077.JPG": {
+    "size": 2081091,
+    "stamp": "2018:08:03 08:11:02",
+    "hash": "28c7967eef824e70819b59b14f5e9588f38cd9e1"
+  },
+  "gPhoto/2018/IMG_1078.JPG": {
+    "size": 1491712,
+    "stamp": "2018:08:03 08:11:25",
+    "hash": "f02fc512e4ff556e2c9f2a73c762715a7a7233e2"
+  },
+  "gPhoto/2018/IMG_1080.JPG": {
+    "size": 584646,
+    "stamp": "2018:08:03 08:17:48",
+    "hash": "72868734d718c00fb9315e2202fc9f3bccb084e0"
+  },
+  "gPhoto/2018/IMG_1082.JPG": {
+    "size": 2030584,
+    "stamp": "2018:08:03 08:22:13",
+    "hash": "7272e1f25a06f8a640337973f3cdafaf566819ea"
+  },
+  "gPhoto/2018/IMG_1087.JPG": {
+    "size": 205497,
+    "stamp": "2018:08:27 07:53:21",
+    "hash": "27619b770588809d0a4ca79c067652bf54fcbebd"
+  },
+  "gPhoto/2018/IMG_1089.MOV": {
+    "size": 1806859,
+    "stamp": "Unknown",
+    "hash": "706ea1e4850235a309d81fe0a378380505b99f7b"
+  },
+  "gPhoto/2018/IMG_1090.JPG": {
+    "size": 659640,
+    "stamp": "2018:09:12 12:30:07",
+    "hash": "2aef137870f184e842bf39acd1f83c6b9db658cf"
+  },
+  "gPhoto/2018/IMG_1091.JPG": {
+    "size": 757248,
+    "stamp": "2018:09:12 12:30:15",
+    "hash": "7e3a542e158050f3727d388bdd039cbd68ba098d"
+  },
+  "gPhoto/2018/IMG_1092.JPG": {
+    "size": 677816,
+    "stamp": "2018:09:12 12:30:32",
+    "hash": "506cc88f81c7b9be278f908b55fd98d6b2841669"
+  },
+  "gPhoto/2018/IMG_1099.JPG": {
+    "size": 1712018,
+    "stamp": "2018:10:01 09:15:57",
+    "hash": "0386c1913475ba5a361f564853f4f44a293e8aef"
+  },
+  "gPhoto/2018/IMG_1100.JPG": {
+    "size": 675009,
+    "stamp": "2018:10:01 09:16:01",
+    "hash": "fdf1affae70ad3b846c01336471ee69621635cf6"
+  },
+  "gPhoto/2018/IMG_1101.JPG": {
+    "size": 1685875,
+    "stamp": "2018:10:01 09:16:11",
+    "hash": "05345da36459645f47780fb914820d533dc3c242"
+  },
+  "gPhoto/2018/IMG_1102.JPG": {
+    "size": 805381,
+    "stamp": "2018:10:01 09:16:28",
+    "hash": "1396d89b3d1fcaa41f0b2ed2a0e42bab6c37596a"
+  },
+  "gPhoto/2018/IMG_1103.JPG": {
+    "size": 541625,
+    "stamp": "2018:10:01 09:16:28",
+    "hash": "706a345897ac57c6d09aacb47b7fcc0c438e9b87"
+  },
+  "gPhoto/2018/IMG_1104.JPG": {
+    "size": 2486463,
+    "stamp": "2018:10:19 11:34:32",
+    "hash": "c9bba5969a7e4c7eca301ee0813e97738389292e"
+  },
+  "gPhoto/2018/IMG_1105.JPG": {
+    "size": 2552464,
+    "stamp": "2018:10:19 11:34:33",
+    "hash": "42ea2df2f5705850742b3e277978d4d741fc8e59"
+  },
+  "gPhoto/2018/IMG_1106.JPG": {
+    "size": 1987223,
+    "stamp": "2018:10:19 11:34:39",
+    "hash": "70e1b67b6bc79ea29a7711f97191d46398066f71"
+  },
+  "gPhoto/2018/IMG_1107.JPG": {
+    "size": 1500615,
+    "stamp": "2018:10:19 11:35:06",
+    "hash": "0d6ef8d8febec60842f667ebc6d97a4e29f5729c"
+  },
+  "gPhoto/2018/IMG_1108.JPG": {
+    "size": 2001473,
+    "stamp": "2018:10:19 11:35:37",
+    "hash": "73063582e516637e9b75682cfefb9675f00ce3e9"
+  },
+  "gPhoto/2018/IMG_1109.JPG": {
+    "size": 1161596,
+    "stamp": "2018:10:19 11:35:47",
+    "hash": "8bc1e4a00fbe0d4f94d8034cd53955f9c8842017"
+  },
+  "gPhoto/2018/IMG_1110.JPG": {
+    "size": 1950292,
+    "stamp": "2018:10:19 11:36:16",
+    "hash": "873c38ef8517c54fa2c30db9fd1fe92f6432c1de"
+  },
+  "gPhoto/2018/IMG_1111.JPG": {
+    "size": 1497116,
+    "stamp": "2018:10:19 11:36:17",
+    "hash": "126c7a7df1e63d0b8d7b83269e6d6523af5361ae"
+  },
+  "gPhoto/2018/IMG_1112.JPG": {
+    "size": 711506,
+    "stamp": "2018:10:19 11:36:25",
+    "hash": "faa51690ad706c4c0b66abe63befa0f93b85c45c"
+  },
+  "gPhoto/2018/IMG_1113.JPG": {
+    "size": 719384,
+    "stamp": "2018:10:19 11:36:32",
+    "hash": "cf366f6b0ff90f7bbbbdeef4c37b6fd225fbc00a"
+  },
+  "gPhoto/2018/IMG_1114.JPG": {
+    "size": 2403935,
+    "stamp": "2018:10:19 11:36:40",
+    "hash": "62cb88a449a9ddedd67d71911b96ffa5e30d3001"
+  },
+  "gPhoto/2018/IMG_1115.JPG": {
+    "size": 1313976,
+    "stamp": "2018:10:19 11:37:17",
+    "hash": "399dbf5bbf0dbbf6d903dd25b34757986d3890f2"
+  },
+  "gPhoto/2018/IMG_1116.JPG": {
+    "size": 644980,
+    "stamp": "2018:10:19 11:37:52",
+    "hash": "2125abec4cecff079b6361710d84cede28c82da6"
+  },
+  "gPhoto/2018/IMG_1117.JPG": {
+    "size": 1540743,
+    "stamp": "2018:10:29 15:07:42",
+    "hash": "626b9777702426965caa36db5c36e5be256a8929"
+  },
+  "gPhoto/2018/IMG_1118.JPG": {
+    "size": 1896585,
+    "stamp": "2018:10:29 15:07:46",
+    "hash": "49cc2fe0fcc2e0e6f17f77550d5d31a057f76741"
+  },
+  "gPhoto/2018/IMG_1119.JPG": {
+    "size": 1146764,
+    "stamp": "2018:10:29 15:08:51",
+    "hash": "70d518a0d1d01a412c9050df20f04ae9c238f66d"
+  },
+  "gPhoto/2018/IMG_1120.JPG": {
+    "size": 1579902,
+    "stamp": "2018:10:29 15:08:58",
+    "hash": "a8e073f011fbd08364e1bb2f14c2556ed5b89ef0"
+  },
+  "gPhoto/2018/IMG_1121.JPG": {
+    "size": 1237885,
+    "stamp": "2018:10:29 15:16:32",
+    "hash": "be07b6eda627fe0f6969d1af5d3776a02464b3ec"
+  },
+  "gPhoto/2018/IMG_1122.JPG": {
+    "size": 1128280,
+    "stamp": "2018:10:29 15:16:32",
+    "hash": "92a7c4125ce997583d656be12efdfec96ae40db5"
+  },
+  "gPhoto/2018/IMG_1123.JPG": {
+    "size": 1141505,
+    "stamp": "2018:10:29 15:16:32",
+    "hash": "52c952d2d33eb1f401b0b4b2d2a481ece9e8e898"
+  },
+  "gPhoto/2018/IMG_1124.JPG": {
+    "size": 1077484,
+    "stamp": "2018:10:29 15:16:32",
+    "hash": "bd8eee7638ecc741042a9a6acc5b82ec0d027558"
+  },
+  "gPhoto/2018/IMG_1125.JPG": {
+    "size": 1226092,
+    "stamp": "2018:10:29 15:16:32",
+    "hash": "568684f4c6e2edec13ae9ee020c0bf60c2ed8026"
+  },
+  "gPhoto/2018/IMG_1126.JPG": {
+    "size": 1091049,
+    "stamp": "2018:10:29 15:16:32",
+    "hash": "2d13d1c2bea383f7f411c082c815f957ef4e9d42"
+  },
+  "gPhoto/2018/IMG_1127.JPG": {
+    "size": 1117913,
+    "stamp": "2018:10:29 15:16:35",
+    "hash": "0c903c81cb395ac30efd57292b42221567a7e0e9"
+  },
+  "gPhoto/2018/IMG_1128.JPG": {
+    "size": 1126958,
+    "stamp": "2018:10:29 15:16:46",
+    "hash": "3b8837b2bfaec2d8ec78da3b30592bee6f369a0b"
+  },
+  "gPhoto/2018/IMG_1129.JPG": {
+    "size": 1701801,
+    "stamp": "2018:10:29 15:17:10",
+    "hash": "30477a16bcc0cb5c7c5b29587a972a27be6ab6df"
+  },
+  "gPhoto/2018/IMG_1130.JPG": {
+    "size": 1198853,
+    "stamp": "2018:10:29 15:17:15",
+    "hash": "306fa5a71e624901f084a1c420a3f545314a50a9"
+  },
+  "gPhoto/2018/IMG_1135.JPG": {
+    "size": 3373016,
+    "stamp": "2018:11:08 11:45:40",
+    "hash": "2d9b848b012252b27808199209d8e29dec63a9b7"
+  },
+  "gPhoto/2018/IMG_1136.JPG": {
+    "size": 3237181,
+    "stamp": "2018:11:08 11:45:51",
+    "hash": "41bacab96300309d9f6de0bfe50aaaeaada2f4ff"
+  },
+  "gPhoto/2018/IMG_1137.JPG": {
+    "size": 3301803,
+    "stamp": "2018:11:08 11:45:57",
+    "hash": "72dd9b7a376e8e474bf571d71e423506b0bd7887"
+  },
+  "gPhoto/2018/IMG_1139.JPG": {
+    "size": 343246,
+    "stamp": "2018:12:01 14:24:12",
+    "hash": "3de5286e57f573ca66234278f7b9e45ccc2a3b3e"
+  },
+  "gPhoto/2018/IMG_1149.JPG": {
+    "size": 782580,
+    "stamp": "2018:12:07 21:11:41",
+    "hash": "ce310f511f49a2a3ad7f189c1e14baced6079795"
+  },
+  "gPhoto/2018/IMG_1150.JPG": {
+    "size": 805017,
+    "stamp": "2018:12:07 21:11:52",
+    "hash": "f7c35857583ba70d236dea771a8da4957f18a1f8"
+  },
+  "gPhoto/2018/IMG_1154.JPG": {
+    "size": 676002,
+    "stamp": "2018:12:16 08:02:31",
+    "hash": "40f6949172e5da0de7845d293424d38ea51c5e22"
+  },
+  "gPhoto/2018/IMG_1155.JPG": {
+    "size": 2828889,
+    "stamp": "2018:12:29 13:42:46",
+    "hash": "2905f5baab849e144a6a6416ba4fcb39485f606b"
+  },
+  "gPhoto/2018/IMG_1156.JPG": {
+    "size": 2916721,
+    "stamp": "2018:12:29 13:42:47",
+    "hash": "99dc948fff3059230fadbfda37f2d205dbff08b2"
+  },
+  "gPhoto/2018/IMG_1157.JPG": {
+    "size": 3243916,
+    "stamp": "2018:12:29 13:42:57",
+    "hash": "ca01e7c2e5b4bc5ebc067da26874fb88cc3443ff"
+  },
+  "gPhoto/2018/IMG_1158.JPG": {
+    "size": 2563943,
+    "stamp": "2018:12:29 13:43:12",
+    "hash": "967bfecc39b51d5b0930fa58bbdb07de9fbd379d"
+  },
+  "gPhoto/2018/IMG_1159.JPG": {
+    "size": 2784830,
+    "stamp": "2018:12:29 13:44:10",
+    "hash": "9de9088a7bd3c05c42c44cb3984002898a1c907c"
+  },
+  "gPhoto/2018/IMG_1160.JPG": {
+    "size": 2707634,
+    "stamp": "2018:12:29 13:44:12",
+    "hash": "1a348bfedda66a6ddb776ff1daa90911d8c913e2"
+  },
+  "gPhoto/2018/IMG_1161.JPG": {
+    "size": 2139844,
+    "stamp": "2018:12:29 13:44:24",
+    "hash": "03fb7466b775eae748305bfc560a9655330db5a0"
+  },
+  "gPhoto/2018/IMG_1162.JPG": {
+    "size": 2579971,
+    "stamp": "2018:12:29 13:44:32",
+    "hash": "c51c6f2a5e968268b4ccfd0239120f7777e952eb"
+  },
+  "gPhoto/2018/IMG_1163.JPG": {
+    "size": 2643946,
+    "stamp": "2018:12:29 13:44:36",
+    "hash": "00f249870dd07b74658ba8948ccfa4bb0bbf371a"
+  },
+  "gPhoto/2018/IMG_1415.JPG": {
+    "size": 301853,
+    "stamp": "2018:05:10 17:52:32",
+    "hash": "985272b8c1f643bf4dfcc1aa62fca586f3585bcc"
+  },
+  "gPhoto/2018/IMG_1491.JPG": {
+    "size": 758932,
+    "stamp": "2018:06:03 17:07:44",
+    "hash": "a94bd3114cde08710fd801e7dce3f900ea08ff80"
+  },
+  "gPhoto/2018/IMG_1496.JPG": {
+    "size": 806100,
+    "stamp": "2018:06:03 17:14:14",
+    "hash": "c04c86dccdc74d1560c470bc242fc3a8a7d0ee94"
+  },
+  "gPhoto/2018/IMG_1497.JPG": {
+    "size": 747333,
+    "stamp": "2018:06:03 17:14:17",
+    "hash": "fa2ecc1c1dbdbda1a839cacb77645e8b47166110"
+  },
+  "gPhoto/2018/IMG_1498.JPG": {
+    "size": 702641,
+    "stamp": "2018:06:03 17:14:28",
+    "hash": "96fe911ebf86ac731a5ca09aec2f85166d468f91"
+  },
+  "gPhoto/2018/IMG_1499.JPG": {
+    "size": 586943,
+    "stamp": "2018:06:03 17:14:33",
+    "hash": "34bd2694c553106826dafbcd48155ff155273bdc"
+  },
+  "gPhoto/2018/IMG_1504.JPG": {
+    "size": 945356,
+    "stamp": "2018:06:03 17:47:03",
+    "hash": "67d8575ad8a8970efd5db84bca091fb1e1f1abf3"
+  },
+  "gPhoto/2018/IMG_1507.JPG": {
+    "size": 942548,
+    "stamp": "2018:06:03 19:14:28",
+    "hash": "7c09594c6393bfbb5ea42534e4c7f37539d854a5"
+  },
+  "gPhoto/2018/IMG_1509.mov": {
+    "size": 7125882,
+    "stamp": "Unknown",
+    "hash": "36a980ce661e8bb95bb23707cdd54906f3a38050"
+  },
+  "gPhoto/2018/IMG_1511.JPG": {
+    "size": 645961,
+    "stamp": "2018:06:03 17:05:55",
+    "hash": "ae5836c4d9343e3063b559b671271b47b1a45c99"
+  },
+  "gPhoto/2018/IMG_1607.HEIC": {
+    "size": 1743279,
+    "stamp": "Unknown",
+    "hash": "0d54840a1381fdce94789f5a0fdf27ea4fc610b1"
+  },
+  "gPhoto/2018/IMG_1775.JPG": {
+    "size": 1782093,
+    "stamp": "2018:09:19 10:27:46",
+    "hash": "f204a6472d51e908cb4cb9a471f41e3362496091"
+  },
+  "gPhoto/2018/IMG_1776.JPG": {
+    "size": 1697744,
+    "stamp": "2018:09:19 10:31:22",
+    "hash": "a25a3b63dd50748dd1c6b78a440d60ad971c10bf"
+  },
+  "gPhoto/2018/IMG_2118.jpg": {
+    "size": 559245,
+    "stamp": "2018:05:27 19:11:59",
+    "hash": "7af3795a92fc47ea010f8a59164f771359009ec9"
+  },
+  "gPhoto/2018/IMG_3687.JPG": {
+    "size": 504051,
+    "stamp": "2018:09:19 10:08:50",
+    "hash": "25f354df335ce25fb5d4f1fd5d4fd08911bf2b18"
+  },
+  "gPhoto/2018/MOVIE.mp4": {
+    "size": 6149026,
+    "stamp": "Unknown",
+    "hash": "961acce6dff5b9a51f389e4f012a5aa7d97874d4"
+  },
+  "gPhoto/2019/57393682794__A953110A-2FA1-4ACA-A7A9-2F707C413F33.JPG": {
+    "size": 733363,
+    "stamp": "2019:03:10 14:53:47",
+    "hash": "4c88e9da5409a19e0353ee44bb75252162303b53"
+  },
+  "gPhoto/2019/IMG_1175.JPG": {
+    "size": 1236373,
+    "stamp": "2019:01:19 16:07:37",
+    "hash": "49f67ec98b6e1961e590111f75ecb42d1a02d1f4"
+  },
+  "gPhoto/2019/IMG_1186.JPG": {
+    "size": 1788147,
+    "stamp": "2019:02:06 16:21:21",
+    "hash": "b46460dbf09997126c31c8b6ff380c031aecf688"
+  },
+  "gPhoto/2019/IMG_1192.JPG": {
+    "size": 330866,
+    "stamp": "2019:02:12 08:42:15",
+    "hash": "5986a7c31d860c0226a283cf03036136831686ea"
+  },
+  "gPhoto/2019/IMG_1194.JPG": {
+    "size": 747543,
+    "stamp": "2019:02:14 19:52:43",
+    "hash": "852bcc71fa6ed819e3231b96a3e2dc17de30e408"
+  },
+  "gPhoto/2019/IMG_1195.JPG": {
+    "size": 687633,
+    "stamp": "2019:02:14 19:53:09",
+    "hash": "dcf1cebb542a7a600e157268c99d8a450feb1587"
+  },
+  "gPhoto/2019/IMG_1196.JPG": {
+    "size": 911634,
+    "stamp": "2019:02:14 19:53:59",
+    "hash": "54b0cd0cce6a3f2cbd704a60aa34e9383c98d24d"
+  },
+  "gPhoto/2019/IMG_1197.JPG": {
+    "size": 764262,
+    "stamp": "2019:02:14 19:54:23",
+    "hash": "bb79a0c50b8c3d49485d1f1ecb65a2bc0c7608e2"
+  },
+  "gPhoto/2019/IMG_1198.JPG": {
+    "size": 945394,
+    "stamp": "2019:02:14 19:54:33",
+    "hash": "bc1893b9496752269a8050752ba6186ca1346937"
+  },
+  "gPhoto/2019/IMG_1199.JPG": {
+    "size": 538389,
+    "stamp": "2019:02:15 12:37:48",
+    "hash": "72c8fb4fc3d814b59ecf361794e650fe60747388"
+  },
+  "gPhoto/2019/IMG_1201.JPG": {
+    "size": 451594,
+    "stamp": "2019:02:15 12:40:11",
+    "hash": "f616949a12a4320cf74912e7d7670159655a7cdb"
+  },
+  "gPhoto/2019/IMG_1203.JPG": {
+    "size": 275075,
+    "stamp": "2019:02:15 12:42:53",
+    "hash": "71060967d16ad39627a82e5b45fecf8738b3d54b"
+  },
+  "gPhoto/2019/IMG_1204.JPG": {
+    "size": 527726,
+    "stamp": "2019:02:15 12:43:03",
+    "hash": "9b36fd770c70c8580e11c51eddd634d5005c905e"
+  },
+  "gPhoto/2019/IMG_1205.JPG": {
+    "size": 534769,
+    "stamp": "2019:02:15 12:43:42",
+    "hash": "048fd326d1473a8d19f135753ea31dfe673cd674"
+  },
+  "gPhoto/2019/IMG_1207.JPG": {
+    "size": 576910,
+    "stamp": "2019:02:15 12:45:03",
+    "hash": "5528f67c186106bbaccccf014b9f0ec1bfaa2819"
+  },
+  "gPhoto/2019/IMG_1208.JPG": {
+    "size": 586333,
+    "stamp": "2019:02:15 12:45:08",
+    "hash": "2ffc3030ba3ab18cef28ae6074a5700a26cb9f23"
+  },
+  "gPhoto/2019/IMG_1209.JPG": {
+    "size": 649977,
+    "stamp": "2019:02:15 12:48:51",
+    "hash": "cd9b588bd6fe9ba3993849ce35092881f88bf465"
+  },
+  "gPhoto/2019/IMG_1210.JPG": {
+    "size": 428635,
+    "stamp": "2019:02:15 12:49:02",
+    "hash": "9b97356f215706ae4efb6d6e11db97d390100a21"
+  },
+  "gPhoto/2019/IMG_1212.JPG": {
+    "size": 659945,
+    "stamp": "2019:02:15 12:49:51",
+    "hash": "ec912ea6abb5dacc1ec326033835d105c5f9583e"
+  },
+  "gPhoto/2019/IMG_1216.JPG": {
+    "size": 300218,
+    "stamp": "2019:02:15 12:54:09",
+    "hash": "6d7667077f0ad3d0cf7d276fbfd1f23f4260a896"
+  },
+  "gPhoto/2019/IMG_1217.JPG": {
+    "size": 265680,
+    "stamp": "2019:02:15 12:54:22",
+    "hash": "cc396a1b20f07c9ae68abd2e46dba2a9fadec0c4"
+  },
+  "gPhoto/2019/IMG_1218.JPG": {
+    "size": 787287,
+    "stamp": "2019:02:15 12:56:30",
+    "hash": "d72729bc26557ae0bfb76ee489ea1d3f0baba5c8"
+  },
+  "gPhoto/2019/IMG_1220.JPG": {
+    "size": 592322,
+    "stamp": "2019:02:15 12:57:51",
+    "hash": "a3ad8c28b6a607b49b909a13dbae96fad3803c44"
+  },
+  "gPhoto/2019/IMG_1222.JPG": {
+    "size": 528552,
+    "stamp": "2019:02:15 12:58:45",
+    "hash": "85e9c48f7047949dca7595301faa2325d9574c5c"
+  },
+  "gPhoto/2019/IMG_1230.JPG": {
+    "size": 234826,
+    "stamp": "2019:02:15 13:00:13",
+    "hash": "71cfdcb70eb0ebf0ac26709a144d8d741ebe9ab4"
+  },
+  "gPhoto/2019/IMG_1231.JPG": {
+    "size": 663016,
+    "stamp": "2019:02:15 13:01:13",
+    "hash": "79b76b607faba4fc80922085bcf533aa909a10e1"
+  },
+  "gPhoto/2019/IMG_1232.JPG": {
+    "size": 670319,
+    "stamp": "2019:02:15 13:01:18",
+    "hash": "e0e015be09c982de069939b8948ebe5d2cab9293"
+  },
+  "gPhoto/2019/IMG_1234.JPG": {
+    "size": 487830,
+    "stamp": "2019:02:15 13:04:01",
+    "hash": "4a3f2509204461b752229c3cf42160bbb934745e"
+  },
+  "gPhoto/2019/IMG_1235.JPG": {
+    "size": 494300,
+    "stamp": "2019:02:15 13:04:03",
+    "hash": "2dac6e01b04472346e1c7345d67e126d177a9fce"
+  },
+  "gPhoto/2019/IMG_1236.JPG": {
+    "size": 554478,
+    "stamp": "2019:02:15 13:14:18",
+    "hash": "a49e10a0efabf77fc69dfaf0978dcdc6a53f38bd"
+  },
+  "gPhoto/2019/IMG_1237.JPG": {
+    "size": 648251,
+    "stamp": "2019:02:15 13:14:28",
+    "hash": "9074a3b397c8a55d7f71b166b4a2f8692e19cedc"
+  },
+  "gPhoto/2019/IMG_1238.JPG": {
+    "size": 495156,
+    "stamp": "2019:02:15 13:15:14",
+    "hash": "c3c18a7bafc9e76a3753b268e5c184d4632da24f"
+  },
+  "gPhoto/2019/IMG_1239.JPG": {
+    "size": 541094,
+    "stamp": "2019:02:15 13:16:17",
+    "hash": "df0db5a337d206fc3d9f64af93060b9a4180affe"
+  },
+  "gPhoto/2019/IMG_1240.JPG": {
+    "size": 583151,
+    "stamp": "2019:02:15 13:16:24",
+    "hash": "0ccabe2dd0f33a0dc81d8ab124528250870b31a8"
+  },
+  "gPhoto/2019/IMG_1241.JPG": {
+    "size": 624815,
+    "stamp": "2019:02:15 13:16:33",
+    "hash": "db93478ce91c012b2c5004d8221f8489926fd5a1"
+  },
+  "gPhoto/2019/IMG_1242.JPG": {
+    "size": 626336,
+    "stamp": "2019:02:16 10:30:38",
+    "hash": "2817b163e4ba5939805e5c7cdf0a5236bf6b94ac"
+  },
+  "gPhoto/2019/IMG_1244.JPG": {
+    "size": 830508,
+    "stamp": "2019:02:16 10:30:45",
+    "hash": "b292ba8b9309be3c5f86c01dcf94c0862108df09"
+  },
+  "gPhoto/2019/IMG_1245.JPG": {
+    "size": 955687,
+    "stamp": "2019:02:16 10:30:53",
+    "hash": "223857acfa03dffe3bc6792e92a92ff549d5c635"
+  },
+  "gPhoto/2019/IMG_1246.JPG": {
+    "size": 845040,
+    "stamp": "2019:02:17 19:20:22",
+    "hash": "7dd0ebf13f06d8c666c030f1ce947de221efbbd3"
+  },
+  "gPhoto/2019/IMG_1247.JPG": {
+    "size": 763447,
+    "stamp": "2019:02:24 14:37:28",
+    "hash": "3e3e64cc7c6e59f530528b4136f76f976152e242"
+  },
+  "gPhoto/2019/IMG_1248.JPG": {
+    "size": 349217,
+    "stamp": "2019:02:24 14:38:17",
+    "hash": "eedfb6c837db0f4a0b076ecf8dd07cba76421b25"
+  },
+  "gPhoto/2019/IMG_1251.JPG": {
+    "size": 1369765,
+    "stamp": "2019:03:10 14:44:26",
+    "hash": "b1f9329d35853577e9edc763186717de4e26dff1"
+  },
+  "gPhoto/2019/IMG_1252.JPG": {
+    "size": 1245944,
+    "stamp": "2019:03:10 14:44:30",
+    "hash": "7119ed2af06a5c5ded04c383f2c5b9e0bdd11b22"
+  },
+  "gPhoto/2019/IMG_1253.JPG": {
+    "size": 1151759,
+    "stamp": "2019:03:10 14:44:31",
+    "hash": "f59d4755b01dba3ce685df070a03c51e30643f7a"
+  },
+  "gPhoto/2019/IMG_1254.JPG": {
+    "size": 734869,
+    "stamp": "2019:03:10 14:44:58",
+    "hash": "25505e77999413a3e6c480757f2916583b76e9ab"
+  },
+  "gPhoto/2019/IMG_1255.JPG": {
+    "size": 1056114,
+    "stamp": "2019:03:10 14:45:15",
+    "hash": "083863b2396b25ec3a53e2813f2e39865bdc3eb9"
+  },
+  "gPhoto/2019/IMG_1256.JPG": {
+    "size": 610205,
+    "stamp": "2019:03:10 14:49:44",
+    "hash": "7f0914c51095b4ed0671fb09eaad84f5979bb5bd"
+  },
+  "gPhoto/2019/IMG_1257.JPG": {
+    "size": 1255541,
+    "stamp": "2019:03:10 14:50:14",
+    "hash": "bff13243eba6cd82334a940e641e39e147b559b6"
+  },
+  "gPhoto/2019/IMG_1258.JPG": {
+    "size": 747400,
+    "stamp": "2019:03:10 14:50:32",
+    "hash": "9fa84367f4fed23cd116ec476d880fc53c01d24a"
+  },
+  "gPhoto/2019/IMG_1259.JPG": {
+    "size": 690184,
+    "stamp": "2019:03:10 14:51:14",
+    "hash": "ace3878aebf3399226210d37c82a0d6ca08a31af"
+  }
+}
