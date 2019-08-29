@@ -1,8 +1,23 @@
 # Compare Photos in Google Photos and iCloud
 
+In the end I simply downloaded all iCloud photos, and imported them into GooglePhotos (not original resolution)
+
 Comparing iCloud and GooglePhots Downloads, to hopefully consiladte them both, with no loss and no duplicates
 
 ## Notes
+
+2019-08-24 Fetched all iCloud Photos again
+
+```bash
+...iCloudPhotos-Mom-2019-08-24$ sha1sum * | sort > ../iCloudPhotos-Mom-2019-08-24.sorted.sha1sums
+...iCloudPhotos-Mom-2019-08-24$ sha1sum * > ../iCloudPhotos-Mom-2019-08-24.unsorted.sha1sums
+
+...iCloudPhotos-Mom-2019-03-10$ sha1sum * | sort > ../iCloudPhotos-Mom-2019-03-10.sorted.sha1sums
+...iCloudPhotos-Mom-2019-03-10$ sha1sum * > ../iCloudPhotos-Mom-2019-03-10.unsorted.sha1sums
+
+```
+
+2019-03-10
 
 - Almost all files are different!
 
@@ -42,4 +57,12 @@ time node js/compare gPhoto.json iCloud.json
 ```bash
 ./count.sh
 ./sha1sum.sh
+```
+
+## Perkeep
+
+```bash
+# pk-put init -gpgkey XYXXYXYXYYX # just once
+pk-put file --permanode --title='Mom-gPhoto' --tag=mom ./gPhoto
+pk-put file --permanode --title='Mom-iCloud' --tag=mom ./iCloud
 ```
