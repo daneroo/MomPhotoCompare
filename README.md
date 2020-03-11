@@ -1,7 +1,11 @@
 # Compare Photos in Google Photos and iCloud
 
+All old iCloud photos were imported into Google Photos.
+
+tl;dr
+
 - In the end I simply downloaded all iCloud photos, and imported them into GooglePhotos (not original resolution)
-- iCloud Originals were iported into `/archive/media/photo/mom/iCloudPhotos-2019-08-24`
+- iCloud Originals were imported into `/archive/media/photo/mom/iCloudPhotos-2019-08-24`
 
 Comparing iCloud and GooglePhots Downloads, to hopefully consiladte them both, with no loss and no duplicates
 
